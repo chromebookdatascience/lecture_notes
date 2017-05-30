@@ -1,3 +1,12 @@
+---
+title: "Example"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
 # Google doc #
 ## What is google docs ##
 Google docs is a free Web-based application in which documents and spreadsheets can be created, edited and stored online.
@@ -8,4 +17,4 @@ Google docs is a free Web-based application in which documents and spreadsheets 
 ![screenshot 2017-05-30 at 2 27 37 pm](https://cloud.githubusercontent.com/assets/28161368/26598758/2310cee0-452b-11e7-8a83-561416c090cc.png)
 4. there you go 
 ![screenshot 2017-05-30 at 2 30 30 pm](https://cloud.githubusercontent.com/assets/28161368/26598941/aa1b45e6-452b-11e7-9ae7-c606f611c4ce.png)
-5. you can start a new document by clicking on 
+5. you can start a new document by add a new page 
