@@ -13,3 +13,5 @@ output:
 ## What is the star menu?
 
 The Chromebook start menu is located at the bottom left corner as shown in the image.
+
+![](https://cloud.githubusercontent.com/assets/19320775/26592016/7ec851c0-452d-11e7-86a8-832d66331abb.png)
