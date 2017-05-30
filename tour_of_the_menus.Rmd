@@ -7,3 +7,9 @@ output:
     fig_width: 5
     fig_height: 5
 ---
+
+# Chromebook Menu Tutorial
+
+## What is the star menu?
+
+The Chromebook start menu is located at the bottom left corner as shown in the image.
