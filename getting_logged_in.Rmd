@@ -16,4 +16,5 @@ In order to use a chromebook, we need to have a google account.  If you already 
 
   1. First we must get to the right webpage.  Type in the following URL:https://accounts.google.com/SignUp?hl=en, or you can search up "How to sign up for google."  Select the option titled "Create your Google account" highlighted in red below:
   
+![getting logged in 1](https://cloud.githubusercontent.com/assets/28197711/26593259/4c911c24-4518-11e7-887e-c42074b107fb.png)
 
