@@ -27,7 +27,9 @@ The bar below the Google logo helps the user browse the internet and find progro
 
 ![](https://cloud.githubusercontent.com/assets/19320775/26596209/ee1bc42c-453b-11e7-910a-70fc1a00d536.png)
 
-Clicking the All Apps button, will show all the applications downloaded.
+Clicking the All Apps button, will show all the applications downloaded. The applications can be navigated by clicking on the bars at the buttom to switch between pages. 
+
+![](https://cloud.githubusercontent.com/assets/19320775/26597037/a860f418-453e-11e7-9606-138d32ad66d2.png)
 
 
 
