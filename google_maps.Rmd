@@ -1,0 +1,32 @@
+---
+title: "Google Maps"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Google Maps Tutorial
+
+## What is Google Maps?
+
+Google Maps is a navigation GPS system which allows the user to find the ideal route from one location to another.
+It also displays estimated times of different navigation methods and basic traffic information.
+
+## How to use Google Maps
+
+* All section headers start with one `#`
+* All subheaders start with two `##`
+* All code chunks labeled with names
+* All files named in lower case with underscores separating this_file_name_is_good.Rmd
+* All files use the same header only title is changed
+* Use `rmarkdown::render` to render your documents before committing
+
+
+# Images
+
+* Please submit images as an issue to the "images" repo within this organization
+* Link to the image from there
+* 
