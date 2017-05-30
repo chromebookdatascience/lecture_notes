@@ -1,5 +1,6 @@
 ---
-title: "Example"
+title: tour_of_the_menus
+author: Daniel Kim
 output:
   github_document:
     toc: true
