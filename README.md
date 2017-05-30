@@ -35,7 +35,7 @@
 * Dropbox
 * Include how to use, how to export to word and pdf, how to share
 * How to use slack
-* How to Google
+* How to Google - claimed
  
 # Github
 * How to create an account
