@@ -1,5 +1,6 @@
 ---
 title: "Example"
+author: "Your name"
 output:
   github_document:
     toc: true
