@@ -16,6 +16,6 @@ Google drive is a storage platfrom. It enables us to store any documents and sli
 3. You will see picture like this ![screenshot 2017-05-30 at 1 02 50 pm](https://cloud.githubusercontent.com/assets/28161368/26595139/3fc273b0-451f-11e7-859b-88acb6192044.png)
 4. Click on
 ![screenshot 2017-05-30 at 1 09 45 pm](https://cloud.githubusercontent.com/assets/28161368/26595445/4493582c-4520-11e7-93dc-5651e4b099c1.png)
-5. 
+
 
 
