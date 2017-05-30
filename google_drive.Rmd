@@ -8,6 +8,9 @@ output:
     fig_height: 5
 ---
 # Google Drive #
+## what is Google Drive ##
+Google Drive is a file storage and synchronization service developed by Google. Google Drive allows users to store files in the cloud, synchronize files across devices, and share files. All actions will be stored here. You can edit and store slides and documents on Google Drive.
+## how to use Google Drive ##
 1. Go to google chrome
 2. Open google drive [google drive](https://www.google.com/drive/)
 3. You will see picture like this ![screenshot 2017-05-30 at 1 02 50 pm](https://cloud.githubusercontent.com/assets/28161368/26595139/3fc273b0-451f-11e7-859b-88acb6192044.png)
