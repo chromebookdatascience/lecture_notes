@@ -15,4 +15,7 @@ output:
 Google starts and ends with its core identity - to help people find what they're looking for on the web. What started off
 as a research project in Stanford evolved into a basement run startup and then a multibillion dollar technology conglomerate.
 
-While originally Google helped people find what they are looking for via a superior search engine, it now allows people to
+While originally Google helped people find what they are looking for via a superior search engine, it can now predict what
+people are looking for with terrifying accuracy using artificial intelligence.
+
+## How to use Google
