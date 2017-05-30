@@ -15,7 +15,10 @@ output:
 Google Maps is a navigation GPS system which allows the user to find the ideal route from one location to another.
 It also displays estimated times of different navigation methods and basic traffic information.
 
-## How to use Google Maps
+## Getting Started
+
+The first step to using Google Maps is finding it! You can access Google Maps by either searching "Google Maps"
+on Google.com or by clicking on the Google Maps icon in using a search query.
 
 * All section headers start with one `#`
 * All subheaders start with two `##`
