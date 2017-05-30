@@ -22,6 +22,8 @@ output:
 
 * Please submit images as an issue to the "images" repo within this organization
 * Link to the image from there
-* 
+
+
+
 
 
