@@ -9,7 +9,7 @@ output:
 ---
 # Google Drive #
 ## what is Google Drive ##
-Google Drive is a file storage and synchronization service developed by Google. Google Drive allows users to store files in the cloud, synchronize files across devices, and share files. All actions will be stored here. You can edit and store slides and documents on Google Drive.
+Google Drive is a file storage and synchronization service developed by Google. Google Drive allows users to store files in the cloud, synchronize files across devices, and share files. You can edit and store slides and documents on Google Drive.
 ## how to use Google Drive ##
 1. Go to google chrome
 2. Open google drive [google drive](https://www.google.com/drive/)
