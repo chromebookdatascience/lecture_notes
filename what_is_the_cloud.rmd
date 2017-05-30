@@ -1,5 +1,6 @@
 ---
 title: "What is the cloud?"
+author: Luke Zhu
 output: 
   github_document:
     toc: true
