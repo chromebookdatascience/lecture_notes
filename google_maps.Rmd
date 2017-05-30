@@ -37,16 +37,28 @@ Either method should generate the following image
 
 ![](https://cloud.githubusercontent.com/assets/14059912/26591338/31b8a530-4512-11e7-906c-6402d62788b7.png)
 
-* All section headers start with one `#`
-* All subheaders start with two `##`
-* All code chunks labeled with names
-* All files named in lower case with underscores separating this_file_name_is_good.Rmd
-* All files use the same header only title is changed
-* Use `rmarkdown::render` to render your documents before committing
+
+To begin, start with the target destination - the place you want to go to. Enter that in the purple box shown below
+
+![](https://cloud.githubusercontent.com/assets/14059912/26591795/a173f658-4513-11e7-8fef-6a3f60dfb7c2.png)
+
+Afterwards the following screen will appear
+
+![](https://cloud.githubusercontent.com/assets/14059912/26591797/a1f4e7c2-4513-11e7-9a07-bd243e0a43c8.png)
+
+Click on the circular directions button shown by the purple designator
+
+![](https://cloud.githubusercontent.com/assets/14059912/26591796/a175a552-4513-11e7-8769-fe819b405be8.png)
 
 
-# Images
+Google Maps will then ask for your starting location, where you currently are. If you have GPS enabled click on the My Location option, or if not then type in your starting address
 
-* Please submit images as an issue to the "images" repo within this organization
-* Link to the image from there
-* 
+![](https://cloud.githubusercontent.com/assets/14059912/26592490/c1771438-4515-11e7-8d74-7e6879602924.png)
+
+The app will calculate the optimum route, and then ask for your mode of transportation. The options are outlined in purple
+
+![](https://cloud.githubusercontent.com/assets/14059912/26592492/c1785492-4515-11e7-9f7b-73b471c6ac2b.png)
+
+For this example I will choose the walking option. A graphic representation of the best route will appear. You can change which route you take by click on the options shown by the purple box
+
+![](https://cloud.githubusercontent.com/assets/14059912/26592494/c17a1db8-4515-11e7-9782-1cc72636b94c.png)
