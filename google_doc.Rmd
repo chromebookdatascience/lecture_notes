@@ -5,4 +5,5 @@ Google docs is a free Web-based application in which documents and spreadsheets 
 1. Go to google chrome
 2. Type google doc in the google chrome like this:![screenshot 2017-05-30 at 2 25 06 pm](https://cloud.githubusercontent.com/assets/28161368/26598640/c426b6a6-452a-11e7-8b8a-e4cb030a038b.png)
 3. click on google docs
-4. 
+![screenshot 2017-05-30 at 2 27 37 pm](https://cloud.githubusercontent.com/assets/28161368/26598758/2310cee0-452b-11e7-8a83-561416c090cc.png)
+4. there you go 
