@@ -11,5 +11,5 @@ output:
 1. go to google chrome
 2. open google drive [google drive](https://www.google.com/drive/)
 3. you will see picture like this ![screenshot 2017-05-30 at 1 02 50 pm](https://cloud.githubusercontent.com/assets/28161368/26595139/3fc273b0-451f-11e7-859b-88acb6192044.png)
-4. clikc on *go to Google drive*
+4. clikc on *go to Google drive* 
 
