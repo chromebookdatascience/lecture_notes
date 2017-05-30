@@ -1,0 +1,15 @@
+---
+title: "What is a Chromebook"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+#Chromebook Tutorial
+
+##What is a Chromebook?
+
+A chromebook is a computer that runs Google's Chrome operating system.  This operating system works like other operating systems you might be used to, such as Apple OS or Windows.  It is essentially a version of the web browser, Google Chrome, and as a result is a lot lighter than other operating systems.  The advantages of having a chromebook lie in its easy maintenence, automatic updates, and fast start-up time.  We will be going into how to use your chromebook in the next tutorial: "Getting Started."
