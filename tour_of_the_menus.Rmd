@@ -13,10 +13,16 @@ output:
 ## What is the star menu?
 The start menu is the means by which the user and a computer interact. It provides a central launching point for programs and performing other tasks. The start menu supplies a list of programs for the user to launch and a way to browse the internet immediately. 
 
-## How to use it
+## Navigate the menu
 
 Among the icons on the left side of the Chromebook screen, the start menu is a white rimmed circle that is located at the bottom left corner as shown in the image.
 
 ![](https://cloud.githubusercontent.com/assets/19320775/26592016/7ec851c0-452d-11e7-86a8-832d66331abb.png)
+
+When the start menu button is pressed a pop-up window containing a number of applications will show up.
+
+![](https://cloud.githubusercontent.com/assets/19320775/26595092/337ec3ce-4538-11e7-87be-c8d2273891a6.png)
+
+
 
 
