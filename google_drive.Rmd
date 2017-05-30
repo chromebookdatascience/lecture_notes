@@ -1,0 +1,13 @@
+---
+title: "Example"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+# First step #
+1. go to google chrome
+2. open google drive [google drive]https://www.google.com/drive/
+3. you will see picture like this
