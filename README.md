@@ -2,7 +2,7 @@
 
 # Intro/set up
 * What is a chromebook? - done
-* Getting logged on
+* Getting logged on - done
  * w/ account
  * w/o account
 * How to set up wifi
