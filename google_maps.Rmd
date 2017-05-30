@@ -18,7 +18,17 @@ It also displays estimated times of different navigation methods and basic traff
 ## Getting Started
 
 The first step to using Google Maps is finding it! You can access Google Maps by either searching "Google Maps"
-on Google.com or by clicking on the Google Maps icon in using a search query. ![Here](https://cloud.githubusercontent.com/assets/14059912/26591146/9300253a-4511-11e7-8340-bf2e9385a2ea.png)
+on Google.com or by clicking on the Google Maps icon in using a search query. 
+
+![This is what it should look like when googling "Google Maps"](https://cloud.githubusercontent.com/assets/14059912/26591146/9300253a-4511-11e7-8340-bf2e9385a2ea.png)
+
+
+![This is what it should look like when using the Chromebook search option and searching "Google Maps"](https://cloud.githubusercontent.com/assets/14059912/26591337/319aba8e-4512-11e7-9aee-413bd8ad3d32.png)
+
+
+Either method should generate the following image
+
+![](https://cloud.githubusercontent.com/assets/14059912/26591338/31b8a530-4512-11e7-906c-6402d62788b7.png)
 
 * All section headers start with one `#`
 * All subheaders start with two `##`
