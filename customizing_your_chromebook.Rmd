@@ -1,0 +1,45 @@
+---
+title: "Customizing Your Chromebook"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Customizing Your Chromebook
+
+  Now that you've gotten access to your chromebook, it's time to make it yours.  There are a number of personalization options available to you, lets go through some of them.
+  
+# Languages
+
+  You may be more comfortable working in another language.  If so, you can change your chromebook's language to match your own.  Here's how you do that:
+  1. Go to the bottom left corner of the screen, as shown in the picture.  You will see a tool bar.  Click on it and a menu will pop up.
+  
+![screenshot 2017-05-30 at 2 10 20 pm](https://cloud.githubusercontent.com/assets/28197711/26598067/0031c5e8-4542-11e7-9687-afe9d67163f9.png)
+
+  2. In the menu, find a button labelled settings.  Click on it and another window will pop up.
+
+![screenshot 2017-05-30 at 2 15 28 pm](https://cloud.githubusercontent.com/assets/28197711/26598169/767188ba-4542-11e7-8fb4-09366b6842f5.png)
+
+  3. In this window, scroll down until you see some blue text saying "Show advanced settings..."  Click on it to reveal more settings.
+  
+![customize 3](https://cloud.githubusercontent.com/assets/28197711/26598655/f93ff406-4543-11e7-8c0d-cd5214033dd4.png)
+
+  4. Scroll down to the Languages section of options as shown below.  Click on the button labeled "Language and input settings."  A new menu will pop up.
+  
+![customize 4](https://cloud.githubusercontent.com/assets/28197711/26598824/6ff6b008-4544-11e7-8e56-2abcf02d131b.png)
+
+  5. In the new menu, click on the add button.  Find your language of choice (ex. Spanish)then select it.
+  
+![screenshot 2017-05-30 at 2 32 50 pm](https://cloud.githubusercontent.com/assets/28197711/26598976/ee587724-4544-11e7-9c93-0f1045b3354f.png)
+![screenshot 2017-05-30 at 2 36 02 pm](https://cloud.githubusercontent.com/assets/28197711/26599087/62c803c2-4545-11e7-9555-b2d62c96d05c.png)
+
+  6. When you're finished, click done.  Next click on the button labeled "Display Google Chrome OS in this language."  You will have to restart the system for the changes to occur, but from then on, your computer will display the language of your choice.  Well done!
+  
+![screenshot 2017-05-30 at 2 39 08 pm](https://cloud.githubusercontent.com/assets/28197711/26599275/094c6d14-4546-11e7-84b9-5ba9508693be.png)
+
+# The Background
+
