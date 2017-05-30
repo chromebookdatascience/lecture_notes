@@ -1,0 +1,6 @@
+# Google doc #
+## What is google docs ##
+Google docs is a free Web-based application in which documents and spreadsheets can be created, edited and stored online.
+## How to use google docs ##
+1. Go to google chrome
+2. Type google doc in the google chrome like this:
