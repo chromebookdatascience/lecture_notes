@@ -1,5 +1,5 @@
 ---
-title: "Getting Logged In
+title: "Getting Logged In"
 author: "Walter"
 output:
   github_document:
