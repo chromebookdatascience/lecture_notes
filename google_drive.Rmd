@@ -9,7 +9,7 @@ output:
 ---
 # Google Drive #
 ## what is Google Drive ##
-Google drive is a storage platfrom. It enables us to store any documents and slides online. Also, it can help us do work together on the same docuemts or slides at the same time. You can edit and store slides and documents on Google Drive.
+Google drive is a storage platform. It enables us to store any documents and slides online. Also, it can help us do work together on the same docuemts or slides at the same time. You can edit and store slides and documents on Google Drive.
 ## how to use Google Drive ##
 1. Go to google chrome
 2. Open  [google drive](https://www.google.com/drive/)
