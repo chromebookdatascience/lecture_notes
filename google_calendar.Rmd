@@ -1,0 +1,20 @@
+---
+title: google calendar
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Google Calendar
+
+## What is Google Calendar?
+
+Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities.
+Calendar is designed for teams, so it’s easy to share your schedule with others and create multiple calendars that you and your team can use together.
+
+## Getting Started
+
