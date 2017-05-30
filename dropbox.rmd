@@ -1,0 +1,40 @@
+---
+title: "Dropbox"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What is Dropbox?
+Dropbox is a file hosting service that offers cloud storage and file synchronization. It creates a special folder on the user's computer, and all content inside that folder is synchronized with Dropbox's servers and all other computers and devices with the user's Dropbox account. Dropbox offers a free tier of 2 GB of storage and premium tiers up to unlimited backup and storage. 
+![](https://cloud.githubusercontent.com/assets/21327023/26598816/69c9c094-4544-11e7-93dd-b5ee66fb3331.png)
+
+# Getting Started
+1. Install the Dropbox application and filesystem addon through Google's Web Store. 
+  a. Click on menu or the search button on the keyboard
+  ![](https://cloud.githubusercontent.com/assets/21327023/26599345/54ced2f4-4546-11e7-9ade-4cb48ac92f20.png)
+  b. Select the web store
+  ![](https://cloud.githubusercontent.com/assets/21327023/26599442/a09bb4ae-4546-11e7-80b6-6fad392d53ca.png)
+  c. In the web store, search for Dropbox
+  d. Scroll down to "Apps" and click the Dropbox's "ADD TO CHROME" button
+  e. Scroll down and find "Filesystem for Dropbox" and click on its "ADD TO CHROME" button
+  ![](https://cloud.githubusercontent.com/assets/19320775/26598947/d06a89be-4544-11e7-87f4-1ce02f07be34.png)
+2. Sign in or create a new account
+  a. If you are new to Dropbox, create an account
+    A. Open the menu and open the Dropbox application
+    ![](https://cloud.githubusercontent.com/assets/21327023/26599591/1a035f22-4547-11e7-99dd-1667a881e303.png)
+    B. Register a new account
+  b. If you already have an account, sign in
+  c. Dropbox can be accessed through the web browser by going to dropbox.com at any time
+3. Set up the filesystem addon
+  a. From the menu, open the Dropbox filesystem addon
+  ![](https://cloud.githubusercontent.com/assets/21327023/26599592/1a06013c-4547-11e7-98df-1b5f33744202.png)
+  b. In the popup window, click on the "Mount" button and sign into your Dropbox account
+  ![](https://cloud.githubusercontent.com/assets/21327023/26599634/4942c5f2-4547-11e7-84cb-93aab27dbb79.png)
+  c. Click on the "Allow" button
+
+The Files application should have a new Dropbox folder underneath the Downloads folder. Now you can easily drag and drop files from your downloads folder or Google Drive to the Dropbox folder, and vice versa. 
+![]()
