@@ -13,8 +13,7 @@ output:
 
 ## Data are complex
 
-The definition of Data is not as simple as a mere spreadsheet. Data refers to a wide assortment of
-representations of different variables and comes in many forms.
+The definition of Data is not as simple as a mere spreadsheet. Data refers to representations of different variables and comes in many forms.
 
 ## Forms of data
 1. CSV files
@@ -23,6 +22,13 @@ representations of different variables and comes in many forms.
 4. Miscellaneous
 
 The above, especially the first three options, lists the most popular forms of data that you will come in contact with.
-Keep in mind that a lot of the data you will encounter will be of the fourth category. This is the most difficult form to work
-with and thus will be explained in a separate document.
+Keep in mind that a lot of the data you will encounter will be of the fourth category. This is the most difficult form to 
+work with and thus will be explained in a separate document.
 
+## CSV Files
+
+CSV files, also known as comma separated values, are plain text documents that store tabular 
+data. Tabular data includes numbers or text. The main purpose of csv files are to provide easy
+to read data for both computers and humans.
+
+While csv implies the separation of values using commas, unfortunately there is no standard 
