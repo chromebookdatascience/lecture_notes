@@ -1,0 +1,13 @@
+---
+title: "What is a Chromebook"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+What is a Chromebook?
+
+A chromebook is a computer that runs Google's Chrome operating system.  This operating system works like other operating systems you might be used to, such as Apple OS or Windows.  It is a more advanced version of
