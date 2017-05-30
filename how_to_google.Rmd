@@ -8,7 +8,11 @@ output:
     fig_height: 5
 ---
 
-# What is Google
+# Google Tutorial
+
+## What is Google
 
 Google starts and ends with its core identity - to help people find what they're looking for on the web. What started off
 as a research project in Stanford evolved into a basement run startup and then a multibillion dollar technology conglomerate.
+
+While originally Google helped people find what they are looking for via a superior search engine, it now allows people to
