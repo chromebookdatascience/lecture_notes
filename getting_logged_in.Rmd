@@ -18,3 +18,5 @@ In order to use a chromebook, we need to have a google account.  If you already 
   
 ![getting logged in 1](https://cloud.githubusercontent.com/assets/28197711/26593259/4c911c24-4518-11e7-887e-c42074b107fb.png)
 
+  That should take you to the following page and step 2.
+  
