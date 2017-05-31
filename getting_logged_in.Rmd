@@ -25,7 +25,7 @@ In order to use a chromebook, we need two things.  The first, is access to wifi.
 
   2. Now we need to fill in some information.  First your name.  Next, we need a username.  Assuming you plan on using this email in the future, use a professional name, such as a combination of your first and last name.  The next step is a password.  For security, choose one that is different from your other passwords.  Enter it again in the next section to confirm.  Finally we need your birthday.  There are some extra options, but those can be changed later as needed.
 
-![create an account 3](https://cloud.githubusercontent.com/assets/28197711/26596889/3b7eb484-453e-11e7-89eb-38a01d4d06a5.png)
+![create an account 3](https://cloud.githubusercontent.com/assets/28197711/26643649/04a08768-4600-11e7-8973-5d89355c6fd2.png)
 
 Click next to continue.
 
