@@ -10,6 +10,12 @@ output:
 
 # Google Maps Tutorial
 
+### Objectives
+At the end you will know how to:
+1. Understand what Google Maps is supposed to do
+2. Find the best route to get from one place to another
+3. Use your mode of transportation to predict how long the journey will take you
+
 ## What is Google Maps?
 
 Google Maps is a navigation GPS system which allows the user to find the ideal route from one location to another.
