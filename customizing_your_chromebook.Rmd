@@ -20,9 +20,9 @@ output:
   
 ![screenshot 2017-05-31 at 2](https://cloud.githubusercontent.com/assets/28197711/26648773/93a80330-4611-11e7-8de6-b740610c052c.png)
 
-  2. In the menu, find a button labelled settings.  Click on it and another window will pop up.
+  2. In the menu, find a button that looks like a gear.  Click on it and another window will pop up.
 
-![screenshot 2017-05-30 at 2 15 28 pm](https://cloud.githubusercontent.com/assets/28197711/26598169/767188ba-4542-11e7-8fb4-09366b6842f5.png)
+![screenshot 2017-05-31 at 5](https://cloud.githubusercontent.com/assets/28197711/26655663/ba83e11e-4629-11e7-946a-387bf4b694e0.png)
 
   3. In this window, scroll down until you see some blue text saying "Show advanced settings..."  Click on it to reveal more settings.
   
