@@ -30,7 +30,7 @@ output:
 
   4. Scroll down to the Languages section of options as shown below.  Click on the button labeled "Language and input settings."  A new menu will pop up.
   
-![customize 4](https://cloud.githubusercontent.com/assets/28197711/26598824/6ff6b008-4544-11e7-8e56-2abcf02d131b.png)
+![screenshot 2017-05-31 at 6](https://cloud.githubusercontent.com/assets/28197711/26656074/9c0fb184-462b-11e7-9d64-25e378473fc6.png)
 
   5. In the new menu, click on the add button.  Find your language of choice (ex. Spanish)then select it.
   
