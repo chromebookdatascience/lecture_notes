@@ -22,11 +22,11 @@ output:
 
   2. In the menu, find a button that looks like a gear.  Click on it and another window will pop up.
 
-![screenshot 2017-05-31 at 5](https://cloud.githubusercontent.com/assets/28197711/26655663/ba83e11e-4629-11e7-946a-387bf4b694e0.png)
+![screenshot 2017-05-31 at 5](https://cloud.githubusercontent.com/assets/28197711/26655770/381a5130-462a-11e7-93d5-de069852d819.png)
 
   3. In this window, scroll down until you see some blue text saying "Show advanced settings..."  Click on it to reveal more settings.
   
-![customize 3](https://cloud.githubusercontent.com/assets/28197711/26598655/f93ff406-4543-11e7-8c0d-cd5214033dd4.png)
+![screenshot 2017-05-31 at 55](https://cloud.githubusercontent.com/assets/28197711/26655923/dd080fb6-462a-11e7-99dd-bc24b661263e.png)
 
   4. Scroll down to the Languages section of options as shown below.  Click on the button labeled "Language and input settings."  A new menu will pop up.
   
