@@ -2,12 +2,12 @@
 
 # Intro/set up
 * What is a chromebook? - done
-* Getting logged on - done
+* Getting logged on - claimed
  * w/ account
  * w/o account
 * How to set up wifi
 * Tour of menus - claimed 
-* Personalization
+* Personalization - claimed
 * Where are the files stored?
  * Google drive
  * Local drive
