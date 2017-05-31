@@ -34,12 +34,13 @@ output:
 
   5. In the new menu, click on the add button.  Find your language of choice (ex. Spanish)then select it.
   
-![screenshot 2017-05-30 at 2 32 50 pm](https://cloud.githubusercontent.com/assets/28197711/26598976/ee587724-4544-11e7-9c93-0f1045b3354f.png)
-![screenshot 2017-05-30 at 2 36 02 pm](https://cloud.githubusercontent.com/assets/28197711/26599087/62c803c2-4545-11e7-9555-b2d62c96d05c.png)
+![customize5](https://cloud.githubusercontent.com/assets/28197711/26656313/88c06fa0-462c-11e7-898e-dfdc40746110.png)
+
+![screenshot 2017-05-31 at 6 07 11 pm](https://cloud.githubusercontent.com/assets/28197711/26656350/a91afdb0-462c-11e7-9f3c-41b141113242.png)
 
   6. When you're finished, click done.  Next click on the button labeled "Display Google Chrome OS in this language."  You will have to restart the system for the changes to occur, but from then on, your computer will display the language of your choice.  Well done!
   
-![screenshot 2017-05-30 at 2 39 08 pm](https://cloud.githubusercontent.com/assets/28197711/26599275/094c6d14-4546-11e7-84b9-5ba9508693be.png)
+![customize7](https://cloud.githubusercontent.com/assets/28197711/26656360/b5544000-462c-11e7-847e-76e3d35cf7e2.png)
 
 # The Background
 
