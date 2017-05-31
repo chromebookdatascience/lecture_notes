@@ -18,7 +18,7 @@ output:
   You may be more comfortable working in another language.  If so, you can change your chromebook's language to match your own.  Here's how you do that:
   1. Go to the bottom left corner of the screen, as shown in the picture.  You will see a tool bar.  Click on it and a menu will pop up.
   
-![screenshot 2017-05-30 at 2 10 20 pm](https://cloud.githubusercontent.com/assets/28197711/26598067/0031c5e8-4542-11e7-9687-afe9d67163f9.png)
+![screenshot 2017-05-31 at 2](https://cloud.githubusercontent.com/assets/28197711/26648773/93a80330-4611-11e7-8de6-b740610c052c.png)
 
   2. In the menu, find a button labelled settings.  Click on it and another window will pop up.
 
