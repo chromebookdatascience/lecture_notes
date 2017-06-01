@@ -11,7 +11,7 @@ output:
 
 # Chromebook Menu Tutorial
 
-## What is the star menu?
+## What is the start menu?
 The start menu is the means by which the user and a computer interact. It provides a central launching point for programs and performing other tasks. The start menu supplies a list of programs for the user to launch and a way to browse the internet immediately. 
 
 ## Navigate the menu
