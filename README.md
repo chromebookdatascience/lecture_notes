@@ -6,7 +6,7 @@
  * w/ account
  * w/o account
 * How to set up wifi - claimed
-* Tour of menus - done reviewed by Walter, see issue
+* Tour of menus - finished
 * Personalization - done
 * Where are the files stored?
  * Google drive
