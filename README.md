@@ -5,7 +5,7 @@
 * Getting logged on - done
  * w/ account
  * w/o account
-* How to set up wifi
+* How to set up wifi - claimed
 * Tour of menus - done reviewed by Walter, see issue
 * Personalization - done
 * Where are the files stored?
