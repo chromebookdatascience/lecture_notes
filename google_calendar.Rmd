@@ -11,11 +11,27 @@ output:
 
 # Google Calendar
 
+### Objectives
+At the end you will know how to:
+1. Understand what Google Calendar is used for.
+2. Schedule events.
+3. Add reminders.
+4. Share and view.
+5. Create a team calendar.
+
 ## What is Google Calendar?
 
 Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities.
-Calendar is designed for teams, so it’s easy to share your schedule with others and create multiple calendars that you and your team can use together.
+Google Calendar is designed for teams, so it’s easy to share your schedule with others and create multiple calendars that you and your team can use together.
 
 ## Getting Started
 
-You can access Google calendar by searching "Google Calendar" on the internet or by clicking on the lower left hand corner and searching for "Google Calendar". 
+You can access Google calendar by searching "Google Calendar" on the Google.com or by clicking on the start menu located on the lower left hand corner and searching for "Google Calendar".
+
+This is what it should look like when "Google Calendar" is typed in Google.com
+
+![Result from searching "Google Calendar" in Google.com](https://cloud.githubusercontent.com/assets/19320775/26696913/662fe760-46de-11e7-993f-38dc2c5474b2.png)
+
+This is what it should look like when searching "Google Calendar" in the start menu
+
+![Searching "Google Calendar" in Start Menu](https://cloud.githubusercontent.com/assets/19320775/26697215/32db7c52-46df-11e7-80fb-e3736e6739be.png)
