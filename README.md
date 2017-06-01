@@ -2,12 +2,12 @@
 
 # Intro/set up
 * What is a chromebook? - done
-* Getting logged on - claimed
+* Getting logged on - done
  * w/ account
  * w/o account
 * How to set up wifi
-* Tour of menus - claimed 
-* Personalization - claimed
+* Tour of menus - done reviewed by Walter, see issue
+* Personalization - done
 * Where are the files stored?
  * Google drive
  * Local drive
@@ -21,7 +21,7 @@
 * Ethics for data science
  
 # Google and the cloud
-* What is the cloud? - claimed
+* What is the cloud? - reviewed
 * How to get help
 * Google drive - claimed
 * Google sheets
