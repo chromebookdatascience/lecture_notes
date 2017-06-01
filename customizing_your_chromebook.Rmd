@@ -81,7 +81,7 @@ You may have noticed the little frog that's been hiding in the corner of my scre
 
   2. In the section called "People" click on the picture.
   
-![screenshot 2017-05-31 at 8](https://cloud.githubusercontent.com/assets/28197711/26659387/467a5e6e-463e-11e7-9d5a-3ebcbec89cac.png)
+![screenshot 2017-05-31 at 8](https://cloud.githubusercontent.com/assets/28197711/26659715/ba6e9964-4640-11e7-910b-28cb289bcdbd.png)
 
   3. Now we have a set of options.  You can choose any of the provided pictures or your own.  Click on the camera button to take a picture of something using your webcam.  Click on the folder button for any other pictures that you may have.  This is also how you access pictures downloaded from the internet.  When you've found the picture of choice.  Click it, then click done.
   
