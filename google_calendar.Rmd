@@ -35,3 +35,9 @@ This is what it should look like when "Google Calendar" is typed in Google.com
 This is what it should look like when searching "Google Calendar" in the start menu
 
 ![Searching "Google Calendar" in Start Menu](https://cloud.githubusercontent.com/assets/19320775/26697215/32db7c52-46df-11e7-80fb-e3736e6739be.png)
+
+Both options should lead to a screen similar to this
+
+![Google Calendar screen](https://cloud.githubusercontent.com/assets/19320775/26698856/85c6102a-46e5-11e7-80e7-bfe2b62f5e6c.png)
+
+## Schedule events
