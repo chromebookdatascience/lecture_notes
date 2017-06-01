@@ -17,19 +17,19 @@ The start menu is the means by which the user and a computer interact. It provid
 ## Navigating the menu
 
 The start menu is a white rimmed circle that is located at the bottom left corner as shown in the image.
-![](https://cloud.githubusercontent.com/assets/21327023/26599345/54ced2f4-4546-11e7-9ade-4cb48ac92f20.png)
+![Arrow pointing at Start Menu](https://cloud.githubusercontent.com/assets/21327023/26599345/54ced2f4-4546-11e7-9ade-4cb48ac92f20.png)
 
 When the start menu button is pressed a pop-up window containing a number of applications will show up.
 
-![](https://cloud.githubusercontent.com/assets/19320775/26595092/337ec3ce-4538-11e7-87be-c8d2273891a6.png)
+![Pop-up screen after start menu is pressed](https://cloud.githubusercontent.com/assets/19320775/26595092/337ec3ce-4538-11e7-87be-c8d2273891a6.png)
 
 The bar below the Google logo helps the user browse the internet and find progroms that were installed.
 
-![](https://cloud.githubusercontent.com/assets/19320775/26596209/ee1bc42c-453b-11e7-910a-70fc1a00d536.png)
+![Search tool use example](https://cloud.githubusercontent.com/assets/19320775/26596209/ee1bc42c-453b-11e7-910a-70fc1a00d536.png)
 
 Clicking the All Apps button, will show all the applications downloaded. The applications can be navigated by clicking on the bars at the buttom to switch between pages. 
 
-![](https://cloud.githubusercontent.com/assets/19320775/26597037/a860f418-453e-11e7-9606-138d32ad66d2.png)
+![When All Apps button is pressed](https://cloud.githubusercontent.com/assets/19320775/26597037/a860f418-453e-11e7-9606-138d32ad66d2.png)
 
 
 
