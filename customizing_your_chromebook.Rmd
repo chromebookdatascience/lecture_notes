@@ -75,4 +75,16 @@ Great!  Now we've got a background that is easy on the eyes.  Don't underestimat
 
 You may have noticed the little frog that's been hiding in the corner of my screenshots.  That is my account picture (I think frogs are cute.)  When you first sign in to your chromebook, you will be asked to choose an account picture.  If you've already found one that you like, then great!  If you would like to change it to something else, here's how to do it:
 
+  1. We're going back down to settings again.
   
+![screenshot 2017-05-31 at 2](https://cloud.githubusercontent.com/assets/28197711/26648773/93a80330-4611-11e7-8de6-b740610c052c.png)
+
+  2. In the section called "People" click on the picture.
+  
+![screenshot 2017-05-31 at 8](https://cloud.githubusercontent.com/assets/28197711/26659387/467a5e6e-463e-11e7-9d5a-3ebcbec89cac.png)
+
+  3. Now we have a set of options.  You can choose any of the provided pictures or your own.  Click on the camera button to take a picture of something using your webcam.  Click on the folder button for any other pictures that you may have.  This is also how you access pictures downloaded from the internet.  When you've found the picture of choice.  Click it, then click done.
+  
+![8](https://cloud.githubusercontent.com/assets/28197711/26659566/a205d58c-463f-11e7-9ad7-1212c18a3d84.png)
+
+Excellent.  There are plenty of other settings you can explore in the menues.  Try them out sometime.  And now that you know how to change your wallpaper and image, as well as how to set your language, you can change all of these again later as needed.
