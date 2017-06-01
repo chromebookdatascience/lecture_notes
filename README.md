@@ -27,7 +27,7 @@
 * Google sheets
 * Google slides
 * Google docs
-* Google calendar
+* Google calendar - claimed
 * Google maps? - done @alee156
 * Google hangouts
 * Youtube for tutorials
