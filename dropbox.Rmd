@@ -23,12 +23,12 @@ Dropbox is a file hosting service that offers cloud storage and file synchroniza
   e. Scroll down and find "Filesystem for Dropbox" and click on its "ADD TO CHROME" button  
   ![Where to find Dropbox in the web store](https://cloud.githubusercontent.com/assets/19320775/26598947/d06a89be-4544-11e7-87f4-1ce02f07be34.png)  
 2. Sign in or create a new account  
-  a. If you are new to Dropbox, create an account  
-    i. Open the menu and open the Dropbox application  
-    ![Dropbox icon in menu](https://cloud.githubusercontent.com/assets/21327023/26599591/1a035f22-4547-11e7-99dd-1667a881e303.png)  
-    ii. Register a new account  
-  b. If you already have an account, sign in  
-  c. Dropbox can be accessed through the web browser by going to dropbox.com at any time  
+    1. If you are new to Dropbox, create an account  
+        1. Open the menu and open the Dropbox application  
+        ![Dropbox icon in menu](https://cloud.githubusercontent.com/assets/21327023/26599591/1a035f22-4547-11e7-99dd-1667a881e303.png)  
+        2. Register a new account  
+    2. If you already have an account, sign in  
+    3. Dropbox can be accessed through the web browser by going to dropbox.com at any time  
 3. Set up the filesystem addon  
   a. From the menu, open the Dropbox filesystem addon  
   ![Filesystem addon icon in menu](https://cloud.githubusercontent.com/assets/21327023/26599592/1a06013c-4547-11e7-98df-1b5f33744202.png)  
@@ -36,5 +36,13 @@ Dropbox is a file hosting service that offers cloud storage and file synchroniza
   ![Mount Dropbox to local hard drive](https://cloud.githubusercontent.com/assets/21327023/26599634/4942c5f2-4547-11e7-84cb-93aab27dbb79.png)  
   c. Click on the "Allow" button  
 
-The Files application should have a new Dropbox folder underneath the Downloads folder. Now you can easily drag and drop files from your downloads folder or Google Drive to the Dropbox folder, and vice versa. 
+The Files application should have a new Dropbox folder underneath the Downloads folder. Now you can easily drag and drop files from your downloads folder or Google Drive to the Dropbox folder, and vice versa. Or, you can two-finger click on the mousepad and copy & paste the file to the Dropbox folder, and vice versa.
 ![Location of Dropbox folder in Files app](https://cloud.githubusercontent.com/assets/21327023/26667151/c64342c2-4671-11e7-9d41-9b8cb693677a.png)
+
+# Lesson Goals
+By the end of the lesson, you should know:
+  1. What Dropbox is  
+  2. Register a Dropbox account  
+  3. How to install Dropbox  
+  4. How to access Dropbox, through the web browser or file manager  
+  5. How to move files between Google Drive, Downloads folder, and the mounted Dropbox folder
