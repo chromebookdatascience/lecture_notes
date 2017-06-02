@@ -21,7 +21,7 @@
 * Ethics for data science
  
 # Google and the cloud
-* What is the cloud? - reviewed
+* What is the cloud? - done and reviewed by who?
 * How to get help
 * Google drive - claimed
 * Google sheets
