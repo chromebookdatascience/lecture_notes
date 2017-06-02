@@ -32,7 +32,7 @@
 * Google hangouts
 * Youtube for tutorials
 * Gmail/Inbox
-* Dropbox
+* Dropbox - claimed
 * Include how to use, how to export to word and pdf, how to share
 * How to use slack
 * How to Google - claimed
