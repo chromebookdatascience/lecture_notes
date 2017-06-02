@@ -1,0 +1,25 @@
+---
+title: "How to set up Wifi"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+#How to set up Wifi
+
+##What is Wifi?
+  Wifi stands for Wireless Fidelity.  A Wifi "hotspot" is the location of a router, a machine that can connect to the internet.  It emits radio waves to allow other nearby devices to connect to the internet.  And, as its name suggests, this is all done wirelessly.
+
+![image](https://cloud.githubusercontent.com/assets/28197711/26698079/6c841614-46e2-11e7-8820-2fabcf8e98f8.png)
+
+##How does a Chromebook connect to Wifi?
+  Chromebooks, like most modern laptops, have built in wireless adapters that can connect to Wifi.  Assuming your device is close enough to a hotspot, your Chromebook will be able to automatically pick up the signal.  Each source of Wifi is called a network.  When your Chromebook detects a network, you can then connect your Chromebook to the network and then can access the internet.  I will be going a little more in depth on how to do this in the next section.
+  
+##A step by step tutorial for connecting to Wifi
+
+  1. Locate a source of Wifi.  Do you remember where Wifi comes from?  That's right, from a router.  These are not easy to find, and some networks are for private use only.  However, some businesses and other locations offer public Wifi.  Alternatively, you can use your own router.  How do you know where Wifi hotspots are?  That's simple, just open your chromebook and look in the bottom right corner:
+  
