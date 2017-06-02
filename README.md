@@ -19,6 +19,7 @@
 * Working offline
 * Internet safety
 * Ethics for data science
+* Updating your Chromebook
  
 # Google and the cloud
 * What is the cloud? - done and reviewed by @alee156
