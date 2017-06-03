@@ -4,7 +4,6 @@
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-
 | Done | What is a chromebook? | |
 | Done | Getting logged on w/ account & w/o account | |
 | Claimed | How to set up wifi | |
