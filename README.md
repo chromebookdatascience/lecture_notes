@@ -13,7 +13,7 @@
  * Local drive
 * Apps (Circle menu)
 * Common errors
-* What is a chrome app
+* What is a chrome app - claimed
 * Suggested apps
  * Stackedit
 * Working offline
