@@ -3,18 +3,18 @@
 # Intro/set up
 * What is a chromebook? - done
 * Getting logged on - done
- * w/ account
- * w/o account
+ - w/ account
+ - w/o account
 * How to set up wifi - claimed
 * Tour of menus - finished
 * Personalization - done
-* Where are the files stored?
- * Google drive
- * Local drive
+* Where are the files stored? - claimed
+ - Google drive
+ - Local drive
 * Apps (Circle menu)
 * Common errors
 * What is a chrome app - claimed
-* Suggested apps
+* Suggested apps - claimed
  * Stackedit
 * Working offline
 * Internet safety
