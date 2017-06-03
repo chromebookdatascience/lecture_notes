@@ -41,3 +41,10 @@ Both options should lead to a screen similar to this
 ![Google Calendar screen](https://cloud.githubusercontent.com/assets/19320775/26698856/85c6102a-46e5-11e7-80e7-bfe2b62f5e6c.png)
 
 ## Schedule events
+Start by clicking on the "Create" button 
+
+![Create button](https://cloud.githubusercontent.com/assets/19320775/26749773/d7fe7ad0-47df-11e7-854f-b1c6fa6e5a5f.png)
+
+After pressing the "Create" button a new page will be loaded where you can name the event, assign the event start time and end time and date, location, description, and additional customizable features. After inputting all the information the event can be created by pressing the "Save" button at the top.
+
+![Event settings](https://cloud.githubusercontent.com/assets/19320775/26749822/744b8008-47e1-11e7-89e1-cf5524f4eb07.png)
