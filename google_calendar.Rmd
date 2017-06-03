@@ -48,3 +48,16 @@ Start by clicking on the "Create" button
 After pressing the "Create" button a new page will be loaded where you can name the event, assign the event start time and end time and date, location, description, and additional customizable features. After inputting all the information the event can be created by pressing the "Save" button at the top.
 
 ![Event settings](https://cloud.githubusercontent.com/assets/19320775/26749822/744b8008-47e1-11e7-89e1-cf5524f4eb07.png)
+
+## Adding reminders
+After creating the event you can click on the event in the calendar and press the "Edit event" button as shown below
+
+![Pressing on calendar event](https://cloud.githubusercontent.com/assets/19320775/26750070/b84c39ea-47e7-11e7-8494-cd11c9ae0bd3.png)
+
+In the notification section, choose how you want to be reminded about the event and add multiple notifications by clicking on "Add Notification" and remove a notification by clicking on the "x" sign next to the notification you want to remove.
+
+![Notification section](https://cloud.githubusercontent.com/assets/19320775/26750117/bf0e613a-47e8-11e7-9156-d7961fe9118c.png)
+
+## Share and View
+
+
