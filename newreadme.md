@@ -1,6 +1,7 @@
 # Lecture note curriculum
 
-# Intro/set up
+
+## Intro/set up
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
@@ -19,101 +20,108 @@
 | Not Claimed | Ethics for data science | |
 | Not Claimed | Updating your Chromebook | |
  
-# Google and the cloud
-* What is the cloud? - done and reviewed by @alee156
-* How to get help
-* Google drive - claimed
-* Google sheets
-* Google slides
-* Google docs
-* Google calendar - done
-* Google maps? - done @alee156 reviewed by @ykim160
-* Google hangouts
-* Youtube for tutorials
-* Gmail/Inbox
-* Dropbox - done
-* Include how to use, how to export to word and pdf, how to share
-* How to use slack
-* How to Google - claimed
+## Google and the cloud
+
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Done and reviewed | What is the cloud? | |
+| Not Claimed | How to get help | |
+| Claimed | Google Drive | |
+| Not Claimed | Google Sheets | |
+| Not Claimed | Google Slides | |
+| Not Claimed | Google Docs | |
+| Not Claimed | Google Calendar | |
+| Done and Reviewed | Google Maps | |
+| Not Claimed | Google Hangouts | |
+| Not Claimed | Youtube | |
+| Not Claimed | Gmail/Inbox | |
+| Not Claimed | Dropbox | |
+| Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
+| Not Claimed | Slack | |
+| Claimed | How to Google | |
  
-# Github
-* How to create an account
-* Version control
-* How to work with website
-* What is a repository
-* Create repository
-* Edit repository
-* Make an issue
-* How to search for code
-* Public vs private
  
-# R
-* What is R?
-* What is it used for?
-* How to from chromebook
-* Digital ocean
-* Tour of R studio
-* Getting data in
-* Add on packages
-* What are they
-* How to install
-* Version
-* R scripts
-* What are they
-* How do they run
-* R markdown
-* What is it
-* How to run
-* Reports/presentation
-* Creating pdfs
-* How to connect to github
-* Saving data to google sheets
+## Github
+
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | How to create an account | |
+| Not Claimed | Version control | |
+| Not Claimed | How to work with website | |
+| Not Claimed | What is a repository | |
+| Not Claimed | Create repository | |
+| Not Claimed | Edit repository | |
+| Not Claimed | Make an issue | |
+| Not Claimed | How to search for code | |
+| Not Claimed | Public vs private repos | |
  
-# Data cleaning/Viz
-* What is data?
-* Crazy internet files
-* Incaps
-* CSvs
-* Excel files
-* Where will it be
- * Database online
- * Web pages that need to be scraped
- * Files you are sent
-* Data cleaning process
- * Messy data -> tidy data
-* How to find R packages for different data types
-* Google “#rstats.cetfile”
-* Main cleaning packages
-* Readr
-* Rvest
-* Rdrop2
-* Googlesheets
-* Dplyr
-* Tidyr
-* Xml2
-* Http
-* Stringr
-* Lubridate
-* Viz
-* Ggplot
-* Plotly
-* D3 plugin
-* gganimate
-* How to make plots
-* Pushing/pulling github
-* Own repo
-* Others
-* Common errors/conflicts
  
-# Reporting
-* Daily report in Rmarkdown
-* What were the goals
-* What I did
-* What are the goals for tomorrow
-* Weekly report
-* Same
+## R
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | What is R | |
+| Not Claimed | What is R used for? | |
+| Not Claimed | How to run R on chromebook | |
+| Not Claimed | Digital Ocean | |
+| Not Claimed | Tour of R Studio | |
+| Not Claimed | Getting data in | |
+| Not Claimed | Add on packages | |
+| Not Claimed | R Markdown | |
+| Not Claimed | R Reports | |
+| Not Claimed | Creating pdfs with R | |
+| Not Claimed | How to connect to Github | |
+| Not Claimed | Exporting R data to Google Sheets | |
  
-# Extras
-* IPython notebooks
-* Python
+ 
+## Data cleaning/Viz
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | What is data? | |
+| Not Claimed | Crazy internet files | |
+| Not Claimed | Incaps | |
+| Not Claimed | CSVs | |
+| Not Claimed | Excel files | |
+| Not Claimed | Where will files be online (database online, web pages, files) | |
+| Not Claimed | Data clearning process (Messy vs Tidy) | |
+| Not Claimed | How to find R packages for different data types | |
+| Not Claimed | rstats.cetfile | |
+
+** Key packages **
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | Readr | |
+| Not Claimed | Rvest | |
+| Not Claimed | Rdrop2 | |
+| Not Claimed | Googlesheets | |
+| Not Claimed | Dplyr | |
+| Not Claimed | Tidyr | |
+| Not Claimed | Xm12 | |
+| Not Claimed | Http | |
+| Not Claimed | Stringr | |
+| Not Claimed | Lubridate | |
+| Not Claimed | Viz | |
+| Not Claimed | Ggplot | |
+| Not Claimed | Plotly | |
+| Not Claimed | D3 | |
+| Not Claimed | gganimate | |
+| Not Claimed | How to make beautiful plots | |
+| Not Claimed | Pushing/Pulling on Github (Own repo and others) | |
+| Not Claimed | Common errors and conflicts | |
+ 
+ 
+## Reporting
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | Daily report in Rmarkdown | |
+| Not Claimed | What were the goals | |
+| Not Claimed | What I did | |
+| Not Claimed | What are the goals for tomorrow | |
+| Not Claimed | Weekly reports | |
+
+ 
+## Extras
+|status | topic | notes |
+| :---|  :--- |  :--- |
+| Not Claimed | Jupyter notebook | |
+| Not Claimed | Python | |
 
