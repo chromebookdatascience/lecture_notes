@@ -63,3 +63,8 @@ You can share your calendar with other people by clicking on the down arrow next
 
 ![Sharing calendar](https://cloud.githubusercontent.com/assets/19320775/26750143/9d14762c-47e9-11e7-9e02-96274a374b2d.png)
 
+After pressing the share button a new screen will appear where you can add people by their emails. After selecting the various settings and adding all users you want to share the calendar the top save button can be pressed.
+
+![Share settings](https://cloud.githubusercontent.com/assets/19320775/26750154/e0b82b44-47e9-11e7-8a33-c56a09474418.png)
+
+
