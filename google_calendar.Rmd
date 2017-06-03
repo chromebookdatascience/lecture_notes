@@ -67,4 +67,17 @@ After pressing the share button a new screen will appear where you can add peopl
 
 ![Share settings](https://cloud.githubusercontent.com/assets/19320775/26750154/e0b82b44-47e9-11e7-8a33-c56a09474418.png)
 
+## Create a team calendar
+Start by clicking on the down arrow next to "My Calendars" and select "Create new calendar"
+
+![Create new calendar](https://cloud.githubusercontent.com/assets/19320775/26750200/fc1984f4-47ea-11e7-8283-98177e7d2ee0.png)
+
+1. A new screen will show up where you can inpute the name of the calendar, timezone, and a description so your team knows the purpose of the calendar. 
+2. Check the "Share this calendar with other" box, and share it with everyone in your team
+3. You can also enter the emails of individuals who can modify or manage the calendar, and set their permission levels
+4. Click "Create calendar"
+
+![Editing calendar settings](https://cloud.githubusercontent.com/assets/19320775/26750257/ded990a4-47eb-11e7-89a4-d20755e611a3.png)
+
+
 
