@@ -59,5 +59,7 @@ In the notification section, choose how you want to be reminded about the event 
 ![Notification section](https://cloud.githubusercontent.com/assets/19320775/26750117/bf0e613a-47e8-11e7-9156-d7961fe9118c.png)
 
 ## Share and View
+You can share your calendar with other people by clicking on the down arrow next to the calendar you want to share
 
+![Sharing calendar](https://cloud.githubusercontent.com/assets/19320775/26750143/9d14762c-47e9-11e7-9e02-96274a374b2d.png)
 
