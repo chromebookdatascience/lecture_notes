@@ -31,7 +31,12 @@ output:
  
 ![screenshot 2017-06-04 at 3](https://cloud.githubusercontent.com/assets/28197711/26764866/a89a89be-493d-11e7-91fa-7466c43f664d.png)
 
-  There in purple is the network sections.  It tells you two things.  First, whether or not you're connected.  And second, if you are connected, what the name of the network is.  In our example, we're connected to a netowrk named "Thumbo Desu."  But let's say we're not yet connected to the internet.  Here's what it would look like:
+  There in purple is the network sections.  It tells you two things.  First, whether or not you're connected.  And second, if you are connected, what the name of the network is.  In our example, we're connected to a network named "Thumbo Desu."  But let's say we're not yet connected to the internet.  Here's what it would look like:
   
 ![2](https://cloud.githubusercontent.com/assets/28197711/26764882/facc5992-493d-11e7-8bab-fe8af63d5bfc.png)
 
+  Notice how the icon is greyed out, and the words "No network" are where the network's name is supposed to be.  This, of course, means that we are not yet connected to the internet.  Notice also that there is a little arrow pointing to the right of the words "No network."  Clicking on it will bring up another menu.
+  
+  3. Now we are brought to a list of nearby networks.  Since Wifi uses radio waves, it can only be accessed in a short area around the router.  That's why even if you connect to your home network, it won't work if you go outside.  Scroll through the list to find a private network that you've been given permission to use, or a public network.  A private network is privately owned and not available to others.  These will appear with a lock symbol next to the network icon.  You will need a password in order to access these networks.  Public networks are available to all and require no password.  You will often find these in public spaces and businesses.  You are free to connect to these networks, but they are not as secure as a result.  Getting back to the matter at hand, once you find the network of your choice, click on it.  If it is a public network, you will be connected.  If it's private, you will be asked to enter the password.  Once you have, you will be connected.
+
+![screenshot 2017-06-04 at 4 02 07 pm](https://cloud.githubusercontent.com/assets/28197711/26765048/861f8b1a-4941-11e7-9cff-8bc390ef757f.png)
