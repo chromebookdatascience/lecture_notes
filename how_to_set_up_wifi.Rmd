@@ -23,3 +23,15 @@ output:
 
   1. Locate a source of Wifi.  Do you remember where Wifi comes from?  That's right, from a router.  These are not easy to find, and some networks are for private use only.  However, some businesses and other locations offer public Wifi.  Alternatively, you can use your own router.  How do you know where Wifi hotspots are?  That's simple, just open your chromebook and look in the bottom right corner:
   
+![screenshot 2017-06-02 at 12](https://cloud.githubusercontent.com/assets/28197711/26764501/dd77499a-4935-11e7-933c-3a7c375a30a9.png)
+
+  The icon highlighted in purple is the network icon.  It can tell you whether or not you're connected to the internet.  If the signal is full, then you're connected.  If it is empty (gray) then you're not connected.  This is also where you manage your networks; what network you want to connect to, which ones to trust, etc.  Click on the icon to take a look.
+  
+  2. When you've clicked on the icon, a familiar menu will show up.
+ 
+![screenshot 2017-06-04 at 3](https://cloud.githubusercontent.com/assets/28197711/26764866/a89a89be-493d-11e7-91fa-7466c43f664d.png)
+
+  There in purple is the network sections.  It tells you two things.  First, whether or not you're connected.  And second, if you are connected, what the name of the network is.  In our example, we're connected to a netowrk named "Thumbo Desu."  But let's say we're not yet connected to the internet.  Here's what it would look like:
+  
+![2](https://cloud.githubusercontent.com/assets/28197711/26764882/facc5992-493d-11e7-8bab-fe8af63d5bfc.png)
+
