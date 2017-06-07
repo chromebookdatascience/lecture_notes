@@ -7,7 +7,7 @@
 | :---|  :--- |  :--- |
 | Done | What is a chromebook? | |
 | Done | Getting logged on w/ account & w/o account | |
-| Claimed | How to set up wifi | |
+| Done | How to set up wifi | |
 | Done | Tour of menus | |
 | Done | Personalization | |
 | Claimed | Where are the files stored? Google drive & Local drive | |
@@ -15,7 +15,7 @@
 | Note Claimed | Common errors | |
 | Claimed | What is a chrome app | |
 | Claimed | Suggested apps - Stackedit | |
-| Not Claimed | Working offline | |
+| Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
 | Not Claimed | Updating your Chromebook | |
