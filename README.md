@@ -18,7 +18,7 @@
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
-| Not Claimed | Updating your Chromebook | |
+| Claimed | Updating your Chromebook | |
  
 ## Google and the cloud
 
