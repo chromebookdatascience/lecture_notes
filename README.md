@@ -16,7 +16,7 @@
 | Claimed | What is a chrome app | |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Stackedit | Albert Lee |
-| Not Claimed | Suggested apps | Albert Lee |
+| Not Claimed | Suggested apps | |
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
