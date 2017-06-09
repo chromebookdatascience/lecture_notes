@@ -13,5 +13,5 @@ output:
  
 For the most part, chromebooks require the internet in order to function.  As you might remember from previous tutorials, the chromebook has very little built in memory, and instead uses the cloud to store information.  Unfortunately, internet access will not always be available, but there are still some functions that you can access while offline, such as google docs.
  
-A picture of something to break the monotony.  Maybe an airplane
+ ![image](https://user-images.githubusercontent.com/28161368/26957582-f42a2156-4c93-11e7-9b6d-a354978f9177.png)
  
