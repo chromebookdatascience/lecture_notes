@@ -16,7 +16,7 @@
 | Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Stackedit | Albert Lee |
-| Not Claimed | Suggested apps | |
+| Claimed | Suggested apps | Daniel Kim |
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
@@ -37,7 +37,7 @@
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
 | Not Claimed | Gmail/Inbox | |
-| Not Claimed | Dropbox | |
+| Claimed | Dropbox | Luke Zhu |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
 | Claimed | How to Google | Albert Lee |
