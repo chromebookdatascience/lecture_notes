@@ -1,0 +1,39 @@
+---
+title: "Google Slides"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What is Google Slides
+One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides, which allows users to format and edit slide presentations with other users simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).  
+<img src="https://user-images.githubusercontent.com/21327023/26971742-93e817e6-4cdc-11e7-9688-67141a6c8ee7.png" width="300">
+
+# Getting Started
+Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Docs URL https://docs.google.com/presentation/u/0/. Under "Start a new presentation" select the blank option or any of the templates available. 
+![Google Slides Page](https://user-images.githubusercontent.com/21327023/26971743-93ea045c-4cdc-11e7-98de-c64fd68d3445.png)
+
+Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button ![Docs Menu Button](https://user-images.githubusercontent.com/21327023/26970155-4fea4740-4cd6-11e7-99a4-5f2b9c1046dd.png), and click on the checkbox under "Templates."
+![Google DocsTemplates Gallery](https://user-images.githubusercontent.com/21327023/26971789-b9a3f72a-4cdc-11e7-86f3-c30e73774fa3.png)
+
+Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the old slide presentation. The options along the top will allow sorting by owner through a dropdown list ![ownership option](https://user-images.githubusercontent.com/21327023/26970702-4e18fdec-4cd8-11e7-840f-cc14b4b80cd2.png), a list ![list view](https://user-images.githubusercontent.com/21327023/26970705-4e1f7bb8-4cd8-11e7-8de6-36fa71efdeba.png) versus a grid view option ![grid view](https://user-images.githubusercontent.com/21327023/26970900-042c6006-4cd9-11e7-80de-8cc420cfc0fc.png), sort by date modified or by title ![A-Z](https://user-images.githubusercontent.com/21327023/26970706-4e218e94-4cd8-11e7-8e4c-b4b03d845927.png), or the file picker with search functionality ![File picker](https://user-images.githubusercontent.com/21327023/26970704-4e1bdf44-4cd8-11e7-87ce-397cfafa0ec7.png). In addition, you can open slide presentations through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. 
+![Menu](https://user-images.githubusercontent.com/21327023/26968890-b6ee7d62-4cd1-11e7-96ea-7246fe7ccfce.png)
+![Google Drive menu bar](https://user-images.githubusercontent.com/21327023/26968889-b6edc7e6-4cd1-11e7-989a-60968cadd8de.png)
+
+# Guide to using Google Slides
+One of the most convenient features of Google Drive and its applications is its auto save. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
+
+Google Slides operates very similarly to Microsoft Powerpoint sans a couple of Powerpoint's more advanced features. However, most tasks can be done with Google Slides, from simple text and slide transitions to importing graphics to embedding Youtube videos. There are more in-depth guides on [adding images](https://www.gcflearnfree.org/googleslides/adding-pictures-and-shapes/1/), [transitions and animations](https://www.gcflearnfree.org/googleslides/adding-transitions-and-animations/1/), and [master template editor](https://www.gcflearnfree.org/googleslides/editing-master-slides-and-layouts/1/).
+
+If a stable internet connection is an issue or that plans have been made to work offline, Google Slides offers an offline mode that saves the word documents to the local computer. Even in offline mode, Google Slides will automatically save changes. 
+To turn on offline mode:  
+1. Go to the Google Slides [homepage](https://docs.google.com/presentation/u/0/) 
+2. Click on the menu button ![Slides Menu Button](https://user-images.githubusercontent.com/21327023/26970155-4fea4740-4cd6-11e7-99a4-5f2b9c1046dd.png)
+3. Click on "Settings"
+4. Toggle the "Offline" switch to on   
+![Offline mode on](https://user-images.githubusercontent.com/21327023/26970156-4febf0b8-4cd6-11e7-87b2-2cb5d40ef7f6.png)
+5. Offline mode for Slides will also be applied to Google Docs and Sheets.
