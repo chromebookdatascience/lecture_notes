@@ -14,7 +14,9 @@
 | Claimed | Apps (Circle menu) | | 
 | Not Claimed | Common errors | |
 | Claimed | What is a chrome app | |
-| Claimed | Suggested apps - Stackedit | Albert Lee |
+| Claimed | MarkDown | Albert Lee |
+| Claimed | Stackedit | Albert Lee |
+| Not Claimed | Suggested apps | Albert Lee |
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
