@@ -10,9 +10,9 @@
 | Done | How to set up wifi | Walter Yang |
 | Done | Tour of menus | Daniel Kim |
 | Done | Personalization | Walter Yang |
-| Not Claimed | Where are the files stored? Google drive & Local drive | |
+| Claimed | Where are the files stored? Google drive & Local drive | Walter Yang |
 | Claimed | Apps (Circle menu) | | 
-| Claimed | Common errors | Walter Yang|
+| Not Claimed | Common errors | |
 | Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
