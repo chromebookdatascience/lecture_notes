@@ -1,0 +1,35 @@
+---
+title: "How to Google"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Google Tutorial
+
+## What is Google
+
+Google starts and ends with its core identity - to help people find what they're looking for on the web. What started off
+as a research project in Stanford evolved into a basement run startup and then a multibillion dollar technology conglomerate.
+
+While originally Google helped people find what they are looking for via a superior search engine, it can now predict what
+people are looking for with terrifying accuracy using artificial intelligence.
+
+## How to use Google
+
+One of the brightest programmers I know once said that to code well one needed to be able to have the discipline to read through illegible documentation and to be able to Google well. This might be an overstretch, however the ability to use Google's search engine as a tool is crucial for finding key information.
+
+## How to access Google's Search Engine
+
+When you go to https://www.google.com it will bring you directly to Google's search page. Since you are using a Chrome book you have the added benefit in that Google is built directly in to your browser. If you type in text to your browser url field, you can search anything you want on Google to find what you need.
+
+
+/////////////////////////////////////////
+Topics to cover:
+  - Stack Overflow
+  - Reddit
+  - Yahoo Answers
+  - Data Science Forums
