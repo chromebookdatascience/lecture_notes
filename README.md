@@ -10,7 +10,7 @@
 | Done | How to set up wifi | Walter Yang |
 | Done | Tour of menus | Daniel Kim |
 | Done | Personalization | Walter Yang |
-| Claimed | Where are the files stored? Google drive & Local drive | Walter Yang |
+| Done | Where are the files stored? Google drive & Local drive | Walter Yang |
 | Claimed | Apps (Circle menu) | | 
 | Not Claimed | Common errors | |
 | Done | What is a chrome app | Daniel Kim |
@@ -35,7 +35,7 @@
 | Done | Google Calendar | Daniel Kim |
 | Done and Reviewed | Google Maps | Albert Lee |
 | Not Claimed | Google Hangouts | |
-| Claimed | Youtube | Rachel Wu|
+| Done | Youtube | Rachel Wu|
 | Not Claimed | Gmail/Inbox | |
 | Done | Dropbox | Luke Zhu |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
