@@ -17,10 +17,10 @@
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
 | Claimed | Suggested apps | Daniel Kim |
-| Claimed | Working offline | |
-| Claimed | Internet safety | Luke Zhu |
+| Done | Working offline | Rachel Wu|
+| Done | Internet safety | Walter Yang |
 | Not Claimed | Ethics for data science | |
-| Claimed | Updating your Chromebook | |
+| Done | Updating your Chromebook | Rachel Wu|
  
 ## Google and the cloud
 
