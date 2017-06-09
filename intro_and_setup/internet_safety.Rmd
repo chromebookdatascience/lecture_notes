@@ -1,1 +1,42 @@
+---
+title: "Internet Safety"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
 
+# Internet Safety
+
+The internet can be a dangerous place, and as you will be handling lots of data in the future, you will be right in the thick of things.  No worries though, we'll be teaching you some safe browsing habits that will keep you safe.
+
+## Keep Your Identity a Secret
+
+Never tell anyone on the internet your identity.  This includes simple information such as your name and address, but also more sensitive information such as your birthday and social security number.  A common scam involves criminals posing as government or business officials and asking you for you information.  Never assume the person on the other end is trustworthy.
+
+## Keep Your Online Identity a Secret as Well
+
+Your username and password should only be known to you.  Never give out your username and password to anyone.  Another common scam involves criminals posing as customer service representatives of a tech company like Microsoft, and ask for your username and password.  If they truly were the customer service representatives, they would not need to ask for your information to help you.  Speaking of passwords...
+
+## Don't Use the Same Password for Different Accounts
+
+This might seem like a pain, who wants to remember a billion passwords?  This safety measure prevents hackers from gaining access to all of your accounts if they figure out one password.  Everything on the internet is traceable, and criminals will take advantage of similar passwords to break into multiple accounts.
+
+## Be Wary of Suspicious Emails and Links
+
+Did you recieve an email from someone you don't know?  Resist the urge to click on it, just delete it (Unless you were expecting something.)  Suspicious emails may contain viruses and other malware, that will attack your computer if you open the email.  Similarly, beware of strange links, they may redirect you to websites laddened with malware.  If you can, try not to use any links from sources you don't trust.
+
+## Get an antivirus
+
+Most computers come with built in antivirus programs, remeber to keep it updated however.  Technology moves at a lightning pace, and security has to keep up.  Which brings me to my next point.
+
+## Keep your computer updated
+
+Most operating systems recieve security updates when weaknesses are identified.  Keeping your computer up to date will patch those holes before opportunistic viruses take advatage of the weakness.
+
+## Trust your gut
+
+Perhaps most important of all, trust your instincts.  If something seems sketchy, then it probably is.  As the old saying goes, "better safe than sorry."
