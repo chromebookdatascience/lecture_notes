@@ -10,3 +10,12 @@ output:
 ---
 
 # Suggested Apps
+This are some Apps that we found helpful or fun while exploring the Chrome Web Store.
+
+
+Forest: stay focused, be present
+Grammarly
+Momentum
+Evernote Web Clipper
+Speedtest by Ookla
+Save emails to PDF
