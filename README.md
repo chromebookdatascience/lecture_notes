@@ -18,7 +18,7 @@
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
 | Claimed | Suggested apps | Daniel Kim |
 | Claimed | Working offline | |
-| Not Claimed | Internet safety | |
+| Claimed | Internet safety | Luke Zhu |
 | Not Claimed | Ethics for data science | |
 | Claimed | Updating your Chromebook | |
  
@@ -26,7 +26,7 @@
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done and reviewed | What is the cloud? | |
+| Done and reviewed | What is the cloud? | Luke Zhu |
 | Not Claimed | How to get help | |
 | Claimed | Google Drive | |
 | Not Claimed | Google Sheets | |
@@ -37,7 +37,7 @@
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
 | Not Claimed | Gmail/Inbox | |
-| Claimed | Dropbox | Luke Zhu |
+| Done | Dropbox | Luke Zhu |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
 | Claimed | How to Google | Albert Lee |
