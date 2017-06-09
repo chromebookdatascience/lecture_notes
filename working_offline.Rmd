@@ -52,16 +52,16 @@ You may use Google Calendar to schedule your business and social time.  If that�
  
 1 Click the launcher, the all apps and find the Google calendar app
  ![screenshot 2017-06-08 at 10 26 36 pm](https://user-images.githubusercontent.com/28161368/26958756-69e7f87c-4c9a-11e7-915b-468227909f3a.png)
-Screenshot of launcher and apps w/ calendar
+
  
 2 You will be brought to your calendar.  Click on the gear near the top right corner to access “offline”.
  ![screenshot 2017-06-08 at 10 28 02 pm](https://user-images.githubusercontent.com/28161368/26958759-6c90b9d8-4c9a-11e7-8d6e-f4f3050b1b60.png)
-Highlight the gear
+
  
 3 Click on offline, you will be given the option to enable offline mode.  Click enable and you’re done.  Google will now automatically sync your calendar with your device.
 ![screenshot 2017-06-08 at 10 31 30 pm](https://user-images.githubusercontent.com/28161368/26958762-6eb78f98-4c9a-11e7-95b6-a255248fd697.png)
  
-Highlight the enable button
+
 ![screenshot 2017-06-08 at 10 32 06 pm](https://user-images.githubusercontent.com/28161368/26958963-8c0e4b1c-4c9b-11e7-9583-bb2bffaf5090.png)
 
 
