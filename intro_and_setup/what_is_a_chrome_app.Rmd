@@ -27,3 +27,16 @@ Both ways should eventually give a similar screen to the one shown below.
 
 ![Chrome Web Store](https://user-images.githubusercontent.com/19320775/26956578-c51d655a-4c8c-11e7-87b9-ba8fb4cd675f.png)
 
+## Navigating the Chrome Web Store
+
+If there is a specific App you are looking for you can type on the search bar the name or a description of the App you are looking for.
+
+![Arrow pointing to search bar](https://user-images.githubusercontent.com/19320775/26956855-ee57947a-4c8e-11e7-8e2c-3ae43c1d1621.png)
+
+After finding the specific App you are looking for, you can click on the App to get information such as overview, reviews, support, and other related apps. To add the app to your chrome browser you can simply click on the "Add to Chrome" button on the top right corner. 
+
+![Arrow pointing to "Add to Chrome" button](https://user-images.githubusercontent.com/19320775/26957248-baaad580-4c91-11e7-9ecd-3f516c4f7068.png)
+
+After clicking on the "Add to Chrome" a pop-up notification will show up and simply click "Add App".
+
+![Pop-up notification to add app](https://user-images.githubusercontent.com/19320775/26957281-fbe1804e-4c91-11e7-9017-da663fb46c1a.png)
