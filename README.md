@@ -12,7 +12,7 @@
 | Done | Personalization | Walter Yang |
 | Not Claimed | Where are the files stored? Google drive & Local drive | |
 | Claimed | Apps (Circle menu) | | 
-| Not Claimed | Common errors | |
+| Claimed | Common errors | Walter Yang|
 | Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
@@ -35,7 +35,7 @@
 | Done | Google Calendar | Daniel Kim |
 | Done and Reviewed | Google Maps | Albert Lee |
 | Not Claimed | Google Hangouts | |
-| Not Claimed | Youtube | |
+| Claimed | Youtube | Rachel Wu|
 | Not Claimed | Gmail/Inbox | |
 | Done | Dropbox | Luke Zhu |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
