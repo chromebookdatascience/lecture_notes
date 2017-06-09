@@ -29,9 +29,9 @@
 | Done and reviewed | What is the cloud? | Luke Zhu |
 | Not Claimed | How to get help | |
 | Claimed | Google Drive | |
-| Not Claimed | Google Sheets | |
-| Not Claimed | Google Slides | |
-| Not Claimed | Google Docs | |
+| Claimed | Google Sheets | Luke Zhu |
+| Claimed | Google Slides | Luke Zhu |
+| Claimed | Google Docs | Luke Zhu |
 | Done | Google Calendar | Daniel Kim |
 | Done and Reviewed | Google Maps | Albert Lee |
 | Not Claimed | Google Hangouts | |
