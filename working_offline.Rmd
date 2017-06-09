@@ -27,7 +27,8 @@ You can check and write emails offline as well (If you have a gmail account).  O
  
 1 Open the chrome web store.  This is where we will find the “Gmail offline” app.
  
-Show how to open webstore
+![image](https://user-images.githubusercontent.com/28161368/26958250-8c437444-4c97-11e7-83a8-08bd8871b867.png)
+
  
 2 Look up “Gmail offline”
  
