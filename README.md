@@ -28,7 +28,7 @@
 | :---|  :--- |  :--- |
 | Done and reviewed | What is the cloud? | Luke Zhu |
 | Not Claimed | How to get help | |
-| Claimed | Google Drive | |
+| Claimed | Google Drive | Rachel Wu |
 | Claimed | Google Sheets | Luke Zhu |
 | Claimed | Google Slides | Luke Zhu |
 | Claimed | Google Docs | Luke Zhu |
