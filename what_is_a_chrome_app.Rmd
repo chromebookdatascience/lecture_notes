@@ -19,4 +19,11 @@ The Chrome Web Store is Google's online store for web applications that can be u
 
 ![Arrow pointing to Web Store](https://user-images.githubusercontent.com/19320775/26955779-043712b4-4c87-11e7-9bf0-0b5a2b9e752c.png)
 
+The second way to access the Chrome Web Store is by typing "Chrome Web Store" in [google](https://www.google.com/) and pressing on the link "Chrome Web Store - Apps" as shown below.
+
+![Searching "Chrome Web Store" in Google.com](https://user-images.githubusercontent.com/19320775/26956472-eea2d528-4c8b-11e7-86b8-161f34269ccf.png)
+
+Both ways should eventually give a similar screen to the one shown below.
+
+![Chrome Web Store](https://user-images.githubusercontent.com/19320775/26956578-c51d655a-4c8c-11e7-87b9-ba8fb4cd675f.png)
 
