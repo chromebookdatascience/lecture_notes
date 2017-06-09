@@ -10,18 +10,18 @@ output:
 ---
 
 
-#Working Offline
+# Working Offline
  
 For the most part, chromebooks require the internet in order to function.  As you might remember from previous tutorials, the chromebook has very little built in memory, and instead uses the cloud to store information.  Unfortunately, internet access will not always be available, but there are still some functions that you can access while offline, such as google docs.
  ![image](https://user-images.githubusercontent.com/28161368/26958178-26da7706-4c97-11e7-8f44-db17dfd0b195.png)
 
-##Google Docs
+## Google Docs
  
 Google has recently changed Google Docs to be accessible while offline.  Basically, they have saved the most recent version of all your Google Docs, so you can access them whenever you like.  Just use the normal method for opening Google Docs.  The one hitch is, that any changes you make will only be saved on your device.  If you want those changes to apply to the cloud you have to wait until you get internet access again.  Then Google will automatically sync the offline version with the cloud and your work will be saved.  This also applies to other apps like Google Sheets and Google Slides.
  
 ![image](https://user-images.githubusercontent.com/28161368/26957987-4fa87a12-4c96-11e7-8e0f-7be48ff4c22b.png)
  
-##Your Email
+## Your Email
  
 You can check and write emails offline as well (If you have a gmail account).  Of course, any emails you write will not be sent until you get internet access again, but here is how it works:
  
@@ -46,7 +46,7 @@ You can check and write emails offline as well (If you have a gmail account).  O
  
 ![screenshot 2017-06-08 at 10 19 33 pm](https://user-images.githubusercontent.com/28161368/26958475-f6a1d5a0-4c98-11e7-9ce5-e772795c01a1.png)
  
-##Google Calendar
+## Google Calendar
  
 You may use Google Calendar to schedule your business and social time.  If that’s the case it may be important to access that information while offline.  Here’s how we enable that.
  
