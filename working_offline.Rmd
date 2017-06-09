@@ -19,7 +19,7 @@ For the most part, chromebooks require the internet in order to function.  As yo
  
 Google has recently changed Google Docs to be accessible while offline.  Basically, they have saved the most recent version of all your Google Docs, so you can access them whenever you like.  Just use the normal method for opening Google Docs.  The one hitch is, that any changes you make will only be saved on your device.  If you want those changes to apply to the cloud you have to wait until you get internet access again.  Then Google will automatically sync the offline version with the cloud and your work will be saved.  This also applies to other apps like Google Sheets and Google Slides.
  
-A picture of the google docs logo on a computer or something
+![image](https://user-images.githubusercontent.com/28161368/26957987-4fa87a12-4c96-11e7-8e0f-7be48ff4c22b.png)
  
 ##Your Email
  
