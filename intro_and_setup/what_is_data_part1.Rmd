@@ -31,4 +31,16 @@ CSV files, also known as comma separated values, are plain text documents that s
 data. Tabular data includes numbers or text. The main purpose of csv files are to provide easy
 to read data for both computers and humans.
 
-While csv implies the separation of values using commas, unfortunately there is no standard 
+While csv implies the separation of values using commas, unfortunately there is no standard format, and some csvs may be separated by tabs or spaces instead of commas. The strength of csvs lie in the strength of programs which can parse csv files regardless of delimiter.
+
+## Excel Files
+
+Excel is a Microsoft Office program that uses spreadsheets to analyze data. It is similar in style to Google Sheets which we reviewed in a previous tutorial found [here](). Excel files will usually be in .xls or .xlsx file format depending on versioning. Most importantly, excel files are the most familiar file format since Microsoft Office is so popular.
+
+## Images
+
+While most people might not think of images as data, images are quickly becoming one of the most popular file formats. Images are actually just 3D or 2D arrays of numbers representing different patterns of colors and/or intensities. These patterns can be analyzed to create amazing results.
+
+## Miscellaneous
+
+Unfortunately many people will have custom data files for you to analyze, which will require you to manually clean and organize the data. JSON objects, unformatted text files, and script output files are all very common examples of miscellaneous files.
