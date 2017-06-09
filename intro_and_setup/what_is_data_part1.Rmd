@@ -44,3 +44,5 @@ While most people might not think of images as data, images are quickly becoming
 ## Miscellaneous
 
 Unfortunately many people will have custom data files for you to analyze, which will require you to manually clean and organize the data. JSON objects, unformatted text files, and script output files are all very common examples of miscellaneous files.
+
+In our next tutorial, What is Data part 2, we will look at how to explore data.
