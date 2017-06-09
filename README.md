@@ -5,14 +5,14 @@
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done | What is a chromebook? | |
-| Done | Getting logged on w/ account & w/o account | |
-| Done | How to set up wifi | |
+| Done | What is a chromebook? | Walter Yang |
+| Done | Getting logged on w/ account & w/o account | Walter Yang |
+| Done | How to set up wifi | Walter Yang |
 | Done | Tour of menus | |
-| Done | Personalization | |
+| Done | Personalization | Walter Yang|
 | Claimed | Where are the files stored? Google drive & Local drive | Albert Lee |
 | Claimed | Apps (Circle menu) | | 
-| Claimed | Common errors | Author: Luke |
+| Not Claimed | Common errors | |
 | Claimed | What is a chrome app | |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Stackedit | Albert Lee |
@@ -26,7 +26,7 @@
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done and reviewed | What is the cloud? | Author: Luke, Reviewer: ? |
+| Done and reviewed | What is the cloud? | |
 | Not Claimed | How to get help | |
 | Claimed | Google Drive | |
 | Not Claimed | Google Sheets | |
@@ -37,7 +37,7 @@
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
 | Not Claimed | Gmail/Inbox | |
-| Done | Dropbox | Author: Luke |
+| Not Claimed | Dropbox | |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
 | Claimed | How to Google | Albert Lee |
