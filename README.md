@@ -16,6 +16,7 @@
 | Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
+| Not Claimed | Pixlr | |
 | Claimed | Suggested apps | Daniel Kim |
 | Done | Working offline | Rachel Wu|
 | Done | Internet safety | Walter Yang |
