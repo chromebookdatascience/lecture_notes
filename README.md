@@ -10,7 +10,7 @@
 | Done | How to set up wifi | Walter Yang |
 | Done | Tour of menus | Daniel Kim |
 | Done | Personalization | Walter Yang |
-| Claimed | Where are the files stored? Google drive & Local drive | Albert Lee |
+| Not Claimed | Where are the files stored? Google drive & Local drive | |
 | Claimed | Apps (Circle menu) | | 
 | Not Claimed | Common errors | |
 | Done | What is a chrome app | Daniel Kim |
