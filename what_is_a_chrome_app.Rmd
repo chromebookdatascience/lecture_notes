@@ -11,6 +11,12 @@ output:
 
 # What is a Chrome App
 
-Apps work like regular programs for computers, except they run in the Chrome browser. You can easily add new apps to your Chromebook making it easier to access programs.
+Chrome apps work like regular programs for computers, except they run in the Chrome browser. You can easily add new apps to your Chromebook making it easier to access programs. New chrome apps can be added to your chrome browser by accessing the Chrome Web Store.
 
-## Getting Started
+## Chrome Web Store
+
+The Chrome Web Store is Google's online store for web applications that can be used in Google Chrome browser. There are two ways to access the chrombe web store. You can just click on the "Web Store" icon as shown in the image below.
+
+![Arrow pointing to Web Store](https://user-images.githubusercontent.com/19320775/26955779-043712b4-4c87-11e7-9bf0-0b5a2b9e752c.png)
+
+
