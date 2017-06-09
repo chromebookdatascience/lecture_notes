@@ -1,0 +1,31 @@
+---
+title: "Google Sheets"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What is Google Sheets
+One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of the primary application is the web-based spreadsheet editor, Google Sheets, which allows users to format and edit spreadsheets with other users simultaneously. It is compatible with Microsoft Excel files (.xlsx) and comma delimited values (.csv).  
+<img src="https://user-images.githubusercontent.com/21327023/26968653-ca88f84e-4cd0-11e7-9f7f-006eff1dd41e.png" width="300">
+
+# Getting Started
+Google Sheets can be opened multiple ways. The simplest option for starting a new document is going to the Google Sheets URL https://docs.google.com/spreadsheets/u/0/. Under "Start a new spreadsheet" select the blank option or any of the templates available. 
+![Google Sheets Page](https://user-images.githubusercontent.com/21327023/26968650-c79d6458-4cd0-11e7-8107-004b4813cd69.png)
+
+Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button (three horizontal lines), and click on the checkbox under "Templates."
+![Google Sheets Templates Gallery](https://user-images.githubusercontent.com/21327023/26968642-c1fbb220-4cd0-11e7-8d4e-8c27a3bd070b.png)
+
+Assuming that you are logged into your Google account, underneath the templates you will see the past spreadsheets that are saved on your Google Drive. Each of them can be opened and edited by clicking on them, which will redirect the current window to the old spreadsheet. In addition, you can open spreadsheets through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. 
+![Menu](https://user-images.githubusercontent.com/21327023/26968890-b6ee7d62-4cd1-11e7-96ea-7246fe7ccfce.png)
+![Google Drive menu bar](https://user-images.githubusercontent.com/21327023/26968889-b6edc7e6-4cd1-11e7-989a-60968cadd8de.png)
+
+# Guide to using spreadsheets
+One of the most convenient features of Google Drive and its applications is its auto save. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
+
+Google Sheets operates very similarly to Microsoft Excel sans a couple of Excel's more advanced features. However, most tasks can be done with Google Sheets, including large table and data manipulations, graphs and visualizations. There are more in-depth guides on [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/), [formatting cells](https://www.gcflearnfree.org/googlespreadsheets/formatting-cells/1/), and [working with multiple sheets](https://www.gcflearnfree.org/googlespreadsheets/working-with-multiple-sheets/1/).
+
