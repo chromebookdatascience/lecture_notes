@@ -62,7 +62,8 @@ Highlight the gear
 ![screenshot 2017-06-08 at 10 31 30 pm](https://user-images.githubusercontent.com/28161368/26958762-6eb78f98-4c9a-11e7-95b6-a255248fd697.png)
  
 Highlight the enable button
-![screenshot 2017-06-08 at 10 32 06 pm](https://user-images.githubusercontent.com/28161368/26958840-cc6da226-4c9a-11e7-881b-240a58445e95.png)
+![screenshot 2017-06-08 at 10 32 06 pm](https://user-images.githubusercontent.com/28161368/26958963-8c0e4b1c-4c9b-11e7-9583-bb2bffaf5090.png)
+
 
 
 
