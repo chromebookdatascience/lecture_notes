@@ -1,0 +1,63 @@
+---
+title: "Working Offline"
+author: "Rachel"
+output:
+ github_document:
+   toc: true
+   toc_depth: 2
+   fig_width: 5
+   fig_height: 5
+---
+
+#Working Offline
+ 
+For the most part, chromebooks require the internet in order to function.  As you might remember from previous tutorials, the chromebook has very little built in memory, and instead uses the cloud to store information.  Unfortunately, internet access will not always be available, but there are still some functions that you can access while offline, such as google docs.
+ 
+A picture of something to break the monotony.  Maybe an airplane
+ 
+##Google Docs
+ 
+Google has recently changed Google Docs to be accessible while offline.  Basically, they have saved the most recent version of all your Google Docs, so you can access them whenever you like.  Just use the normal method for opening Google Docs.  The one hitch is, that any changes you make will only be saved on your device.  If you want those changes to apply to the cloud you have to wait until you get internet access again.  Then Google will automatically sync the offline version with the cloud and your work will be saved.  This also applies to other apps like Google Sheets and Google Slides.
+ 
+A picture of the google docs logo on a computer or something
+ 
+##Your Email
+ 
+You can check and write emails offline as well (If you have a gmail account).  Of course, any emails you write will not be sent until you get internet access again, but here is how it works:
+ 
+1 Open the chrome web store.  This is where we will find the “Gmail offline” app.
+ 
+Show how to open webstore
+ 
+2 Look up “Gmail offline”
+ 
+Show the app
+ 
+3 Click the “Add it” button to add it to chrome.
+ 
+Highlight the add it button
+ 
+4 Click the launcher, then all apps and find the Gmail offline app.
+ 
+Screenshot of launcher and apps w/ gmail offline
+ 
+5 Select “Allow offline mail” then continue.  Then you’re done.  Your Gmail account will begin syncing with your chromebook.
+ 
+Show the “Allow offline mail” button
+ 
+##Google Calendar
+ 
+You may use Google Calendar to schedule your business and social time.  If that’s the case it may be important to access that information while offline.  Here’s how we enable that.
+ 
+1 Click the launcher, the all apps and find the Google calendar app
+ 
+Screenshot of launcher and apps w/ calendar
+ 
+2 You will be brought to your calendar.  Click on the gear near the top right corner to access “offline”.
+ 
+Highlight the gear
+ 
+3 Click on offline, you will be given the option to enable offline mode.  Click enable and you’re done.  Google will now automatically sync your calendar with your device.
+ 
+Highlight the enable button
+
