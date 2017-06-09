@@ -78,7 +78,9 @@
 ## Data cleaning/Viz
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Not Claimed | What is data? | |
+| Not Claimed | What is data? Part 1 (Types of data)| Albert Lee |
+| Not Claimed | What is data? Part 2 (Using data)| Albert Lee |
+| Not Claimed | What is data? Part 3 (Exploratory data analysis)| Albert Lee |
 | Not Claimed | Crazy internet files | |
 | Not Claimed | Incaps | |
 | Not Claimed | CSVs | |
