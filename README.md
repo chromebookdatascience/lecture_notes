@@ -10,11 +10,11 @@
 | Done | How to set up wifi | |
 | Done | Tour of menus | |
 | Done | Personalization | |
-| Claimed | Where are the files stored? Google drive & Local drive | |
+| Claimed | Where are the files stored? Google drive & Local drive | Albert Lee |
 | Claimed | Apps (Circle menu) | | 
-| Note Claimed | Common errors | |
+| Not Claimed | Common errors | |
 | Claimed | What is a chrome app | |
-| Claimed | Suggested apps - Stackedit | |
+| Claimed | Suggested apps - Stackedit | Albert Lee |
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
 | Not Claimed | Ethics for data science | |
@@ -31,14 +31,14 @@
 | Not Claimed | Google Slides | |
 | Not Claimed | Google Docs | |
 | Not Claimed | Google Calendar | |
-| Done and Reviewed | Google Maps | |
+| Done and Reviewed | Google Maps | Albert Lee |
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
 | Not Claimed | Gmail/Inbox | |
 | Not Claimed | Dropbox | |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
-| Claimed | How to Google | |
+| Claimed | How to Google | Albert Lee |
  
  
 ## Github
