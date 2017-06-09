@@ -1,0 +1,26 @@
+---
+title: "How to Update your Chromebook"
+author: "Rachel"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+
+# How to Update your Chromebook
+ 
+To access all the features your chromebook has to offer we must keep it up to date.  Normally, google will send updates automatically, but sometimes you may need to manually tell the chromebook to update itself.
+ 
+1 Go to the bottom right corner of the screen and click on your avatar.
+ 
+
+ ![screenshot 2017-06-08 at 10](https://user-images.githubusercontent.com/28161368/26959332-b2489ace-4c9d-11e7-8038-74bf37f5af9a.png)
+2 This will bring up a menu.  Near the bottom there will be a section that lets you know if there are any available updates. 
+![image](https://user-images.githubusercontent.com/28161368/26959383-f0ab037e-4c9d-11e7-9d62-b17bbc11b947.png)
+
+ 
+3 If there are updates available, click on them, then click update.  The update will automatically download
+ 
