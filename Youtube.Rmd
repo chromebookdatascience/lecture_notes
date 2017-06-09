@@ -1,4 +1,14 @@
+---
+title: "Dropbox"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
 ## what is Youtube 
 Youtube allows users to upload, view, rate, share, add to favorites, report and comment on videos, subscribe to other users.
 ## How to use Youtube
-first,
+click on the red button on the left side of the screen
+
