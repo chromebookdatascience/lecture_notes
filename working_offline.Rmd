@@ -32,7 +32,7 @@ You can check and write emails offline as well (If you have a gmail account).  O
  
 2 Look up “Gmail offline”
  
-Show the app
+![image](https://user-images.githubusercontent.com/28161368/26958295-d0c97294-4c97-11e7-99d9-73b59631fce7.png)
  
 3 Click the “Add it” button to add it to chrome.
  
