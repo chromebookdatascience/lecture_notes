@@ -40,3 +40,7 @@ After finding the specific App you are looking for, you can click on the App to 
 After clicking on the "Add to Chrome" a pop-up notification will show up and simply click "Add App".
 
 ![Pop-up notification to add app](https://user-images.githubusercontent.com/19320775/26957281-fbe1804e-4c91-11e7-9017-da663fb46c1a.png)
+
+You can find the chrome apps that you added by clicking on the search icon located on the keyboard between the "tab" button and the "shift" button.
+
+![search](https://user-images.githubusercontent.com/19320775/26958063-9ac23fc4-4c96-11e7-954e-2ec51339af3a.jpg)
