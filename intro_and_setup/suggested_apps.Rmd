@@ -13,9 +13,9 @@ output:
 This are some Apps that we found helpful or fun while exploring the Chrome Web Store.
 
 
-Forest: stay focused, be present
-Grammarly
-Momentum
-Evernote Web Clipper
-Speedtest by Ookla
-Save emails to PDF
+1. Forest: stay focused, be present
+2. Grammarly
+3. Momentum
+4. Evernote Web Clipper
+5. Speedtest by Ookla
+6. Save emails to PDF
