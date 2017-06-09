@@ -1,0 +1,28 @@
+---
+title: "Where Are My Files Stored?"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Where Are My Files Stored?
+
+An excellent question.  On most modern computers, including the chromebook, data is stored in one of three places.  The hard drive, a cloud, or external storage.  We will be talking about all three in this tutorial.
+
+## The Hard Drive
+
+This is the computer's internal memory.  Everything you ever save on the computer will be stored here.  Chromebooks have very little space on their hard drive, instead focusing on cloud storage (we'll get into that later.)  But you can still save some files and images directly to the hard drive.  The advantage of this method is that you can access this saved information even if you don't have internet access.  The disadvantages are limited space.  Once you fill up the hard drive, you cannot save anything else until you clear up some space.
+
+## The Cloud
+
+The Cloud refers to a server that you can access through the internet.  You can check out our "What is the Cloud" tutorial for an in depth overview, but in short, you can connect your computer to this server an access all or some of the data saved there.  Chromebooks primarily use the cloud for all of their storage needs.  You will be using cloud storage when you use google docs and other services.  All of that information will be saved online, ready to be accessed by yourself using whatever device you choose.  And that's the advantage of this method the ability to share information with other people and device of your choice.  You do, however, need the internet to access this stored information however, and if you do not, then you won't be able to access your files.
+
+Actually, there are some methods to accessing these stored files.  Check out our tutorial on "Working Offline."
+
+## The External Drive
+
+Sounds fancy, but it's not.  Basically this refers to any device that you connect to your computer to store information.  This can be a CD, a flash drive, or an external hard drive.  Their uses are many, and you can choose the device that best suits your needs.  Need to move around?  Use a flash drive.  Want to store a lot of data?  An external hard drive will do the trick.  It's importnat to note that these device can only hold data, unlike a computer, they cannot do anything with it.  So you will need a computer in order to access any information you've stored on your external drive.
