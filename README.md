@@ -1,5 +1,12 @@
-# Lecture note curriculum
+Rules: When editing a task please put your name in the notes section and change the status to:
+Claimed - when claiming a task
+Done - when finished writing a task
+Done and reviewed - after you review a tutorial
+Publishable - after you make edits corresponding to the tutorial based off of the comments
 
+
+
+# Lecture note curriculum
 
 ## Intro/set up
 
