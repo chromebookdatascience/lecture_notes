@@ -12,7 +12,7 @@
 | Done | Personalization | |
 | Claimed | Where are the files stored? Google drive & Local drive | Albert Lee |
 | Claimed | Apps (Circle menu) | | 
-| Not Claimed | Common errors | |
+| Claimed | Common errors | Author: Luke |
 | Claimed | What is a chrome app | |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Stackedit | Albert Lee |
@@ -26,7 +26,7 @@
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done and reviewed | What is the cloud? | |
+| Done and reviewed | What is the cloud? | Author: Luke, Reviewer: ? |
 | Not Claimed | How to get help | |
 | Claimed | Google Drive | |
 | Not Claimed | Google Sheets | |
@@ -37,7 +37,7 @@
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
 | Not Claimed | Gmail/Inbox | |
-| Not Claimed | Dropbox | |
+| Done | Dropbox | Author: Luke |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
 | Claimed | How to Google | Albert Lee |
