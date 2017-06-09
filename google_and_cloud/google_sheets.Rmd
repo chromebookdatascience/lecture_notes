@@ -29,3 +29,11 @@ One of the most convenient features of Google Drive and its applications is its 
 
 Google Sheets operates very similarly to Microsoft Excel sans a couple of Excel's more advanced features. However, most tasks can be done with Google Sheets, including large table and data manipulations, graphs and visualizations. There are more in-depth guides on [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/), [formatting cells](https://www.gcflearnfree.org/googlespreadsheets/formatting-cells/1/), and [working with multiple sheets](https://www.gcflearnfree.org/googlespreadsheets/working-with-multiple-sheets/1/).
 
+If a stable internet connection is an issue or that plans have been made to work offline, Google Sheets offers an offline mode that saves the spreadsheets to the local computer. Even in offline mode, Google Sheets will automatically save changes. 
+To turn on offline mode:  
+1. Go to the Google Sheets [homepage](https://docs.google.com/spreadsheets/u/0/) 
+2. Click on the menu button ![Sheets Menu Button](https://user-images.githubusercontent.com/21327023/26970155-4fea4740-4cd6-11e7-99a4-5f2b9c1046dd.png)
+3. Click on "Settings"
+4. Toggle the "Offline" switch to on  
+![Offline mode on](https://user-images.githubusercontent.com/21327023/26970156-4febf0b8-4cd6-11e7-87b2-2cb5d40ef7f6.png)  
+5. Offline mode for Sheets will also be applied to Google Docs and Slides.
