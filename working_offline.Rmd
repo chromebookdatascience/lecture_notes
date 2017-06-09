@@ -32,35 +32,38 @@ You can check and write emails offline as well (If you have a gmail account).  O
  
 2 Look up “Gmail offline”
  
-
+![screenshot 2017-06-08 at 10 18 16 pm](https://user-images.githubusercontent.com/28161368/26958488-0259d76c-4c99-11e7-88c3-9cb5554ab4a5.png)
  
 3 Click the “Add it” button to add it to chrome.
  
-Highlight the add it button
+![screenshot 2017-06-08 at 10 19 01 pm](https://user-images.githubusercontent.com/28161368/26958484-fe86bad8-4c98-11e7-9deb-f084793ad815.png)
  
 4 Click the launcher, then all apps and find the Gmail offline app.
  
-Screenshot of launcher and apps w/ gmail offline
+![screenshot 2017-06-08 at 10 19 13 pm](https://user-images.githubusercontent.com/28161368/26958478-f9728ab8-4c98-11e7-91bc-8abf55565557.png)
  
 5 Select “Allow offline mail” then continue.  Then you’re done.  Your Gmail account will begin syncing with your chromebook.
  
-Show the “Allow offline mail” button
+![screenshot 2017-06-08 at 10 19 33 pm](https://user-images.githubusercontent.com/28161368/26958475-f6a1d5a0-4c98-11e7-9ce5-e772795c01a1.png)
  
 ##Google Calendar
  
 You may use Google Calendar to schedule your business and social time.  If that’s the case it may be important to access that information while offline.  Here’s how we enable that.
  
 1 Click the launcher, the all apps and find the Google calendar app
- 
+ ![screenshot 2017-06-08 at 10 26 36 pm](https://user-images.githubusercontent.com/28161368/26958756-69e7f87c-4c9a-11e7-915b-468227909f3a.png)
 Screenshot of launcher and apps w/ calendar
  
 2 You will be brought to your calendar.  Click on the gear near the top right corner to access “offline”.
- 
+ ![screenshot 2017-06-08 at 10 28 02 pm](https://user-images.githubusercontent.com/28161368/26958759-6c90b9d8-4c9a-11e7-8d6e-f4f3050b1b60.png)
 Highlight the gear
  
 3 Click on offline, you will be given the option to enable offline mode.  Click enable and you’re done.  Google will now automatically sync your calendar with your device.
+![screenshot 2017-06-08 at 10 31 30 pm](https://user-images.githubusercontent.com/28161368/26958762-6eb78f98-4c9a-11e7-95b6-a255248fd697.png)
  
 Highlight the enable button
+![screenshot 2017-06-08 at 10 32 06 pm](https://user-images.githubusercontent.com/28161368/26958840-cc6da226-4c9a-11e7-881b-240a58445e95.png)
+
 
 
  
