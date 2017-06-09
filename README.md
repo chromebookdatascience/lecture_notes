@@ -8,12 +8,12 @@
 | Done | What is a chromebook? | Walter Yang |
 | Done | Getting logged on w/ account & w/o account | Walter Yang |
 | Done | How to set up wifi | Walter Yang |
-| Done | Tour of menus | |
-| Done | Personalization | Walter Yang|
+| Done | Tour of menus | Daniel Kim |
+| Done | Personalization | Walter Yang |
 | Claimed | Where are the files stored? Google drive & Local drive | Albert Lee |
 | Claimed | Apps (Circle menu) | | 
 | Not Claimed | Common errors | |
-| Claimed | What is a chrome app | |
+| Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Stackedit | Albert Lee |
 | Not Claimed | Suggested apps | |
@@ -32,7 +32,7 @@
 | Not Claimed | Google Sheets | |
 | Not Claimed | Google Slides | |
 | Not Claimed | Google Docs | |
-| Not Claimed | Google Calendar | |
+| Done | Google Calendar | Daniel Kim |
 | Done and Reviewed | Google Maps | Albert Lee |
 | Not Claimed | Google Hangouts | |
 | Not Claimed | Youtube | |
