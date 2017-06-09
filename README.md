@@ -15,7 +15,7 @@
 | Not Claimed | Common errors | |
 | Done | What is a chrome app | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
-| Claimed | Stackedit | Albert Lee |
+| Claimed | Markdown editing (Stackedit) | Albert Lee |
 | Claimed | Suggested apps | Daniel Kim |
 | Claimed | Working offline | |
 | Not Claimed | Internet safety | |
