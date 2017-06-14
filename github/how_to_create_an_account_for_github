@@ -1,1 +1,28 @@
+---
+title: "How to Create an Account"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+# Github
 
+Hello there! Today we're going to learn about Github.  Github is a platform that allows its users (you) to create, manage, and share projects with others.  It also allows you to view and access the thousands of open-source projects also created on Github.  Its a valuable tool for both beginning and experienced programmers, but before we can use everything Github has to offer, first we must make an account.
+
+## Signing up for Github:
+*Step 1:* Let's navigate to Github's homepage.  You can either google "Github" to type in the URL: https://github.com/.
+
+*Step 2:* Great.  Now that we are on the homepage, look in the top right corner of the website.  You should see the words "Sign up."  Click on it to begin the sign up process.
+
+*Step 3:* Now we need to fill in three fields.  The first is a username.  Express yourself.  Next we need an email address.  This is so Github can contact you about information and projects you will be working on.  Finally, we need a password.  For security's sake, I suggest using a password that is different than your other passwords.  When you're done, click continue.
+
+*Step 4:* Next we must choose a plan.  I would recommend the free plan for now, the premium plan would be more for private companies.
+
+*Step 5:* This step is optional, but you can let Github know how experienced you are with programming.  Don't worry, your answers will not have an effect on what utilities you can access and use.  It's just so Github knows what advice they should give, if at all.  You may skip this step if you would like.
+
+*Step 6:* Once you've finished registering, go to the email account you submitted in step 3.  Click the button in the confirmation email to activate your account.
+
+Congratulations! Now you've signed up for Github and can access everything it can offer.  You can do a little exploring on your own if you would like.  If you would like some more information on how to use Github, look no further.  You can use Github's own project tutorial, or you can follow along.
