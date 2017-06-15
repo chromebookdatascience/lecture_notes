@@ -13,7 +13,9 @@ output:
 This are some Apps that we found helpful or fun while exploring the Chrome Web Store.
 
 
-1. Forest: stay focused, be present
+## 1. Forest: stay focused, be present
+Forest provides an interesting solution to save you from Internet addiction. You can plant a seed in Forest. In the next 30 minutes, this seed will gradually grow into a tree. However, if you cannot resist the temptation and start to browse the websites on your Blacklist, your tree will wither away. With this interesting mechanism, the sense of achievement and responsibility will drive our users to stay away from the distractions with no pain.
+
 2. Grammarly
 3. Momentum
 4. Evernote Web Clipper
