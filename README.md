@@ -25,27 +25,27 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
 | Not Claimed | Pixlr | |
 | Claimed | Suggested apps | Daniel Kim |
-| Done | Working offline | Rachel Wu|
+| Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
 | Not Claimed | Ethics for data science | |
-| Done | Updating your Chromebook | Rachel Wu|
+| Done | [Updating your Chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/updating_your_chromebook.Rmd) | Rachel Wu|
  
 ## Google and the cloud
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done and reviewed | What is the cloud? | Luke Zhu |
+| Done and reviewed | [What is the cloud?](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/what_is_the_cloud.Rmd) | Luke Zhu |
 | Not Claimed | How to get help | |
-| Claimed | Google Drive | Rachel Wu |
-| Done | Google Sheets | Luke Zhu |
-| Done | Google Slides | Luke Zhu |
-| Done | Google Docs | Luke Zhu |
-| Done | Google Calendar | Daniel Kim |
-| Done and Reviewed | Google Maps | Albert Lee |
+| Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu |
+| Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu |
+| Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu |
+| Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu |
+| Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim |
+| Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee |
 | Claimed | Google Hangouts | Daniel Kim |
-| Done | Youtube | Rachel Wu|
+| Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu|
 | Claimed | Gmail/Inbox | Daniel Kim |
-| Done | Dropbox | Luke Zhu |
+| Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
 | Not Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | |
 | Not Claimed | Slack | |
 | Claimed | How to Google | Albert Lee |
