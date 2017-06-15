@@ -1,0 +1,16 @@
+---
+title: "What is a Repository?"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+#What is a Repository?
+
+A repository houses the entirety of a project.  Imagine a filing cabinet.  The repository would be the cabinet itself.  Inside the cabinet are the various folders and files that make up the project.  As you begin working on various projects, each one will likely have its own repository, and any work that you do will be housed in that repository.  We'll go into how to create, manage, and edit your repositories in our next section.
+
+![image](https://user-images.githubusercontent.com/28197711/27204304-672ccd66-51f8-11e7-9c65-cf1d1d0f8feb.png)
