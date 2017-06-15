@@ -16,8 +16,30 @@ This are some Apps that we found helpful or fun while exploring the Chrome Web S
 ## 1. Forest: stay focused, be present
 Forest provides an interesting solution to save you from Internet addiction. You can plant a seed in Forest. In the next 30 minutes, this seed will gradually grow into a tree. However, if you cannot resist the temptation and start to browse the websites on your Blacklist, your tree will wither away. With this interesting mechanism, the sense of achievement and responsibility will drive our users to stay away from the distractions with no pain.
 
-2. Grammarly
-3. Momentum
-4. Evernote Web Clipper
-5. Speedtest by Ookla
-6. Save emails to PDF
+## 2. Grammarly
+Grammarly will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful. Adding Grammarly to Chrome means that your spelling and grammar will be vetted on Gmail, Facebook, Twitter, Linkedin, Tumblr, and nearly everywhere else you write on the web. Once you register your new account, you will start to receive weekly emails with personalized insights and performance stats.
+
+## 3. Momentum
+New Tab page gives you a moment of calm and inspires you to be more productive. Set a daily focus, track your to dos, and get inspired with a daily photo and quote. Eliminate distractions and beat procrastination with a reminder of your focus for the day on every new tab load.
+
+## 4. Evernote Web Clipper
+CLIP IT ALL
+- Great for research—clip any article or web page
+- Clip to a specific notebook and assign tags
+- Use Evernote to find clips on any device
+
+HIGHLIGHT AND SHARE
+- Highlight key text from any website or article
+- Use text and visual callouts to draw attention
+- Share and email clips or create a URL link
+
+CUSTOMIZE CLIPS
+- Special formats for LinkedIn, Amazon & YouTube
+- Clip Gmail threads and attachments
+- Clip as entire page, selection, or simplified article 
+
+## 5. Speedtest by Ookla
+Take a Speedtest directly from your Google Chrome toolbar to quickly test your internet performance without interruption. Measure how fast the pages you visit load with Web Speed. 
+
+## 6. Save emails to PDF
+This extension lets you easily save Gmail™ emails as a PDF document on your computer's hard drive. Our service works in just 1 click, includes any attachments, and you're done! 
