@@ -13,7 +13,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done | [What is a chromebook?](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chromebook.Rmd) | Walter Yang |
-| Done | Getting logged on w/ account & w/o account | Walter Yang |
+| Done | [Getting logged on w/ account & w/o account](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/getting_logged_in.Rmd) | Walter Yang |
 | Done | How to set up wifi | Walter Yang |
 | Done | Tour of menus | Daniel Kim |
 | Done | Personalization | Walter Yang |
