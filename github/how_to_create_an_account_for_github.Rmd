@@ -15,21 +15,23 @@ Hello there! Today we're going to learn about Github.  Github is a platform that
 ## Signing up for Github:
 *Step 1:* Let's navigate to Github's homepage.  You can either google "Github" to type in the URL: https://github.com/.  You should see a page like this:
 
-![screenshot 2017-06-15 at 12 03 30 pm](https://user-images.githubusercontent.com/28197711/27203137-700fd7d0-51f2-11e7-8a61-4eaebe7d71d2.png)
+![screenshot 2017-06-15 at 7 05 42 pm](https://user-images.githubusercontent.com/28197711/27205664-20ab3014-5200-11e7-8c19-e613fac3fe6a.png)
 
 *Step 2:* Great.  Now that we are on the homepage, look in the top right corner of the website.  You should see the words "Sign up."  Click on it to begin the sign up process.
 
-![1](https://user-images.githubusercontent.com/28197711/27203108-4db412aa-51f2-11e7-8037-ef290b4bf961.png)
+![1](https://user-images.githubusercontent.com/28197711/27205355-422eae7a-51fe-11e7-9601-140d34660f41.png)
 
 *Step 3:* Now we need to fill in three fields.  The first is a username.  Express yourself, but stay professional.  Next we need an email address.  This is so Github can contact you about information and projects you will be working on.  Finally, we need a password.  For security's sake, I suggest using a password that is different than your other passwords.  When you're done, click continue.
 
-![screenshot 2017-06-15 at 12 05 33 pm](https://user-images.githubusercontent.com/28197711/27203111-50aeacfe-51f2-11e7-892d-afa7a8c16301.png)
+![screenshot 2017-06-15 at 7 06 19 pm](https://user-images.githubusercontent.com/28197711/27205357-45a511c0-51fe-11e7-9410-739657616aac.png)
 
 *Step 4:* Next we must choose a plan.  I would recommend the free plan for now, the premium plan would be more for private companies.
 
-![screenshot 2017-06-15 at 12 05 33 pm](https://user-images.githubusercontent.com/28197711/27203111-50aeacfe-51f2-11e7-892d-afa7a8c16301.png)
+![screenshot 2017-06-15 at 7 06 48 pm](https://user-images.githubusercontent.com/28197711/27205359-491ad452-51fe-11e7-9d7b-b1039e7e02ae.png)
 
 *Step 5:* This step is optional, but you can let Github know how experienced you are with programming.  Don't worry, your answers will not have an effect on what utilities you can access and use.  It's just so Github knows what advice they should give, if at all.  You may skip this step if you would like.
+
+![screenshot 2017-06-15 at 7 06 56 pm](https://user-images.githubusercontent.com/28197711/27205362-4decc6de-51fe-11e7-8d67-cad16ee0f569.png)
 
 *Step 6:* Once you've finished registering, go to the email account you submitted in step 3.  Click the button in the confirmation email to activate your account.
 
