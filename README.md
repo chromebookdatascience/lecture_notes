@@ -35,7 +35,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done and reviewed | [What is the cloud?](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/what_is_the_cloud.Rmd) | Luke Zhu |
-| Claimed | How to get help | Walter Yang |
+| Done | How to get help | Walter Yang |
 | Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu |
 | Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu |
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu |
