@@ -1,0 +1,33 @@
+---
+title: How to Get Help
+author: Walter Yang
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+ 
+# How to Get Help
+ 
+We’ve all been in a situation where we’re not sure what to do.  There’s nothing wrong with that, and there’s nothing wrong with asking for help.  But it is important to know how and where to ask questions.  Here are some places where you could look for help or advice.
+ 
+## The Internet
+ 
+The Internet is a great place to go for help.  It is also a terrible place to go for help if you don’t know how to use it.  It is a vast place, and unfortunately sometimes, can contain useless or misleading information.  But no other tool on the planet is better for connecting all the minds on the globe.
+ 
+Google will be your ally in your quest.  For an in-depth guide, check out our “How to Google” tutorial.  But for the sake of brevity, I will give you the basics here:
+ 
+1) Don’t type in the question, type in the answer.  Sometimes, particularly technical terms, it is better to just look them up rather than ask “what are CSVs.”  This cuts out extraneous terms from Google’s search engine (what, are) which reduces the number of false positives you might get.
+2) Contrary to the above step, sometimes like minded people will have the same questions you do, and if that’s the case, they may have asked the question elsewhere.  A Google search may turn up old forum posts or Yahoo answers, and a helpful person may have given a good answer.  These answers are sometimes checked (community upvotes and the like) which will give extra credibility to the answer, but get a second opinion just in case.
+3) Add the word “guide” or “tutorial” to your search.  For certain programs, software, and other things, people will have posted guides to the subject.  Use them, but make sure they’re up to date.  Youtube often has very helpful guides with a visual element which could be very helpful.
+4) Try the company website.  This is for software only, but some software developers will have guides for their software on their website.
+5) If all hope is lost, then you can post your own question on a forum.  This is not as effective as other methods due to the reliance on other people answering your question in a timely manner, but if you have the time, it could help you get answers to rarer questions.
+ 
+## People
+ 
+Sometimes it’s good to get answers from an expert.
+ 
+1) Try customer service.  If you have a question regarding software you can always call customer service and see if they can answer your question.  You can find most customer service numbers on the company’s website.
+2) Ask a friend.  Perhaps you know someone good with computers.  They may be able to help you with your problem.  Do be respectful however, sometimes people may be too busy to help you at the present moment.
