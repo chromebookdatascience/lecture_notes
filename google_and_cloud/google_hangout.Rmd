@@ -20,7 +20,7 @@ At the end you will know how to:
 
 ## What is Google Hangouts?
 
-Google Hangouts is a communications service that allows members to participate in text, voice or video chats, either one-on-one or in a group. Hangouts are built into Google+ and Gmail, and mobile apps are available for both iOS and Android devices.
+[Google Hangouts](https://hangouts.google.com/) is a communications service that allows members to participate in text, voice or video chats, either one-on-one or in a group. Hangouts are built into Google+ and Gmail, and mobile apps are available for both iOS and Android devices.
 
 ## Getting Started
 
