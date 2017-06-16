@@ -1,0 +1,99 @@
+---
+title: google calendar
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Gmail
+
+### Objectives
+At the end you will know how to:
+1. Understand what Gmail is used for.
+2. Compose emails and send.
+3. Reply to emails.
+4. Find emails.
+
+## What is Gmail?
+
+[Gmail](https://www.gmail.com/) is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides 
+the ability to search fro specific emails. Gmail also automatically organizes related emails into a conversational thread.
+
+## Getting Started
+
+You can access Gmail by typing "Gmail" on ["Google.com"](https://www.google.com) or by clicking on the start menu located on the lower left hand
+corner and searching for "Gmail". Eventually you will see a screen similar to the one down below.
+
+![gmail log in page](https://user-images.githubusercontent.com/19320775/27214510-e67bdc00-523a-11e7-877d-201e76ab67f4.png)
+
+After inputting your email and password you will be able to see your inbox.
+
+![Gmail inbox](https://user-images.githubusercontent.com/19320775/27214726-deec91e0-523b-11e7-843f-0687120babe3.png)
+
+## Compose and Send
+
+You can send and email by first pressing the "Compose" button on the top left corner.
+
+![compose button](https://user-images.githubusercontent.com/19320775/27214878-a34bd384-523c-11e7-91e5-b388b1077a75.png)
+
+A box will pop-up where you can enter the recipient, subject, and content of the email.
+There are a few buttons at the buttom of the email box that are very helpful:
+
+Formatting the text of the email.
+
+![Formatting options](https://user-images.githubusercontent.com/19320775/27215124-e0dea3ec-523d-11e7-8e3e-8c115e98c6f1.png)
+
+Attaching Files.
+
+![Attach files](https://user-images.githubusercontent.com/19320775/27215125-e41f97aa-523d-11e7-8788-70ba8ea31f85.png)
+
+Inserting files using Drive.
+
+![Insert files using Drive](https://user-images.githubusercontent.com/19320775/27215131-e6bd7b80-523d-11e7-900a-54197be1d8c0.png)
+
+Inserting photos.
+
+![Insert photo](https://user-images.githubusercontent.com/19320775/27215134-e9dd2e46-523d-11e7-8258-d499faaaee25.png)
+
+Inserting link (Ctrl-K).
+
+![Insert link](https://user-images.githubusercontent.com/19320775/27215137-ecd3051c-523d-11e7-826a-ccc7d290faa8.png)
+
+Insert emoji (Ctrl-Shift-2)
+
+![Insert emoji](https://user-images.githubusercontent.com/19320775/27215143-efde3b46-523d-11e7-967d-59c02c0db829.png)
+
+Discarding email draft.
+
+![Discard draft](https://user-images.githubusercontent.com/19320775/27215146-f246da6e-523d-11e7-8544-9735e5cf7158.png)
+
+For more options.
+
+![More options](https://user-images.githubusercontent.com/19320775/27215149-f50aabc2-523d-11e7-853d-8d5ef613569d.png)
+
+After you are done writing your email just press the "Send" button and you are done!!
+
+![Send button](https://user-images.githubusercontent.com/19320775/27215503-8f49706e-523f-11e7-971a-85d44ac9f1a0.png)
+
+## Reply to email
+
+First find the email you want to reply to on your inbox and click on it. To reply to that email scroll all the way down the email
+until you find a box similar to the one below and simply just click on it. After writing your response to the email click the send
+button and you are done!!
+
+![Reply box](https://user-images.githubusercontent.com/19320775/27215602-0904cde0-5240-11e7-938b-d9217f63998a.png)
+
+## Find emails
+
+To find emails in your inbox you can type on the search box the subject of the email, the name of the person who sent the email, or
+the content of the email. The search box looks like the image below and is located at the top of the screen.
+
+![Search Box](https://user-images.githubusercontent.com/19320775/27216020-e2086f6a-5241-11e7-8198-f5a94cb177d9.png)
+
+
+
+
