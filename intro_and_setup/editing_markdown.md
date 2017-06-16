@@ -9,6 +9,11 @@ output:
     fig_height: 5
 ---
 
+Objectives
+- Be able to edit markdown documents!
+- Learn how to use Dillinger and Stackedit
+- Learn how to edit using Github's markdown editor
+
 # Markdown editing tutorial
 
 Like I explained in [my markdown tutorial]() editing markdown is very simple. While my advice for editing markdown on a non-Chromebook is to install a markdown editor, on a Chromebook you have two options - github or an online markdown editor.

@@ -1,0 +1,19 @@
+---
+title: "What were the goals"
+author: "Albert"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+## What were the goals?
+It is very important that you accurately report what the goals were for the day. It is okay to miss your goals once in a while as long as you are honest and tried your best. If you find yourself consistently missing your goals despite putting in maximum effort you should talk with your employer to create more realistic goals. Ideally your goals will be challenging but doable.
+
+## How to tackle your goals?
+A list of tasks you need to finish by the end of the day might look intimidating, but if you break each task into subtasks then the tasks will look much more doable. For example, if your task is to create a complex interactive visualization for your client, it might look like an impossible task for the day. But if you look at the task and start to look at bits and pieces of the problem that you think can be solved easily and move up in complexity, then you will make meaningful progress. If you fail to accomplish the task that just means that you need to set smaller goals for the next day.
+
+## Honesty and trust
+While the daily report has many categories, this section is by far the most important. The goals that you set with your employer will largely determine your relationship with them. Choose your goals wisely and make sure to choose realistic goals that you are confident you will be able to tackle. It is far better to overachieve on easier deliverables than it is to underachieve on difficult deliverables!

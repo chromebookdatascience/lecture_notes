@@ -1,0 +1,26 @@
+---
+title: The App Menu
+author: Rachel Wu
+output:
+ github_document:
+   toc: true
+   toc_depth: 2
+   fig_width: 5
+   fig_height: 5
+---
+ 
+# The App Menu
+ 
+Down in the bottom left corner of your screen you will see a circle.
+ 
+![new-chromebook-app-launcher-icon](https://user-images.githubusercontent.com/28161368/27210677-0e60591c-5222-11e7-9425-977e538b7d5e.png)
+ 
+
+This is the button that accesses the app menu.  This menu contains all of your most frequently used apps.  Less frequently used apps are hidden behind the “All Apps” button.
+ 
+![all apps](https://user-images.githubusercontent.com/28161368/27210720-5cc1b56a-5222-11e7-9a9a-0fb43bb6c0f6.png)
+ 
+
+Want to do something new?  Maybe you just want more apps?  Just use the Chrome Webstore.  We also have a guide on what apps are and how to use the webstore called “What is an App?”
+ 
+

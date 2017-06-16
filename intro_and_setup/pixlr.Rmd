@@ -1,0 +1,48 @@
+---
+Title: Pixlr.com
+author: Rachel Wu
+output:
+ github_document:
+   toc: true
+   toc_depth: 2
+   fig_width: 5
+   fig_height: 5
+---
+# Pixlr
+## What is Pixlr?
+ 
+Pixlr, at Pixlr.com,  is an online photo editor in the same vein as photoshop and paint.  You can use it to spruce up projects and screenshots that you may add to your projects.  Let’s run through the basics of how to use Pixlr.
+ 
+
+*Step 1:* Navigate to Pixlr.com
+ 
+![pixlar](https://user-images.githubusercontent.com/28161368/27210747-a06ae908-5222-11e7-985f-13351fee7e3a.PNG)
+ 
+ 
+
+*Step 2:* When using Pixlr, you can either create a new image, or edit one that you already have.
+Create a new image: Click on file, then new image.  Give it a name, and then you’re set.
+ 
+![new image](https://user-images.githubusercontent.com/28161368/27210931-f74463f2-5223-11e7-8f42-5f71bf8ebe36.png)
+![name](https://user-images.githubusercontent.com/28161368/27211050-9cf593d4-5224-11e7-84ed-a2f9385dc3ce.PNG)
+![open new image](https://user-images.githubusercontent.com/28161368/27211102-f06bc678-5224-11e7-8ed8-278cd98eb5b6.PNG)
+![name](https://user-images.githubusercontent.com/28161368/27211050-9cf593d4-5224-11e7-84ed-a2f9385dc3ce.PNG)
+ 
+ 
+
+Edit an existing image: Click on file, then open image.  Then you’re set.
+ 
+![open image](https://user-images.githubusercontent.com/28161368/27211263-191c8480-5226-11e7-89de-c57fec79ad22.PNG)
+ 
+
+So now we have our “canvas” upon which we will “paint.”  You have a number of tools available such as the shape and brush tools.  Explore the menu on the left and experiment a little to see what they do.
+ 
+![common tools](https://user-images.githubusercontent.com/28161368/27211330-949e804a-5226-11e7-9aba-e74c870e4659.jpg)
+ 
+ 
+Familiarize yourself with the various editing panels. ...
+Use selection tools. ...
+Use editing tools. ...
+Use blending tools. ...
+Use special filters and effects. ...
+Use miscellaneous tools.

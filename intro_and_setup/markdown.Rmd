@@ -11,6 +11,11 @@ output:
 
 # Markdown tutorial
 
+Objectives:
+- Learn what markdown is and what it is used for
+- Learn the major markdown script modifiers
+- Realize anyone who can type can use markdown!
+
 ## What is Markdown? 
 
 Markdown is a simple and lightweight markup language which is designed to be displayed on the web.
@@ -82,3 +87,6 @@ If want to change the text that my link shows up as I can just change what's in 
 And of course, without the quotations:
 [Here is my new text](www.google.com)
 
+## What to do next
+
+Move on to the next tutorial on online markdown editors and create your own markdown documents!
