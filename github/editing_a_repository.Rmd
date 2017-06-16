@@ -33,13 +33,28 @@ In a more professional environment, where you may be working with others, your c
 
 *Step 1:* Let's create that feature branch.  Go to your repository page.  Find the button that says "branch: master."  This button shows you which branch you're on and is how you access already created branches.
 
+![1](https://user-images.githubusercontent.com/28197711/27207856-d5ed930e-520f-11e7-8234-3ea27d494519.png)
+
 *Step 2:* Click on the button that says "branch: master." Type in the name of the new branch.  The name will typically be about what you're going to change.  Click the create branch button when you're finished.
 
-*Step 3:* Now you're in the new branch.  Time to make some changes.  When you're done, write a short description on what you've changed, then hit commit to save those changes.
+![screenshot 2017-06-15 at 8 30 39 pm](https://user-images.githubusercontent.com/28197711/27207862-e52ea56a-520f-11e7-9b21-c2115aede558.png)
 
-*Step 4:* Perfect.  Now we need to merge those changes into the master branch.  We can do this through a pull request.  Open a pull request by clicking on the pull request tab, then clicking on "new pull request."  Select the branch you made.  Github will automatically compare the changes you've made to the original so look over them until you're satisfied.  Clikc on the green "Create pull request" button to submit the pull request.
+*Step 3:* Now you're in the new branch.  Time to make some changes.  Refer to the direct editing guide if you need a refresher on how to edit a repository.  When you're done, write a short description on what you've changed, then hit commit to save those changes.
+
+![screenshot 2017-06-15 at 8 33 29 pm](https://user-images.githubusercontent.com/28197711/27207877-00492b04-5210-11e7-9403-4c80d209523f.png)
+![screenshot 2017-06-15 at 8 31 25 pm](https://user-images.githubusercontent.com/28197711/27207873-fbd6ae34-520f-11e7-981e-56927d120030.png)
+
+*Step 4:* Perfect.  Now we need to merge those changes into the master branch.  We can do this through a pull request.  Open a pull request by clicking on the pull request tab, then clicking on "new pull request."  Select the branch you made.  Github will automatically compare the changes you've made to the original so look over them until you're satisfied.  Click on the green "Create pull request" button to submit the pull request.
+
+![5](https://user-images.githubusercontent.com/28197711/27207897-37e9bb1e-5210-11e7-9fdb-c18c7efbace2.png)
+![screenshot 2017-06-15 at 8 35 05 pm](https://user-images.githubusercontent.com/28197711/27207910-4073f2ae-5210-11e7-8f05-44cc4d2afa33.png)
+![screenshot 2017-06-15 at 8 35 23 pm](https://user-images.githubusercontent.com/28197711/27207962-9753a178-5210-11e7-9839-8fb5f54ac159.png)
+![screenshot 2017-06-15 at 8 35 27 pm](https://user-images.githubusercontent.com/28197711/27207968-a2ed40e8-5210-11e7-8a82-c50029dfc8c0.png)
+![screenshot 2017-06-15 at 8 35 33 pm](https://user-images.githubusercontent.com/28197711/27207970-a7e67dd0-5210-11e7-8018-73a69d6c0e38.png)
 
 *Step 5:* The pull request has been submitted.  If you're working with or for someone else, you should wait to see what they think of the pull request.  If they approve, then they will merge it to the repository.  If you're in charge, here's how you merge pull requests onto the master branch: Click the green "merge pull request" button on the repository page.  Click confirm merge, and viola!  The master branch has been updated.  To keep things organized, I advise deleting the feature branch afterwards, but you may want to save it to keep track of your progress.
+
+![screenshot 2017-06-15 at 8 35 46 pm](https://user-images.githubusercontent.com/28197711/27207978-c271d924-5210-11e7-8be9-0dffe4a524ad.png)
 
 Congratulations!  You've made it through our tutorial.  Well done.  Now you know everything you need to know about making, sharing, and editing a project.  Time for you to tackle your own projects. If you ever need a refresher on how things work, this tutorial will be available for you.  Happy programming!
 
