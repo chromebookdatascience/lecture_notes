@@ -18,12 +18,12 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Tour of menus](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/tour_of_the_menus.Rmd) | Daniel Kim |
 | Done | [Personalization](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/customizing_your_chromebook.Rmd) | Walter Yang |
 | Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang |
-| Claimed | Apps (Circle menu) | Rachel Wu | 
-| Claimed | Common errors | Rachel Wu |
+|Done | Apps (Circle menu) | Rachel Wu | 
+| Done | Common errors | Rachel Wu |
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
-| Claimed | Pixlr | Rachel Wu|
+| Done | Pixlr | Rachel Wu|
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
