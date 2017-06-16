@@ -1,0 +1,45 @@
+# Editing a Repository
+Today we're going to learn the two ways to edit a repository.  But first let me explain how repositories work.  These repositories use a system called branching.  The original file is called the master branch.  You can edit the master branch directly, which is done for the convenience and ease-of-access.  The other method creates a new branch.  These new branches are called feature branches, and can be merged back into the master branch to update the master branch.  This system offers a couple benefits.  It protects the data of the master branch since you won't be editing it directly.  So if you make a mistake that you want to undo, don't worry, you can just return to the master branch.  The system also lets other users of Github to look, suggest, and make edits of their own, with your permission of course.  Anyways, enough talking, let's see it in action.
+
+## Direct Editing
+
+Editing the main branch directly has some advantages.  It's fast and convenient, and if you're not working on a project with others, then this is probably the way to go.
+
+*Step 1:* Let's access our repository.  In this example, I've created a repository called "Test."  The front page will look something like this:
+
+![screenshot 2017-06-15 at 8 10 38 pm](https://user-images.githubusercontent.com/28197711/27206903-7d7be1fa-5208-11e7-9eb8-010df4405a2d.png)
+
+*Step 2:* Click on the file that you would like to edit.  I'm going to edit the README.txt.
+
+![2](https://user-images.githubusercontent.com/28197711/27206965-1b41a51e-5209-11e7-9388-044493ae5d98.png)
+
+*Step 3:* This will have brought you to a new page.  It will display the file in questions along with some options.  On the right side of the screen you will see a pencil icon, click on that to begin editing the file.
+
+![3](https://user-images.githubusercontent.com/28197711/27206969-1e2abe64-5209-11e7-94ef-b0b71b205a0b.png)
+
+*Step 4:* Now we're on the editing page.  This works just like notebook, you can type in whatever you like."
+
+![screenshot 2017-06-15 at 8 11 11 pm](https://user-images.githubusercontent.com/28197711/27206976-239fad14-5209-11e7-94fb-16992ea1c40c.png)
+
+*Step 5:* Now that we've finished our edits, we have to save our progress.  Scroll down to the green "commit" button.  This will commit any changes we've made to the main branch.  Save regularly so you don't lose work.
+
+![screenshot 2017-06-15 at 8 11 43 pm](https://user-images.githubusercontent.com/28197711/27206981-269b84f2-5209-11e7-9ddf-e93fbfbcacc5.png)
+
+And that's it!  You'll be taken back to the main file page, where you could choose to do some more edits, or return to the main repository page.
+
+## Feature Branches
+
+In a more professional environment, where you may be working with others, your changes may need to be approved before they are added to the main branch.  We can do that by creating a feature branch that is safe to edit, then request that it be merged with the master branch.  Whoever has the authority to merge these edits will then take a look and hopefull approve it.
+
+*Step 1:* Let's create that feature branch.  Go to your repository page.  Find the button that says "branch: master."  This button shows you which branch you're on and is how you access already created branches.
+
+*Step 2:* Click on the button that says "branch: master." Type in the name of the new branch.  The name will typically be about what you're going to change.  Click the create branch button when you're finished.
+
+*Step 3:* Now you're in the new branch.  Time to make some changes.  When you're done, write a short description on what you've changed, then hit commit to save those changes.
+
+*Step 4:* Perfect.  Now we need to merge those changes into the master branch.  We can do this through a pull request.  Open a pull request by clicking on the pull request tab, then clicking on "new pull request."  Select the branch you made.  Github will automatically compare the changes you've made to the original so look over them until you're satisfied.  Clikc on the green "Create pull request" button to submit the pull request.
+
+*Step 5:* The pull request has been submitted.  If you're working with or for someone else, you should wait to see what they think of the pull request.  If they approve, then they will merge it to the repository.  If you're in charge, here's how you merge pull requests onto the master branch: Click the green "merge pull request" button on the repository page.  Click confirm merge, and viola!  The master branch has been updated.  To keep things organized, I advise deleting the feature branch afterwards, but you may want to save it to keep track of your progress.
+
+Congratulations!  You've made it through our tutorial.  Well done.  Now you know everything you need to know about making, sharing, and editing a project.  Time for you to tackle your own projects. If you ever need a refresher on how things work, this tutorial will be available for you.  Happy programming!
+
