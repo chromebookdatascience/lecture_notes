@@ -35,7 +35,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done and reviewed | [What is the cloud?](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/what_is_the_cloud.Rmd) | Luke Zhu |
-| Not Claimed | How to get help | |
+| Claimed | How to get help | Walter Yang |
 | Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu |
 | Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu |
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu |
@@ -47,7 +47,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Gmail/Inbox | Daniel Kim |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
 | Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | Daniel Kim |
-| Not Claimed | Slack | |
+| Claimed | Slack | Walter Yang |
 | Claimed | How to Google | Albert Lee |
  
  
