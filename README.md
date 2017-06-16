@@ -69,13 +69,13 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## R
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Claimed | What is R | Luke Zhu |
-| Claimed | What is R used for? | Luke Zhu |
-| Claimed | How to run R on chromebook | Luke Zhu |
+| Done | [What is R](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/what_is_R.Rmd) | Luke Zhu |
+| Done | [What is R used for?](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/what_is_R_used_for.Rmd) | Luke Zhu |
+| Done | [How to run R on chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/how_to_run_R_on_a_chromebook.Rmd) | Luke Zhu |
 | Not Claimed | Digital Ocean | |
-| Claimed | Tour of R Studio | Luke Zhu |
-| Claimed | Getting data in | Luke Zhu |
-| Claimed | Add on packages | Luke Zhu |
+| Done | [Tour of R Studio](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/tour_of_rstudio.Rmd) | Luke Zhu |
+| Done | [Getting data in](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/getting_data_in_R.Rmd) | Luke Zhu |
+| Done | [Add on packages](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/add_on_packages_R.Rmd) | Luke Zhu |
 | Not Claimed | R Markdown | |
 | Not Claimed | R Reports | |
 | Not Claimed | Creating pdfs with R | |
