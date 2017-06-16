@@ -14,15 +14,23 @@ This are some Apps that we found helpful or fun while exploring the Chrome Web S
 
 
 ## 1. Forest: stay focused, be present
+![Forest app picture](https://user-images.githubusercontent.com/19320775/27208740-6eac81fe-5215-11e7-8bf1-adcdd46f96a3.PNG)
+
 Forest provides an interesting solution to save you from Internet addiction. You can plant a seed in Forest. In the next 30 minutes, this seed will gradually grow into a tree. However, if you cannot resist the temptation and start to browse the websites on your Blacklist, your tree will wither away. With this interesting mechanism, the sense of achievement and responsibility will drive our users to stay away from the distractions with no pain.
 
 ## 2. Grammarly
+![Grammarly app picture](https://user-images.githubusercontent.com/19320775/27208804-f11c3d32-5215-11e7-8e0b-fcceb5ce6f8c.PNG)
+
 Grammarly will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful. Adding Grammarly to Chrome means that your spelling and grammar will be vetted on Gmail, Facebook, Twitter, Linkedin, Tumblr, and nearly everywhere else you write on the web. Once you register your new account, you will start to receive weekly emails with personalized insights and performance stats.
 
 ## 3. Momentum
+![Momentum app picture](https://user-images.githubusercontent.com/19320775/27208861-5e9e1a92-5216-11e7-9074-8e054c7c539c.PNG)
+
 New Tab page gives you a moment of calm and inspires you to be more productive. Set a daily focus, track your to dos, and get inspired with a daily photo and quote. Eliminate distractions and beat procrastination with a reminder of your focus for the day on every new tab load.
 
 ## 4. Evernote Web Clipper
+![Evernote app picture](https://user-images.githubusercontent.com/19320775/27209002-33041278-5217-11e7-8a96-793a9902b6e5.PNG)
+
 CLIP IT ALL
 - Great for research—clip any article or web page
 - Clip to a specific notebook and assign tags
@@ -39,7 +47,11 @@ CUSTOMIZE CLIPS
 - Clip as entire page, selection, or simplified article 
 
 ## 5. Speedtest by Ookla
+![Speedtest app picture](https://user-images.githubusercontent.com/19320775/27209022-45db53ca-5217-11e7-9cf2-6044fa9fd101.PNG)
+
 Take a Speedtest directly from your Google Chrome toolbar to quickly test your internet performance without interruption. Measure how fast the pages you visit load with Web Speed. 
 
 ## 6. Save emails to PDF
+![Emails to PDF app picture](https://user-images.githubusercontent.com/19320775/27209027-59897686-5217-11e7-8a8a-d8bc93ba9fb3.PNG)
+
 This extension lets you easily save Gmail™ emails as a PDF document on your computer's hard drive. Our service works in just 1 click, includes any attachments, and you're done! 
