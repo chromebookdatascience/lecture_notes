@@ -1,15 +1,14 @@
-
 ---
-title: "Customizing Your Chromebook"
-author: "Rachel"
+title: Common errors
+author: Rachel Wu
 output:
-  github_document:
-    toc: true
-    toc_depth: 2
-    fig_width: 5
-    fig_height: 5
+ github_document:
+   toc: true
+   toc_depth: 2
+   fig_width: 5
+   fig_height: 5
 ---
- 
+
 
  
 # Common Errors
