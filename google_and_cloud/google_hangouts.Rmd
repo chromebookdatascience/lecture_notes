@@ -1,0 +1,86 @@
+---
+title: "Google Hangouts"
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Google Hangouts
+
+### Objectives
+At the end you will know how to:
+1. Understand what Google Hangouts is used for.
+2. Video Call.
+3. Phone Call.
+4. Message.
+
+## What is Google Hangouts?
+
+Google Hangouts is a communications service that allows members to participate in text, voice or video chats, either one-on-one or in a group. Hangouts are built into Google+ and Gmail, and mobile apps are available for both iOS and Android devices.
+
+## Getting Started
+
+You can access Google Hangouts by searching "Google Hangouts" on Google.com or by clicking on the start menu located on the lower left hand corner and searching for "Google Calendar". Both options should give you a screen similar to the one below.
+
+![Google Hangouts Picture](https://user-images.githubusercontent.com/19320775/27210006-6453fafe-521d-11e7-990f-87702fc9894d.png)
+
+## Video Call
+
+To initiate a video call simply click on the "Video Call" button located at the center of the screen.
+
+![video call button](https://user-images.githubusercontent.com/19320775/27211544-f9da1df6-5227-11e7-9eb0-7b9af1cf1633.png)
+
+When this button is clicked a new screen will pop-up as shown below. To invite people to your google hangouts you can either search them by their names or emails or you can press the "Copy Link To Share" button and send them an invite link. 
+
+![Video call pressed](https://user-images.githubusercontent.com/19320775/27210253-133ed1c8-521f-11e7-813b-bf6c38b010ef.png)
+
+During the video call if you press on the botton at the very right corner 5 settings will show up:
+1. Share screen
+2. Fullscreen
+3. Chat
+4. Help
+5. Feedback
+
+If you want to share your screen with people currently in your hangout simply click on the "Share Screen" option and choose either to share your entire screen or just one specific application window that you have open.
+
+![share screen options](https://user-images.githubusercontent.com/19320775/27210694-2aa1bc38-5222-11e7-8ea6-acdfd479f7c4.png)
+
+After pressing the Share button you will get a simlar screen as the image below. You can stop sharing your screen by pressing on the "STOP" button located at the top of the screen.
+
+![Share screen enabled](https://user-images.githubusercontent.com/19320775/27210795-ea815fb8-5222-11e7-8309-93556a2d45dd.png)
+
+If you want to make the video call into fullscreen you can press the "Fullscreen" button on the same menu.
+
+Sometimes you need to type a message to everyone in the video call. You can do this by pressing the "Chat" button that will show a pop-up as the one shown below on the lower left corner.
+
+![Message pop-up](https://user-images.githubusercontent.com/19320775/27211117-1173eb3e-5225-11e7-8362-68bef929ce78.png)
+
+For more information or if you are unsure about anything you can always click on the "Help" option that will open a new window with tutorials and guides on how to solve problems and explanations on how to use Google Hangouts.
+
+## Phone Call
+
+Suprisingly, you can also make a phone call in Google Hangouts. You can do this by firs pressing on the "Phone Call" button.
+
+![phone call button](https://user-images.githubusercontent.com/19320775/27211554-0d616f50-5228-11e7-8056-8aec4a0b285e.png)
+
+To enter a phone number you can press on the "New Conversation" button.
+
+![New Conversation button](https://user-images.githubusercontent.com/19320775/27211530-e503222e-5227-11e7-8872-64782811622f.png)
+
+After entering the number you can select what country you want to call and simply press "Call".
+
+![entering number](https://user-images.githubusercontent.com/19320775/27211645-c5b335d4-5228-11e7-8bf0-411823db2112.png)
+
+## Message
+
+To message people who have Google accounts you can start by pressing on the "Message" button.
+
+![Message button](https://user-images.githubusercontent.com/19320775/27211555-10a554a6-5228-11e7-9be5-061400a47e8e.png)
+
+Afterwards you can enter the names, email, op phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
+
+![Adding people to message](https://user-images.githubusercontent.com/19320775/27211760-82ad9a3a-5229-11e7-92a6-e57cf8336958.png)
