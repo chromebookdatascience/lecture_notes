@@ -44,7 +44,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee |
 | Done | [Google Hangouts](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_hangout.Rmd) | Daniel Kim |
 | Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu|
-| Claimed | Gmail/Inbox | Daniel Kim |
+| Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
 | Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | Daniel Kim |
 | Claimed | Slack | Walter Yang |
