@@ -26,7 +26,7 @@ Google Calendar is designed for teams, so it’s easy to share your schedule wit
 
 ## Getting Started
 
-You can access Google calendar by searching "Google Calendar" on the Google.com or by clicking on the start menu located on the lower left hand corner and searching for "Google Calendar".
+You can access Google calendar by searching "Google Calendar" on Google.com or by clicking on the start menu located on the lower left hand corner and searching for "Google Calendar".
 
 This is what it should look like when "Google Calendar" is typed in Google.com.
 
