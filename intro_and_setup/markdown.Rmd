@@ -12,9 +12,9 @@ output:
 # Markdown tutorial
 
 Objectives:
--[ ] Learn what markdown is and what it is used for
--[ ] Learn the major markdown script modifiers
--[ ] Realize anyone who can type can use markdown!
+- [ ] Learn what markdown is and what it is used for
+- [ ] Learn the major markdown script modifiers
+- [ ] Realize anyone who can type can use markdown!
 
 ## What is Markdown? 
 
