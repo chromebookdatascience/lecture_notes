@@ -69,13 +69,13 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## R
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Not Claimed | What is R | |
-| Not Claimed | What is R used for? | |
-| Not Claimed | How to run R on chromebook | |
+| Claimed | What is R | Luke Zhu |
+| Claimed | What is R used for? | Luke Zhu |
+| Claimed | How to run R on chromebook | Luke Zhu |
 | Not Claimed | Digital Ocean | |
-| Not Claimed | Tour of R Studio | |
-| Not Claimed | Getting data in | |
-| Not Claimed | Add on packages | |
+| Claimed | Tour of R Studio | Luke Zhu |
+| Claimed | Getting data in | Luke Zhu |
+| Claimed | Add on packages | Luke Zhu |
 | Not Claimed | R Markdown | |
 | Not Claimed | R Reports | |
 | Not Claimed | Creating pdfs with R | |
