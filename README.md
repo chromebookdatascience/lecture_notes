@@ -55,12 +55,12 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Claimed | How to create an account | Walter: I have an old tutorial that I'll repurpose. |
+| Done | How to create an account | Walter |
 | Not Claimed | Version control | |
 | Not Claimed | How to work with website | |
-| Claimed | What is a repository | Walter Yang |
-| Claimed | Create repository | Walter Yang |
-| Claimed | Edit repository | Walter Yang|
+| Done | What is a repository | Walter Yang |
+| Done | Create repository | Walter Yang |
+| Done | Edit repository | Walter Yang|
 | Claimed | Make an issue | Daniel Kim |
 | Not Claimed | How to search for code | |
 | Claimed | Public vs private repos | Daniel Kim |
