@@ -23,7 +23,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim |
 | Claimed | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
-| Claimed | Pixlr | Rachel WU|
+| Claimed | Pixlr | Rachel Wu|
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
