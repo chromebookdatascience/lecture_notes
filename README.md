@@ -18,12 +18,12 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Tour of menus](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/tour_of_the_menus.Rmd) | Daniel Kim |
 | Done | [Personalization](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/customizing_your_chromebook.Rmd) | Walter Yang |
 | Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang |
-|Done | Apps (Circle menu) | Rachel Wu | 
-| Done | Common errors | Rachel Wu |
+|Done | [Apps (Circle menu)](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/app_menu.Rmd) | Rachel Wu | 
+| Done | [Common errors](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/common_errors.Rmd) | Rachel Wu |
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim |
-| Done | MarkDown | Albert Lee |
+| Done | [MarkDown](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/markdown.Rmd) | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
-| Done | Pixlr | Rachel Wu|
+| Done | [Pixlr](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/pixlr.Rmd) | Rachel Wu|
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
@@ -35,14 +35,14 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done and reviewed | [What is the cloud?](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/what_is_the_cloud.Rmd) | Luke Zhu |
-| Done | How to get help | Walter Yang |
+| Done | [How to get help](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/how_to_get_help.Rmd) | Walter Yang |
 | Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu |
 | Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu |
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu |
 | Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu |
 | Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim |
 | Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee |
-| Claimed | Google Hangouts | Daniel Kim |
+| Done | [Google Hangouts](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_hangout.Rmd) | Daniel Kim |
 | Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu|
 | Claimed | Gmail/Inbox | Daniel Kim |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
@@ -55,12 +55,12 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Done | How to create an account | Walter |
+| Done | [How to create an account](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/how_to_create_an_account_for_github.Rmd) | Walter |
 | Not Claimed | Version control | |
 | Not Claimed | How to work with website | |
-| Done | What is a repository | Walter Yang |
-| Done | Create repository | Walter Yang |
-| Done | Edit repository | Walter Yang|
+| Done | [What is a repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/what_is_a_repository.Rmd) | Walter Yang |
+| Done | [Create repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/creating_a_repository.Rmd) | Walter Yang |
+| Done | [Edit repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/editing_a_repository.Rmd) | Walter Yang|
 | Claimed | Make an issue | Daniel Kim |
 | Not Claimed | How to search for code | |
 | Claimed | Public vs private repos | Daniel Kim |
@@ -125,8 +125,8 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## Reporting
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Finished | Daily report in Rmarkdown | Albert Lee|
-| Finished | What were the goals | Albert Lee|
+| Finished | [Daily report in Rmarkdown](https://github.com/chromebookdatascience/lecture_notes/blob/master/reporting/daily_reporting.rmd) | Albert Lee|
+| Finished | [What were the goals](https://github.com/chromebookdatascience/lecture_notes/blob/master/reporting/daily_tasks.rmd) | Albert Lee|
 | Claimed | What I did | Albert Lee|
 | Claimed | What are the goals for tomorrow | Albert Lee|
 | Claimed | Weekly reports | Albert Lee|
