@@ -125,11 +125,11 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## Reporting
 |status | topic | notes |
 | :---|  :--- |  :--- |
-| Not Claimed | Daily report in Rmarkdown | |
-| Not Claimed | What were the goals | |
-| Not Claimed | What I did | |
-| Not Claimed | What are the goals for tomorrow | |
-| Not Claimed | Weekly reports | |
+| Claimed | Daily report in Rmarkdown | Albert Lee|
+| Claimed | What were the goals | Albert Lee|
+| Claimed | What I did | Albert Lee|
+| Claimed | What are the goals for tomorrow | Albert Lee|
+| Claimed | Weekly reports | Albert Lee|
 
  
 ## Extras
