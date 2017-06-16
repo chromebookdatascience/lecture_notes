@@ -1,0 +1,42 @@
+---
+title: "Getting Data in R"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Working with Data in R
+When working with data, it is important to know how to set values to R objects and call them whenever necessary. In addition, data must be saved to the cloud in order for the RStudio session to read the data. Uploading data to the cloud can take multiple forms, such as downloading data directly from the source, or the user can upload the data manually using the `Upload` button. 
+
+## Loading Data
+In order to analyze data with R, the data has to be loaded into the session by saving the data inside of R objects, or variables. For example:
+```
+> a = 3
+> b = 6
+> a * b
+[1] 18
+```
+In the above sample code, two R objects were made; `a` was given the integer value `3` and `b` was given the integer value `6`. In the third line, `a` is multiplied by `b`, and R returned the solution as `18`. In this scenario, the data was two integers, `3` and `6`, and the analysis was to see what the product of `3` and `6` is. 
+Unfortunately, it is not always so simple as declaring a variable name and setting it equal to the desired value. If instead of `3`, `a` is supposed to be a 2 x 2 matrix of 3's, it wouldn't suffice to list four 3's. The code for a 2 x 2 matrix is:
+```
+> a = matrix(3, nrow = 2, ncol = 2)
+> a
+      [,1]  [,2]
+[1,]     3     3
+[2,]     3     3
+```
+The first argument, `3`, indicates the value of each cell. `nrow` indicates the number of rows, while `ncol` is the number of columns. Thus, a matrix of 2 rows and 2 columns filled with 3's is constructed. 
+Depending on the type of data that needs to be analyzed, the syntax will change.
+
+## Uploading Data to RStudio Cloud
+The simplest means of uploading data to RStudio Cloud is using the `Upload` button in the file manager sub-window. This copies the file from the local computer to the cloud. Unfortunately for Chromebook users, the storage on Chromebooks is extremely limited, so the size of files is limited. In addition, it is normal for internet upload speeds to be very slow, and much slower than download speeds, so larger files will naturally take a longer time to upload.
+If the data is available from an online source, then it is possible to command RStudio to download straight from the source. Since the interaction is between the cloud and the data source, local internet and storage no longer become a constraint. 
+One example of downloading a file from the internet is the usage of `download.file` function. For example, if the download link for a comma separated value file (.csv) was from `https://<download-link>.com/example.csv`, where the file name is `example.csv`, then the code could be:
+```
+> download.file("https://<download-link>.com/example.csv', 'saved_file.csv')
+```
+This would download the file from the requested URL and save the file as `saved_file.csv`.

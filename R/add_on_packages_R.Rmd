@@ -1,0 +1,31 @@
+---
+title: "Add on Packages in R"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What are Packages?
+Packages are programs written for R that provide additional functionality that is not included in the base program. These programs are modular and do not require anything but the base R program to run. Most packages are open source and written by the R community. 
+
+## Downloading Packages
+R packages can be found in many different locations, such as the CRAN repository (https://cran.r-project.org/web/packages/available_packages_by_name.html) or the bioconductor repository (https://www.bioconductor.org/install/). These are repositories where R packages are stored and retrieved. Googling specific packages is also an acceptable method for less popular ones, especially if they are only stored on GitHub. 
+Usually, the usage of `install.packages()` from CRAN will get the job done. For example, a popular graphics package is `ggplot2`. To install and load `ggplot2`:
+```
+> install.packages("ggplot2")
+> library(ggplot2)
+```
+Sometimes `install.packages()` can not find the desired package, but it is found on the bioconductor repository. Going to the bioconductor website, it clearly states that the user needs to install the bioconductor package before installing additional packages. If the user was interested in analyzing genomic data and wanted to install the `GenomicFeatures` package, then the code would be:
+```
+> source("https://bioconductor.org/biocLite.R")
+> biocLite("GenomicFeatures")
+```
+The first line installed the bioconductor program, and the second line called the program to install the `GenomicFeatures` package.
+
+When installing a package, sometimes R will suggest a list of mirrors and ask for the user to specify a preferred mirror. This is as simple as entering the integer next to the server that is closest to the user's location. 
+
+For packages that are not stored on a package repository like CRAN or bioconductor, installation may take more steps.

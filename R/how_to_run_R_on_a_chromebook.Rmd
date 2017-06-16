@@ -1,0 +1,42 @@
+---
+title: "How to run R on a Chromebook"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Running R on a Chromebook
+On most computers running a conventional operating system, such as Windows, MacOS, or a Linux distribution, R can be downloaded and installed to the local computer. However, Chromebooks do not support programs with a dedicated installer, only web-based applications. However, thanks to the wonderful work of the developers at RStudio, R can be accessed from the web. RStudio's engineers have developed two methods to accessing R online: through an RStudio server or their cloud platform, RStudio Cloud.
+
+# What is RStudio?
+<img src="https://user-images.githubusercontent.com/21327023/27211294-52ebaa56-5226-11e7-9c77-8e07eba3ce31.png" width="300">
+RStudio is an Integrated Development Environment (IDE) that helps the user develops programs in R. RStudio makes R easier to use through its various features, such as its syntax-highlighting editor, debugging, and visualization tools. RStudio can also be downloaded and installed onto a computer running Windows, MacOS, or Linux. 
+
+# Accessing RStudio Cloud
+The primary Chromebook resource for R and RStudio will come from RStudio's cloud platform. RStudio Cloud is a RStudio service that provides a web version of RStudio and offers cloud storage for any R projects and programs in development. Currently, its cloud platform only requires a registered RStudio Cloud account. 
+To visit RStudio Cloud, go to its URL:
+```
+https://rstudio.cloud/
+```
+The URL should lead to the following front page. To register for an account, click on the `Sign Up` or the `Get Started` button to begin registering. 
+![RStudio Cloud Front Page](https://user-images.githubusercontent.com/21327023/27215470-5b55d630-523f-11e7-8345-444d03298833.png)
+
+After registration, log in to the overview page. Here, past projects will be listed under `Your Projects`. To start a new project, click on the `+` icon to get started. 
+![RStudio Cloud New Project](https://user-images.githubusercontent.com/21327023/27215639-323c58f4-5240-11e7-8dc2-84bd2172a177.png)
+
+After opening the project, RStudio will open in the browser window. RStudio by itself has a lot of features that will assist with developing R programs. The main features are the sub-windows, including the console, environment window, and the file manager. 
+![RStudio Cloud IDE](https://user-images.githubusercontent.com/21327023/27216220-bdefb308-5242-11e7-88bf-3fc78d86d34d.png)
+
+A tour to the RStudio Cloud client will be discussed in the next lesson.
+
+# Accessing a RStudio Server
+A RStudio server is R installed onto a remote Linux server, providing users with a browser-based version of RStudio. For Chromebook users, this would bypass the necessity of installing RStudio locally. All it takes to access the server is the IP address of the server and the server's running port. Essentially, the IP and port number is an URL. For example:
+```
+http://<server-ip>:8888
+```
+The above address would be entered into the URL box of the web browser. `<server-ip>` is the server IP, which is essentially the web address of the server. The four digits after the colon, `:8888`, is the port number that identifies the specific service on the server. In this case, port `8888` would be designated as the RStudio service. 
+RStudio will prompt for a username and password. Ideally, the user's credentials should be setup prior to accessing the server. This is normally taken care of by the server administrator or technician. If there are any issues logging in, contact the server administrator for help.

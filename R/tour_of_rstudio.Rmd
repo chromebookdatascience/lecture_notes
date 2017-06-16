@@ -1,0 +1,45 @@
+---
+title: "Tour of RStudio and RStudio Cloud"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Tour of RStudio and RStudio Cloud
+The RStudio Cloud interface will have an identical appearance to a locally installed instance of RStudio. 
+![RStudio Cloud IDE]( https://user-images.githubusercontent.com/21327023/27216220-bdefb308-5242-11e7-88bf-3fc78d86d34d.png)
+
+## Console
+The sub-window on the right-hand side is the console. This is where the user can test and run code line by line. The `>` symbol at the beginning of the line indicates the start of a new line of code. When a line of code is not completed correctly, the IDE wil return either an error message, or the next line will start with a `+` symbol, indicating incompletion and prompting for the rest of the code. 
+![RStudio Cloud Console](https://user-images.githubusercontent.com/21327023/27215790-f52f4574-5240-11e7-881d-e43f6a84d3aa.png)
+
+## Environment
+On the upper right-hand side, the environment sub-window shows all of the variables and their values stored in the current project. 
+![RStudio Cloud Environment](https://user-images.githubusercontent.com/21327023/27216188-9c019f4a-5242-11e7-9769-a90da129a644.png)
+As an example of what is stored in the environment window, type the following code into the console:
+```
+> a = 3
+> b = matrix(0, nrow=3, ncol=3)
+```
+These two lines declares two variables, `a` and `b`. `a` is defined as an integer of the value of `3`, while `b` is defined as a 3 x 3 matrix of all 0's. Looking back in the environment window, it lists both `a` and `b` and their respective values. 
+![Sample Code](https://user-images.githubusercontent.com/21327023/27216629-855886c6-5244-11e7-8bf9-c344f3850bd1.png)
+
+## File Manager
+On the lower right-hand side, the file manager shows the current directory and any files located there. The user can navigate to a different directory by clicking on the folders or `..` when available. Clicking on the folder shows its contents, whereas the double dots `..` exits the folder and returns to the previous directory. 
+![RStudio File manager](https://user-images.githubusercontent.com/21327023/27216187-9bfaa8ca-5242-11e7-9c73-9d39937999ac.png)
+
+Depending on the file, clicking on it will open a new text editor sub-window above the console. For example, a text file will open the editor while displaying its contents.
+![RStudio Text Editor](https://user-images.githubusercontent.com/21327023/27216939-dca3982a-5245-11e7-9e83-537d4466e5b0.PNG)
+
+An important function of this window is its `Upload` button, which allows the user to upload scripts, programs, or data sets to cloud storage, which is then accessible by the RStudio Cloud session. 
+
+## Toolbar
+At the top of the IDE is the toolbar. Functions include opening a new file, quitting the current project, editing code, and building and debugging R programs. 
+![RStudio Toolbar](https://user-images.githubusercontent.com/21327023/27217113-87f8c1f0-5246-11e7-9029-b77535d9b25a.png)
+
+## Menu
+The menu button is always available for viewing the user's profile, changing settings, and logging out. The menu button is the ![RStudio Menu](https://user-images.githubusercontent.com/21327023/27216086-30d3917e-5242-11e7-89cc-b4947ba89422.png) icon. Clicking on it will pull up a blue sidebar on the right-hand side. 

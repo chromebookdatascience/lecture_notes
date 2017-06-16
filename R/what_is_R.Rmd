@@ -1,0 +1,17 @@
+---
+title: "What is R"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What is R?
+R is an open source software environment and language for statistical computing and graphics, available on a wide variety of UNIX platforms, Windows, and MacOS. The default R package has a large library of statistical methods and graphical techniques, and it supports additional libraries from developers around the world. One of R's strengths is its ability to produce journal-level and publication-quality statistical plots, mathematical symbols and equations as needed. As a result, R is popular among statisticians and data miners for developing statistical software and data analysis. Since R's underlying source code is open source (available to the public), anyone can write software packages for the R computing environment and share it with anyone.  
+<img src="https://user-images.githubusercontent.com/21327023/27211293-52e901e8-5226-11e7-9dfb-3c46b4131ee8.png" width="300">
+
+# The R Environment
+The R environment is designed around building a complete and coherent system, rather than a set of very specific and inflexible statistical tools. One of its greatest features is its design around a true computer language. As a result, users can expand R's functionality by defining new functions. New functions and code can be written in R's language, and for more advanced users working with more computationally-intensive tasks, users can write in C, C++, or Fortran to optimize performance. 

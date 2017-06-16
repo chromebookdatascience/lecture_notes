@@ -1,0 +1,13 @@
+---
+title: "What is R used for"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# What is R used for?
+R is a computing environment mainly used for statistical computing and graphics. While many users consider R as a statistics system, it is not limited to solely statistics. R's functionality can be extended with either official or user-created packages. Unlike other statistical tool kits that provide very specific tools, R is a very flexible language by design. R was developed around a true computer language, allowing users to define new functions and algorithms. 
