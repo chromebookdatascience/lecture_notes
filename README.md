@@ -21,7 +21,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |Done | Apps (Circle menu) | Rachel Wu | 
 | Done | Common errors | Rachel Wu |
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim |
-| Claimed | MarkDown | Albert Lee |
+| Done | MarkDown | Albert Lee |
 | Claimed | Markdown editing (Stackedit) | Albert Lee |
 | Done | Pixlr | Rachel Wu|
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
