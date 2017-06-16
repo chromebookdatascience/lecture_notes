@@ -1,0 +1,36 @@
+
+---
+title: Common Errors
+author: Rachel Wu
+output:
+ github_document:
+   toc: true
+   toc_depth: 2
+   fig_width: 5
+   fig_height: 5
+---
+ 
+
+ 
+# Common Errors
+ 
+You will sometimes have trouble using your chromebook, here we will teach you how to handle the most common issues you will face.
+ 
+## General
+ 
+Google it.  For common issues, and even rare ones, you can often look for solutions online.  I would always suggest doing this first before trying to ask an expert.  Here’s Google’s guide to common chromebook problems: https://support.google.com/chromebook/answer/4514391?hl=en
+ 
+Restart your computer.  Sometimes bugs happen.  Restarting your computer will sort out most issues.
+ 
+## Hardware
+ 
+Battery issues
+ 
+## System
+ 
+Crashes
+ 
+## Internet
+ 
+Internet connectivity
+
