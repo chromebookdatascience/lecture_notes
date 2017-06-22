@@ -27,7 +27,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
-| Not Claimed | Ethics for data science | |
+| Claimed | Ethics for data science | Rachel Wu|
 | Done | [Updating your Chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/updating_your_chromebook.Rmd) | Rachel Wu|
  
 ## Google and the cloud
@@ -47,7 +47,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
 | Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | Daniel Kim |
-| Claimed | Slack | Walter Yang |
+| Claimed | Slack | Rachel Wu |
 | Claimed | How to Google | Albert Lee |
  
  
@@ -56,13 +56,13 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done | [How to create an account](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/how_to_create_an_account_for_github.Rmd) | Walter |
-| Not Claimed | Version control | |
-| Not Claimed | How to work with website | |
+| Claimed | Version control | Walter Yang|
+| Claimed | How to work with website | Walter Yang|
 | Done | [What is a repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/what_is_a_repository.Rmd) | Walter Yang |
 | Done | [Create repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/creating_a_repository.Rmd) | Walter Yang |
 | Done | [Edit repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/editing_a_repository.Rmd) | Walter Yang|
 | Claimed | Make an issue | Daniel Kim |
-| Not Claimed | How to search for code | |
+| Claimed | How to search for code | Walter Yang|
 | Claimed | Public vs private repos | Daniel Kim |
  
  
