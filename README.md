@@ -27,7 +27,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu|
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang |
-| Claimed | Ethics for data science | Rachel Wu|
+| Done | Ethics for data science | Rachel Wu|
 | Done | [Updating your Chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/updating_your_chromebook.Rmd) | Rachel Wu|
  
 ## Google and the cloud
