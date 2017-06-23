@@ -1,6 +1,6 @@
 
 ---
-title: Slack
+title: Ethics for Data Science
 author: Rachel Wu
 output:
   github_document:
@@ -9,7 +9,7 @@ output:
     fig_width: 5
     fig_height: 5
 ---
- 
+
 # What’s Slack
  
 Slack is a messaging platform designed to help you communicate with others in your workplace.  Think of it like a group chat, but for work related subjects.
@@ -52,5 +52,5 @@ You can download the app by checking their help page at https://get.slack.help/h
  
 Slack works like any other messaging service.  There are multiple chatrooms.  A large, general chat that can reach every employee using slack, team-sized chatrooms that allows people who are working on a project together to discuss that project, and private messaging.  You will automatically be invited to the general chatroom, and the moderator will assign you to the chatroom for your project.  Once there, I’m sure you will find yourself right at home.  Type in comments, and send them in.
  
-Pic of chatroom, not ours, it’s too dank for normies
+![tumblr_inline_nn1jk4b9aa1rz0b7g_1280](https://user-images.githubusercontent.com/28161368/27466579-c287c326-57a9-11e7-896f-d7d41974cf39.png)
 
