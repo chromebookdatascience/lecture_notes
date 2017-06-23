@@ -1,6 +1,6 @@
-
 ---
-title: "Dropbox"
+title: Slack
+author: Rachel Wu
 output:
   github_document:
     toc: true
@@ -8,6 +8,7 @@ output:
     fig_width: 5
     fig_height: 5
 ---
+
 
 # What’s Slack
  
