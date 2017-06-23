@@ -1,0 +1,52 @@
+
+---
+title: Slack
+author: Rachel Wu
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+ 
+# What’s Slack
+ 
+Slack is a messaging platform designed to help you communicate with others in your workplace.  Think of it like a group chat, but for work related subjects.
+ 
+## Why Slack
+ 
+A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as social media platforms.  Some places even ban the use of these platforms.  Slack, because access is limited to people in the workplace offers an easy to use platform for communication.
+ 
+## Let’s Get Started
+ 
+First we need to make an account.
+ 
+*Step 1:* To join Slack, you need an invite that your company will send to you by email.  Simply accept the invitation by clicking join.  That will bring you to the next step.
+ 
+See if you can find a picture of the invitation email, if not, try something else
+ 
+*Step 2:* Slack needs some information before moving on.  Enter your first and last name, along with your email in the required fields.
+ 
+The next few pics you can find here: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+ 
+*Step 3:* Now a passwords.  Once again, I would advise you to choose a password that is different from your other passwords for security reasons.
+ 
+Pic from above
+ 
+*Step 4:* Now you can create a profile.  This profile is there to inform the people you are working with about who you are and what you do.  Just fill in the required fields, you can edit this section in later as needed.
+ 
+Pic from above above
+ 
+## How to Access Slack
+ 
+Slack can be accessed in two ways.  Online at slack.com/signin, or by downloading their mobile or desktop app.  The choice is yours.
+ 
+You can download the app by checking their help page at https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+ 
+## How to Use Slack
+ 
+Slack works like any other messaging service.  There are multiple chatrooms.  A large, general chat that can reach every employee using slack, team-sized chatrooms that allows people who are working on a project together to discuss that project, and private messaging.  You will automatically be invited to the general chatroom, and the moderator will assign you to the chatroom for your project.  Once there, I’m sure you will find yourself right at home.  Type in comments, and send them in.
+ 
+Pic of chatroom, not ours, it’s too dank for normies
+
