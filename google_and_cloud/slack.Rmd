@@ -23,20 +23,24 @@ A lot of companies and workplaces look down on using Facebook and Twitter for co
 First we need to make an account.
  
 *Step 1:* To join Slack, you need an invite that your company will send to you by email.  Simply accept the invitation by clicking join.  That will bring you to the next step.
- 
-See if you can find a picture of the invitation email, if not, try something else
+
+![slack](https://user-images.githubusercontent.com/28161368/27466363-0eefe704-57a8-11e7-8629-0876a5616026.png)
+
  
 *Step 2:* Slack needs some information before moving on.  Enter your first and last name, along with your email in the required fields.
- 
-The next few pics you can find here: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+
+ ![screenshot 2017-06-23 at 12 11 54 am](https://user-images.githubusercontent.com/28161368/27466474-002b3af6-57a9-11e7-80c8-2cea963600e7.png)
+
  
 *Step 3:* Now a passwords.  Once again, I would advise you to choose a password that is different from your other passwords for security reasons.
  
-Pic from above
+![screenshot 2017-06-23 at 12 11 54 am](https://user-images.githubusercontent.com/28161368/27466474-002b3af6-57a9-11e7-80c8-2cea963600e7.png)
+![screenshot 2017-06-23 at 12 12 24 am](https://user-images.githubusercontent.com/28161368/27466484-1a367898-57a9-11e7-8afa-f81955cac677.png)
+
  
 *Step 4:* Now you can create a profile.  This profile is there to inform the people you are working with about who you are and what you do.  Just fill in the required fields, you can edit this section in later as needed.
  
-Pic from above above
+![screenshot 2017-06-23 at 12 12 24 am](https://user-images.githubusercontent.com/28161368/27466484-1a367898-57a9-11e7-8afa-f81955cac677.png)
  
 ## How to Access Slack
  
