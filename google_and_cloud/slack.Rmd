@@ -1,7 +1,6 @@
 
 ---
-title: Ethics for Data Science
-author: Rachel Wu
+title: "Dropbox"
 output:
   github_document:
     toc: true
