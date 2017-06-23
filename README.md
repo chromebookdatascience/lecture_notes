@@ -47,7 +47,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu |
 | Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | Daniel Kim |
-| Claimed | Slack | Rachel Wu |
+| Done | Slack | Rachel Wu |
 | Claimed | How to Google | Albert Lee |
  
  
