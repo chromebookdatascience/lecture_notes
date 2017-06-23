@@ -1,0 +1,32 @@
+---
+title: Ethics for Data Science
+author: Rachel Wu
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+ 
+# Ethics for Data Science?
+ 
+What’s that, you may ask?  There are rules for performing data science that help ensure that everyone plays fair, and credit is awarded to the right people.  This tutorial will help you familiarize yourself with these rules and practices.
+ 
+## Confidentiality
+ 
+Sometimes you will be handling sensitive data.  This may sound obvious to you, but it is important that you *do not* share this information with anyone who does not need it.  Ensure that all sensitive data is well secured, and in case this information was collected without the consumer’s consent, make sure any identifiable information is scrubbed out.
+ 
+## Collect the minimal amount of data needed
+ 
+Do not be invasive, only collect what information you will be using.  If you’ve collected a lot of data, you can aggregate, or combine, the data together to ensure no identifiable information will be revealed.
+
+ ![download](https://user-images.githubusercontent.com/28161368/27466744-e85b29fc-57aa-11e7-84d2-702ff1b79b4a.png)
+
+
+## Credit where credit is due
+ 
+Source everything.  Where did you get your data?  What program did you use to sort and analyze it?  This is all important information that needs to be available.
+
+ ![images](https://user-images.githubusercontent.com/28161368/27466748-ebc3b398-57aa-11e7-8dbe-c22101de4110.jpg)
+ 
