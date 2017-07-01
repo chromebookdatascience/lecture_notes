@@ -1,0 +1,22 @@
+---
+Title: How to work with the website
+author: Walter Yang
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+# Working with Github
+## The Front Page
+ 
+The front page of github gives you a lot of options.  On the side, there is a bar that lists all of the most recent projects you have worked on, allowing easy access to those repositories.  Want to start something new?  Just click on the “+” sign next to your profile image.  You can even start a personal news feed, which will begin showing off projects that you may be interested in.
+ 
+The top bar shows some options for easy access.  “Pull request” shows all pull requests for your projects that have not yet been approved.  This lets you see what changes have been made, or are going to be made.  Issues brings up the issues page, and lets you see what people have been thinking about your project.  The marketplace shows you some interesting programs that may help you with your work.  And finally “gist” is a quick and easy notepad program that let’s you write down whatever it is you’re thinking about at the moment.
+ 
+The basics of everything you need for your project are all right here, but perhaps you would like to explore other projects.  That’s what the search bar is for.  Just look up some keywords, and you will be led to the most relevant repository, assuming one exists.
+
+## Creating and Editing your Repository
+
+Check out our other guides for details on how to create and edit your repositories
