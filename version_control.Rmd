@@ -1,0 +1,25 @@
+---
+title: Version Control
+author: Walter Yang
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+ 
+# Version Control
+## What is Version Control?
+ 
+One advantage of using Github for your projects, is that it allows multiple users to work on different parts of the same project at the same time.  Do you remember the explanation on how this works?  If not, check out the Editing a Repository guide we have.  Essentially, edits are made on a copy of the original, and the two are merged together at the end.  This gives you the freedom to mess around with your code, and if it fails, you will always have the original, or master branch, as a back up.
+ 
+## Why is that useful?
+ 
+There are a couple ways you can use this:
+ 
+1 It allows multiple people to edit code at the same time, without worrying that what they’re doing might be messing someone else’s code up.
+2 If you make a mistake, it’s easy to go back to an earlier version.
+3 You get the freedom to mess around with the code as much as you would like.
+
+We'll be exploring how this works more in the tutorial "Editing your repository.
