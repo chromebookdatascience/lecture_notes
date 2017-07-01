@@ -56,13 +56,13 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes |
 | :---|  :--- |  :--- |
 | Done | [How to create an account](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/how_to_create_an_account_for_github.Rmd) | Walter |
-| Claimed | Version control | Walter Yang|
-| Claimed | How to work with website | Walter Yang|
+| Done | Version control | Walter Yang|
+| Done | How to work with website | Walter Yang|
 | Done | [What is a repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/what_is_a_repository.Rmd) | Walter Yang |
 | Done | [Create repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/creating_a_repository.Rmd) | Walter Yang |
 | Done | [Edit repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/editing_a_repository.Rmd) | Walter Yang|
 | Claimed | Make an issue | Daniel Kim |
-| Claimed | How to search for code | Walter Yang|
+| Done | How to search for code | Walter Yang|
 | Claimed | Public vs private repos | Daniel Kim |
  
  
