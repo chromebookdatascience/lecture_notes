@@ -1,0 +1,33 @@
+---
+title: How to Search for Code
+author: Walter Yang
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+ 
+# How to Search for Code
+ 
+Why would you want to look up code?  It can be for any number of reasons.  Perhaps you want to look at how someone else has started a project for inspiration.  Maybe you’re having difficulty with your code and need a reference.  Or you may just want to use a program that someone else has created.  Whatever the reason, this is how you can find the right code on Github
+ 
+## The Steps
+ 
+*Step 1:* Navigate to the front page or https://github.com/
+
+![screenshot 2017-07-01 at 11 28 44 am](https://user-images.githubusercontent.com/28197711/27763383-c64422b8-5e50-11e7-8dd2-7c4a13ef32dd.png)
+ 
+*Step 2:* Find the search bar at the top of the page.
+
+![2](https://user-images.githubusercontent.com/28197711/27763392-f2bc11f2-5e50-11e7-92f1-76c58f5a660c.png)
+ 
+*Step 3:* Look up some key-words that describe what you’re looking for.  In this case, less is more.  Too many words will bring up false-positives and may decrease the relevance of actual code that you’re interested in.
+ 
+*Step 4:* Browse the results.  Sometimes the best code for your purposes won’t be on the first page.  Be sure to look at each result thoroughly to make sure you don’t miss anything.
+
+![screenshot 2017-07-01 at 11 30 19 am](https://user-images.githubusercontent.com/28197711/27763393-f51d1540-5e50-11e7-9902-619c5071d26a.png)
+ 
+ 
+And that’s it.  Hopefully you’ve found what you’re looking for.  If not, there’s the possibility that it just has not been made yet.  You can also try other sites such as sourceforge and see if they may have what you’re looking for.  Do be careful, sourceforge is safe, but always be wary about what you’re downloading.
