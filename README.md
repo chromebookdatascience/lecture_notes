@@ -76,11 +76,11 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Tour of R Studio](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/tour_of_rstudio.Rmd) | Luke Zhu | |
 | Done | [Getting data in](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/getting_data_in_R.Rmd) | Luke Zhu | |
 | Done | [Add on packages](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/add_on_packages_R.Rmd) | Luke Zhu | |
-| Not Claimed | R Markdown | | |
-| Not Claimed | R Reports | | |
-| Not Claimed | Creating pdfs with R | | |
-| Not Claimed | How to connect to Github | | |
-| Not Claimed | Exporting R data to Google Sheets | | |
+| Claimed | R Markdown | Luke Zhu | |
+| Claimed | R Reports | Luke Zhu | |
+| Claimed | Creating pdfs with R | Luke Zhu | |
+| Claimed | How to connect to Github | Luke Zhu | |
+| Claimed | Exporting R data to Google Sheets | Luke Zhu | |
  
  
 ## Data cleaning/Viz
@@ -102,11 +102,11 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## Key packages
 |status | topic | notes | reviewer |
 | :---|  :--- |  :--- |  :--- |
-| Not Claimed | Readr | | |
-| Not Claimed | Rvest | | |
-| Not Claimed | Rdrop2 | | |
-| Not Claimed | Googlesheets | | |
-| Not Claimed | Dplyr | | |
+| Claimed | Readr | Luke Zhu | |
+| Claimed | Rvest | Luke Zhu | |
+| Claimed | Rdrop2 | Luke Zhu | |
+| Claimed | Googlesheets | Luke Zhu | |
+| Claimed | Dplyr | Luke Zhu | |
 | Not Claimed | Tidyr | | |
 | Not Claimed | Xm12 | | |
 | Not Claimed | Http | | |
