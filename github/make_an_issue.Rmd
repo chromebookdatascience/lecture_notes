@@ -1,0 +1,50 @@
+---
+title: Make an issue
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Make an issue
+
+### Objectives
+At the end you will know how to:
+1. Create a Github issues
+2. Search for issues
+3. Send notifications
+
+## Github Issues
+Here is the official [GitHubGuides-Mastering Issues](https://guides.github.com/features/issues/)
+
+When you open a GitHub repository, search and click on the "Issues button"
+
+![issues button](https://user-images.githubusercontent.com/19320775/27945874-f143d416-62bc-11e7-8db6-e6f98436d84f.PNG)
+
+When you click on the "Issues section you will see a page similar to the one below.
+
+![issues window](https://user-images.githubusercontent.com/19320775/27946024-d1f8c106-62bd-11e7-9264-926a561a3862.PNG)
+
+If there are too many issues in a repository you can speed up your search by selecting on the options below:
+
+![searching options](https://user-images.githubusercontent.com/19320775/27946194-91303a5e-62be-11e7-957a-b87ba233bd3e.PNG)
+
+To create a new Github Issue simply click on the green "New issue" button
+
+![new issue button](https://user-images.githubusercontent.com/19320775/27945993-9f04b7a0-62bd-11e7-82dd-b0d535c3f57d.PNG)
+
+This will open a page similar to the one below
+
+![new issue page](https://user-images.githubusercontent.com/19320775/27946394-9373210e-62bf-11e7-84e3-76900222cb9f.PNG)
+
+A typical issue on GitHub contains some of this characteristics:
+1. A title and description describing what the issue is about.
+2. Color-coded labels that help you categorize and filter your issues.
+3. A milestone that acts like a container for issues. This is useful for associating issues with project phases.
+4. One assignee that is responsible for working on the issue.
+5. Comments that allow anyone with access to the repository to provide feedback.
+
+Also by using @mentions and references inside of an issue, you can notify other GitHub users.

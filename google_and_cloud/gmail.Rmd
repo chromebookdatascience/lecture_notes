@@ -1,5 +1,5 @@
 ---
-title: google calendar
+title: gmail
 author: Daniel Kim
 output:
   github_document:

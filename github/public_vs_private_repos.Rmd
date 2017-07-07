@@ -1,0 +1,38 @@
+---
+title: Public vs Private Repositories
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Public vs Private Repositories
+
+### Objectives
+At the end you will know:
+1. Public vs Private repos
+2. How to make a repository private
+
+## Public vs Private
+
+Every user account on GitHub can have unlimited collaborators on any number of public repositories. However, user accounts with paid billing plans can also use unlimited private repositories. Anyone can view public repositories, while private repositories have their visibility limited to just you and your collaborators. The billing plans are listed below:
+
+![developer option](https://user-images.githubusercontent.com/19320775/27946973-0b90d8b4-62c2-11e7-91ac-813526ee3ba4.PNG)
+
+![team option](https://user-images.githubusercontent.com/19320775/27947003-296b26f0-62c2-11e7-9ca9-cfebb328e73e.PNG)
+
+![business option](https://user-images.githubusercontent.com/19320775/27947033-4aae5d96-62c2-11e7-8b2d-ff7f30ee9d8c.PNG)
+
+More information on billing plans can be found [here](https://github.com/pricing).
+
+## Make a repo private
+
+If you have a billing plan and have the option of making repositories private follow the instructions below. For more information click [here](https://help.github.com/articles/making-a-public-repository-private/).
+
+![Instructions for making repo private](https://user-images.githubusercontent.com/19320775/27947220-f729cf6a-62c2-11e7-80f4-8cf3e3e84ad4.PNG)
+
+
+

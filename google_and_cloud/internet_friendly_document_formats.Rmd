@@ -1,0 +1,37 @@
+---
+title: Internet friendly document formats
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Internet Friendly Document Formats
+
+### Objectives
+At the end you will know how to:
+1. Open a PDF file.
+2. How to edit a PDF file.
+3. Convert a PDF file to a Word document.
+4. Convert a Word document to a PDF file.
+
+## What is a PDF file
+Developed by Adobe Systems, a .PDF file is a Portable Document Format file that is widely used.
+PDF files can contain not only images and text, but also interactive buttons, hyperlinks, video, and more.
+You can easily open a PDF file by simply clicking on the file which will open a new window in Google Chrome.
+
+## How to edit a PDF file
+There are few easy to use online PDF editors where you can upload your PDF to the website todo things like insert images, text, signatures, links, and then download it back to your computer.
+1. [FormSwift's Free PDF Editor](https://formswift.com/edit-pdf)
+2. [PDFescape](https://www.pdfescape.com/windows/)
+3. [DocHub](https://dochub.com/)
+4. [PDF Buddy](https://www.pdfbuddy.com/)
+
+## How to convert files
+The easiest way to convert files not only from and to PDF format but other files is using the online resource called [Smallpdf](https://smallpdf.com/).
+
+![online file converter](https://user-images.githubusercontent.com/19320775/27945425-e9470172-62ba-11e7-96c9-efedb79f9b93.PNG)
+
