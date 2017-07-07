@@ -91,7 +91,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | What is data? Part 3 (Exploratory data analysis)| Albert Lee | |
 | Not Claimed | Crazy internet files | | |
 | Not Claimed | Incaps | | |
-| Rachel Wu| CSVs | | |
+| Claimed | CSVs | Rachel Wu | |
 | Not Claimed | Excel files | | |
 | Not Claimed | Where will files be online (database online, web pages, files) | | |
 | Not Claimed | Data clearning process (Messy vs Tidy) | | |
