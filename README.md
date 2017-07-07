@@ -27,7 +27,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim | |
 | Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu| |
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang | |
-| Done | Ethics for data science | Rachel Wu| |
+| Done | [Ethics for data science](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/ethics_for_data_science.Rmd) | Rachel Wu| |
 | Done | [Updating your Chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/updating_your_chromebook.Rmd) | Rachel Wu| |
  
 ## Google and the cloud
@@ -46,8 +46,8 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu| |
 | Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim | |
 | Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu | |
-| Claimed | Internet friendly document formats (pdf, exporting from word to pdf, sharing) | Daniel Kim | |
-| Done | Slack | Rachel Wu | |
+| Done | [Internet friendly document formats](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/internet_friendly_document_formats.Rmd) | Daniel Kim | |
+| Done | [Slack](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/slack.Rmd) | Rachel Wu | |
 | Claimed | How to Google | Albert Lee | |
  
  
@@ -56,14 +56,14 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes | reviewer|
 | :---|  :--- |  :--- |  :--- |
 | Done | [How to create an account](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/how_to_create_an_account_for_github.Rmd) | Walter Yang | |
-| Done | Version control | Walter Yang| |
-| Done | How to work with website | Walter Yang| |
+| Done | [Version control](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/version_control.Rmd) | Walter Yang| |
+| Done | [How to work with website](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/working_with_the_website.Rmd) | Walter Yang| |
 | Done | [What is a repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/what_is_a_repository.Rmd) | Walter Yang | |
 | Done | [Create repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/creating_a_repository.Rmd) | Walter Yang | |
 | Done | [Edit repository](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/editing_a_repository.Rmd) | Walter Yang| |
-| Claimed | Make an issue | Daniel Kim | |
-| Done | How to search for code | Walter Yang| |
-| Claimed | Public vs private repos | Daniel Kim | |
+| Done | [Make an issue](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/make_an_issue.Rmd) | Daniel Kim | |
+| Done | [How to search for code](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/how_to_search_for_code.Rmd) | Walter Yang| |
+| Done | [Public vs private repos](https://github.com/chromebookdatascience/lecture_notes/blob/master/github/public_vs_private_repos.Rmd) | Daniel Kim | |
  
  
 ## R
@@ -110,16 +110,16 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Not Claimed | Tidyr | | |
 | Not Claimed | Xm12 | | |
 | Not Claimed | Http | | |
-| Not Claimed | Stringr | | |
-| Not Claimed | Lubridate | | |
+| Claimed | Stringr | Daniel Kim | |
+| Claimed | Lubridate | Daniel Kim | |
 | Not Claimed | Viz | | |
 | Not Claimed | Ggplot | | |
 | Not Claimed | Plotly | | |
 | Not Claimed | D3 | | |
 | Not Claimed | gganimate | | |
 | Not Claimed | How to make beautiful plots | | |
-| Not Claimed | Pushing/Pulling on Github (Own repo and others) | | |
-| Not Claimed | Common errors and conflicts | | |
+| Claimed | Pushing/Pulling on Github (Own repo and others) | Daniel Kim | |
+| Claimed | Common errors and conflicts | Daniel Kim | |
  
  
 ## Reporting
