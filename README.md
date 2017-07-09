@@ -41,7 +41,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu | |
 | Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu | |
 | Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim | |
-| Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee | |
+| Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee | Daniel |
 | Done | [Google Hangouts](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_hangout.Rmd) | Daniel Kim | |
 | Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu| |
 | Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim | |
