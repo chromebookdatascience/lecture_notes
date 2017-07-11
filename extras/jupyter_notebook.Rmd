@@ -11,4 +11,6 @@ output:
 
 # Jupyter Notebook
 
-Jupyter Notebook is a
+Jupyter Notebook is a app that lets you run notebook documents through a web browser.  In additional to normal text, these documents can hold equations, figures, and even computer code.  This code can even be run through the Jupyter Notebook app, which makes it easy to edit, test, and run your code.
+
+## How to Install Jupyter Notebook
