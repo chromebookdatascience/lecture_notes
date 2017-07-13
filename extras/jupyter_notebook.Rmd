@@ -14,3 +14,25 @@ output:
 Jupyter Notebook is a app that lets you run notebook documents through a web browser.  In additional to normal text, these documents can hold equations, figures, and even computer code.  This code can even be run through the Jupyter Notebook app, which makes it easy to edit, test, and run your code.
 
 ## How to Install Jupyter Notebook
+
+*Step 1:* First we need an modern browser.  Firefox and Chrome are both very popular and will work for this.  If you already have one of these two internet browsers then you can ignore this step.
+
+*Step 2:* The nest thing we need is python.  Open your terminal, and type in the following *exactly* as it appears:
+
+ $ sudo apt-get -y install python2.7 python-pip python-dev
+
+This will download the newest version of Python 2.7, which we will need for Jupyter Notebook.  It also installs python-pip and python-dev, which are important for some of the features that Jupyter Notebook offers.
+
+*Step 3:* Now that we have python, we can download Jupyter Notebook.  Let's go back to our terminal.  Same as last time, type in the following exactly as it appears:
+
+ $ sudo -H pip install jupyter
+
+Congratulations, now you've successfully downloaded Jupyter Notebook.  We can begin working with it in the next section.
+
+## How to Use Jupyter Notebook
+
+We start by running Jupyter Notebook.  Open the terminal and type in the following:
+
+ $ jupyter notebook
+
+This will start Jupyter Notebook, and a blank notebook document will appear.  You can begin working on whatever project you need to now.  Try to explore the various different functions Jupyter provides.  You can check out other people's projects and how the raw text translates into formatting and rich text elements.
