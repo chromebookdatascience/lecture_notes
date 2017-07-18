@@ -107,16 +107,16 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Rdrop2 | Luke Zhu | |
 | Claimed | Googlesheets | Luke Zhu | |
 | Claimed | Dplyr | Luke Zhu | |
-| Not Claimed | Tidyr | | |
+| Claimed | Tidyr | Daniel Kim | |
 | Not Claimed | Xm12 | | |
 | Not Claimed | Http | | |
 | Claimed | Stringr | Daniel Kim | |
 | Claimed | Lubridate | Daniel Kim | |
 | Not Claimed | Viz | | |
-| Not Claimed | Ggplot | | |
+| Claimed | Ggplot | Daniel Kim | |
 | Not Claimed | Plotly | | |
 | Not Claimed | D3 | | |
-| Not Claimed | gganimate | | |
+| Claimed | gganimate | Daniel Kim | |
 | Not Claimed | How to make beautiful plots | | |
 | Claimed | Pushing/Pulling on Github (Own repo and others) | Daniel Kim | |
 | Claimed | Common errors and conflicts | Daniel Kim | |
