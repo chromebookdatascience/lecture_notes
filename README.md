@@ -72,7 +72,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [What is R](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/what_is_R.Rmd) | Luke Zhu | |
 | Done | [What is R used for?](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/what_is_R_used_for.Rmd) | Luke Zhu | |
 | Done | [How to run R on chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/how_to_run_R_on_a_chromebook.Rmd) | Luke Zhu | |
-| Claimed | Digital Ocean | Walter Yang | |
+| Done | Digital Ocean | Walter Yang | |
 | Done | [Tour of R Studio](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/tour_of_rstudio.Rmd) | Luke Zhu | |
 | Done | [Getting data in](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/getting_data_in_R.Rmd) | Luke Zhu | |
 | Done | [Add on packages](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/add_on_packages_R.Rmd) | Luke Zhu | |
@@ -92,7 +92,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Not Claimed | Crazy internet files | | |
 | Not Claimed | Incaps | | |
 | Claimed | CSVs | Rachel Wu | |
-| Not Claimed | Excel files | | |
+| Claimed | Excel files | Walter Yang | |
 | Not Claimed | Where will files be online (database online, web pages, files) | | |
 | Not Claimed | Data clearning process (Messy vs Tidy) | | |
 | Not Claimed | How to find R packages for different data types | | |
