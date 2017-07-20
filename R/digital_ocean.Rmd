@@ -8,3 +8,40 @@ output:
     fig_width: 5
     fig_height: 5
 ---
+## What is Digital Ocean?
+
+Digital Ocean is an online cloud computing service.  Using their service allows you to store and process data through the cloud, rather than relying on your personal machine.  This is particularly useful for larger research projects, which will require the analysis of a large amount of data.
+
+## Signing Up
+
+A quick note: Digital Ocean is a service that you have to pay for.  Furthermore, not every company or institution will use Digital Ocean.  As such, I would not recommend signing up unless you have to.  This section is more of a reference for those who will be using this service in the future.
+
+*Step 1:* Let's navigate to their website at www.digitalocean.com
+
+*Step 1.5:* If you are using Digital Ocean for work, your company may be able to provide an account for you.  Be sure to ask.  And if so, use the credentials provided to log in.  If this applies to you, ignore steps 2 - 3.
+
+*Step 2:* If it's your first time there, you will see fields for your email and password.  Enter those in.  Your password will need to be 8 characters long and have at least 6 different characters.  As always, I recommend using a password that is different from all your other passwords for security reasons.
+
+*Step 3:* Now they need some credit card information.  If you are working for a company, they may have provided a credit card for work related purchases.  You can use that here.
+
+Well done.  Now we have signed up for Digital Ocean.  Now it's time to figure out how to use it.
+
+## How to Use Digital Ocean
+
+Digital Ocean uses "Droplets" each one being a server that can perform whatever task you need it to.  This takes a couple steps.
+
+*Step 1:* Click on the green "Create Droplet button near the top right corner.
+
+*Step 2:* Choose the category that your server will belong to.  You can select from systems like Ubuntu and precreated apps, to give your project a head start.
+
+*Step 3:* Next is server size.  Choose the one that best suits your needs, which will change depending on your project.  Keep in mind that your choice will affect how much you will need to spend so choose wisely.
+
+*Step 4:* Choose your region.  Choose the one closest geographically to your location to maximize data transfer speeds.
+
+*Step 5:* Additional options: browse them as you would like.
+
+*Step 6:* An SSH key provides additional security to your droplet
+
+*Step 7:* Choose what number of droplets you will need, then give them names.
+
+Click on create and your droplet will be created.  You can now access it and begin working on your project.  Good Luck!
