@@ -33,4 +33,7 @@ Clicking the All Apps button, will show all the applications downloaded. The app
 
 
 
+--------------------------------------------------------------------------
+Comments by albert lee
 
+Pretty good, I think especially for this one it would be cool to have examples of opening up various apps - as a activity you could have the users open up various apps like google docs etc.
