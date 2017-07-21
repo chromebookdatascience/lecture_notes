@@ -34,4 +34,4 @@ Click next to continue.
 ---------------------------------------------------------------------------------------------------------------------------
 Comments by albert lee
 
-Needs a guide to the actual functionality of gmail - how will the employees use gmail to communicate with their employers? how do you send an email? how do you avoid spam? how do you use gmail as authentication for different websites?
+Needs a guide to actually logging in with a gmail account. Also are there ways of logging into a chromebook without a gmail account? Should be some workaround.
