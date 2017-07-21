@@ -26,3 +26,6 @@ Actually, there are some methods to accessing these stored files.  Check out our
 ## The External Drive
 
 Sounds fancy, but it's not.  Basically this refers to any device that you connect to your computer to store information.  This can be a CD, a flash drive, or an external hard drive.  Their uses are many, and you can choose the device that best suits your needs.  Need to move around?  Use a flash drive.  Want to store a lot of data?  An external hard drive will do the trick.  It's importnat to note that these device can only hold data, unlike a computer, they cannot do anything with it.  So you will need a computer in order to access any information you've stored on your external drive.
+
+---------------------------------------------------------------------
+I think this one especially needs some pictures because stoarage can be relatively hard to understand - how will inexperienced users know how an external hard drive looks like or know how cloud storage can be accessed?
