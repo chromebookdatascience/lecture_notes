@@ -17,7 +17,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [How to set up wifi](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/how_to_set_up_wifi.Rmd) | Walter Yang | Albert Lee |
 | Done | [Tour of menus](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/tour_of_the_menus.Rmd) | Daniel Kim | Albert Lee |
 | Done | [Personalization](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/customizing_your_chromebook.Rmd) | Walter Yang | Albert Lee |
-| Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang | |
+| Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang | Albert Lee |
 |Done | [Apps (Circle menu)](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/app_menu.Rmd) | Rachel Wu | |
 | Done | [Common errors](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/common_errors.Rmd) | Rachel Wu | |
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim | |
