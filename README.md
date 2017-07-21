@@ -108,7 +108,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Googlesheets | Luke Zhu | |
 | Claimed | Dplyr | Luke Zhu | |
 | Claimed | Tidyr | Daniel Kim | |
-| Not Claimed | Xm12 | | |
+| Claimed | Xm12 | Walter Yang | |
 | Not Claimed | Http | | |
 | Claimed | Stringr | Daniel Kim | |
 | Claimed | Lubridate | Daniel Kim | |
