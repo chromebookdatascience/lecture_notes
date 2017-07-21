@@ -13,8 +13,8 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |status | topic | notes | reviewer |
 | :---|  :--- |  :--- |  :--- |
 | Done | [What is a chromebook?](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chromebook.Rmd) | Walter Yang | Albert Lee |
-| Done | [Getting logged on w/ account & w/o account](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/getting_logged_in.Rmd) | Walter Yang | Albert Lee|
-| Done | [How to set up wifi](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/how_to_set_up_wifi.Rmd) | Walter Yang | |
+| Done | [Getting logged on w/ account & w/o account](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/getting_logged_in.Rmd) | Walter Yang | Albert Lee |
+| Done | [How to set up wifi](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/how_to_set_up_wifi.Rmd) | Walter Yang | Albert Lee |
 | Done | [Tour of menus](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/tour_of_the_menus.Rmd) | Daniel Kim | |
 | Done | [Personalization](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/customizing_your_chromebook.Rmd) | Walter Yang | |
 | Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang | |
