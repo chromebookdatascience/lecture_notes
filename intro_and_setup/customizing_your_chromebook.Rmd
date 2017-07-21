@@ -88,3 +88,8 @@ You may have noticed the little frog that's been hiding in the corner of my scre
 ![8](https://cloud.githubusercontent.com/assets/28197711/26659566/a205d58c-463f-11e7-9ad7-1212c18a3d84.png)
 
 Excellent.  There are plenty of other settings you can explore in the menues.  Try them out sometime.  And now that you know how to change your wallpaper and image, as well as how to set your language, you can change all of these again later as needed.
+
+-----------------------------------------------------------------------------------------------------------------------
+Comments by albert lee
+
+Great tutorial, I think would be good to good to have some exercises that would help the users, like providing a stock wallpaper and having them set it to that for practice
