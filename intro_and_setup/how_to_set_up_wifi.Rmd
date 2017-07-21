@@ -41,3 +41,7 @@ output:
 
 ![screenshot 2017-06-04 at 4 02 07 pm](https://cloud.githubusercontent.com/assets/28197711/26765048/861f8b1a-4941-11e7-9cff-8bc390ef757f.png)
 
+--------------------------------------------------------------------------
+Comments by albert lee
+
+Needs to include public wifi safety, typical ways that public networks make you authenticate (think starbucks), how to ask for wifi, etc.
