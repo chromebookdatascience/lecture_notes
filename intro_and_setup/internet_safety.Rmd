@@ -40,3 +40,9 @@ Most operating systems recieve security updates when weaknesses are identified. 
 ## Trust your gut
 
 Perhaps most important of all, trust your instincts.  If something seems sketchy, then it probably is.  As the old saying goes, "better safe than sorry."
+
+
+--------------------------------------------------------------------
+Comments by albert lee 
+
+I would recommend MalwareBytes free and also using adblocker
