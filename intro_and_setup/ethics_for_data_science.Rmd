@@ -30,3 +30,7 @@ Source everything.  Where did you get your data?  What program did you use to so
 
  ![images](https://user-images.githubusercontent.com/28161368/27466748-ebc3b398-57aa-11e7-8dbe-c22101de4110.jpg)
  
+-----------------------------------------------------------------------------------
+Comments by albert lee
+
+It's important to have definitions for this one, what is confidentiality why would people want things to be confidential, etc.
