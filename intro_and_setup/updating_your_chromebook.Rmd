@@ -24,3 +24,9 @@ To access all the features your chromebook has to offer we must keep it up to da
  
 3 If there are updates available, click on them, then click update.  The update will automatically download
  
+----------------------------------------------------------------------------------
+Comments by albert lee
+
+Needs to mention sometimes updates will not be possible (ergo if the computer is upgraded to the latest version)
+
+Also define what upgrades are, what they do, etc.
