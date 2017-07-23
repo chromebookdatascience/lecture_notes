@@ -44,3 +44,7 @@ After clicking on the "Add to Chrome" a pop-up notification will show up and sim
 You can find the chrome apps that you added by clicking on the search icon located on the keyboard between the "tab" button and the "shift" button.
 
 ![search](https://user-images.githubusercontent.com/19320775/26958063-9ac23fc4-4c96-11e7-954e-2ec51339af3a.jpg)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+I think this is good but we should include a concept wise what an app is - I think our target demographic will have trouble understanding what a program fundamentally is
