@@ -19,7 +19,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Personalization](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/customizing_your_chromebook.Rmd) | Walter Yang | Albert Lee |
 | Done | [Where are the files stored? Google drive & Local drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/where_are_files_stored.Rmd) | Walter Yang | Albert Lee |
 |Done | [Apps (Circle menu)](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/app_menu.Rmd) | Rachel Wu | Albert Lee |
-| Done | [Common errors](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/common_errors.Rmd) | Rachel Wu | |
+| Claimed | [Common errors](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/common_errors.Rmd) | Rachel Wu | |
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim | |
 | Done | [MarkDown](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/markdown.Rmd) | Albert Lee | |
 | Claimed | Markdown editing (Stackedit) | Albert Lee | |
