@@ -24,8 +24,8 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [MarkDown](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/markdown.Rmd) | Albert Lee | |
 | Claimed | Markdown editing (Stackedit) | Albert Lee | |
 | Done | [Pixlr](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/pixlr.Rmd) | Rachel Wu| |
-| Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim | Reviewed by Albert Lee |
-| Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu| |
+| Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim | Albert Lee |
+| Done | [Working offline](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/working_offline.Rmd) | Rachel Wu| Albert Lee |
 | Done | [Internet safety](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/internet_safety.Rmd) | Walter Yang | |
 | Done | [Ethics for data science](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/ethics_for_data_science.Rmd) | Rachel Wu| |
 | Done | [Updating your Chromebook](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/updating_your_chromebook.Rmd) | Rachel Wu| |
