@@ -24,3 +24,5 @@ This is the button that accesses the app menu.  This menu contains all of your 
 Want to do something new?  Maybe you just want more apps?  Just use the Chrome Webstore.  We also have a guide on what apps are and how to use the webstore called “What is an App?”
  
 
+--------------------------------------------------------------------------------------------------
+Comments by albert lee: I think it's very important to show our users what opening an app looks like, we need to make sure that they understand what opening an app actually does - remember our target market is people who have barely used computers before
