@@ -1,0 +1,164 @@
+---
+title: "Reporting in RMarkdown"
+author: "Albert"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+### Table of Contents
+- Daily Reporting
+- Deciding on Goals
+- 
+
+# Part 1: Daily Reporting
+## What is the daily report
+The daily report in RMarkdown will be the progress report that you send to your employer every day. This allows you to get valuable feedback and to get guidance on your progress through your data science journey. One of the most important parts of your daily report should be that you are as accurate as possible about your progress. As long as you meet your deadlines, your employer will care much more about looking through your progress and answering your questions as efficiently as possible. Fluff and extranenous information on materials you had to read in order to solve problems are better left off of your daily report.
+
+## The format
+ 
+ The format of the daily report should be tailored based on your needs and your employers needs. This is merely a template for what you can use as your daily report. 
+ 
+ ```
+ # Daily report for ___insert today's date___
+ Name
+ 
+ Reviewed by ____space for employer signature____
+ ---------------------------------------------
+ 
+ Tasks for today:
+ - [ ] Task 1
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 2
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 3
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ 
+ -------------------------
+ 
+ Proposed tasks for tomorrow:
+ - [ ] Task 1
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 2
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 3
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ 
+ -------------------------
+ 
+ ## Important questions or comments
+ ___insert questions and comments here___
+ ```
+ 
+ When compiled the report will look something like this:
+ 
+ -------------------------------------------------------
+ -------------------------------------------------------
+  # Daily report for ___insert today's date___
+ Name
+ 
+ Reviewed by ____space for employer signature____
+ ---------------------------------------------
+ 
+ Tasks for today:
+ - [ ] Task 1
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 2
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ - [ ] Task 3
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
+ ----------------------------------------------------------------------
+ ## Important questions or comments
+ ___insert questions and comments here___
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+# Part 2: Deciding on Goals
+
+## What were the goals?
+It is very important that you accurately report what the goals were for the day. It is okay to miss your goals once in a while as long as you are honest and tried your best. If you find yourself consistently missing your goals despite putting in maximum effort you should talk with your employer to create more realistic goals. Ideally your goals will be challenging but doable.
+
+## How to tackle your goals?
+A list of tasks you need to finish by the end of the day might look intimidating, but if you break each task into subtasks then the tasks will look much more doable. For example, if your task is to create a complex interactive visualization for your client, it might look like an impossible task for the day. But if you look at the task and start to look at bits and pieces of the problem that you think can be solved easily and move up in complexity, then you will make meaningful progress. If you fail to accomplish the task that just means that you need to set smaller goals for the next day.
+
+## Honesty and trust
+While the daily report has many categories, this section is by far the most important. The goals that you set with your employer will largely determine your relationship with them. Choose your goals wisely and make sure to choose realistic goals that you are confident you will be able to tackle. It is far better to overachieve on easier deliverables than it is to underachieve on difficult deliverables!
+
+----------------------------------------------------------
+# Part 3: Reporting on Today and Tomorrow
+** Tip: Always think ahead - how does today's deliverable tie into the big picture  **
+
+## What I did, What are the goals for tomorrow?
+
+After agreeing on a set of goals with your employer, deciding how to spend your time is important to make sure you finish all of them! How you work most efficiently is up to you, but many people find starting with the harder tasks and ending with the easier ones is the best to ensure high motivation throughout the day. In any case, make sure to write down exactly what you did and how you spent your time, so that your employer will understand what happened if you failed to complete a deliverable. 
+
+## What are the goals for tomorrow?
+
+Make sure to use the results from the day before to help influence your goals for tomorrow, especially if you failed to complete a deliverable. Think about what happened that prevented you from completing the deliverable, and if it was simply due to not having enough time, then talk about an easier set of deliverables for the day with your employer.
+
+----------------------------------------------------------------------------------
+# Part 4
+## The weekly report
+
+The weekly report is a short summary of all your daily reports. This allows both you and your employer to quickly assess your performance for the week. 
+
+## The format
+
+ ```
+ # Weekly Reports for ___insert today's date___
+ Name
+ 
+ Reviewed by ____space for employer signature____
+ ---------------------------------------------
+ 
+ Tasks for the week:
+ Monday
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
+Tuesday
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
+ Wednesday
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
+ Thursday
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
+ Friday
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
+
+------------------------------------------
+ ## Important questions or comments
+ ___insert questions and comments here___
+ ```
+
+
+
+
