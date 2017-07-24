@@ -94,7 +94,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | CSVs | Rachel Wu | |
 | Claimed | Excel files | Walter Yang | |
 | Not Claimed | Where will files be online (database online, web pages, files) | | |
-| Not Claimed | Data clearning process (Messy vs Tidy) | | |
+| Claimed | Data clearning process (Messy vs Tidy) | Rachel Wu | |
 | Not Claimed | How to find R packages for different data types | | |
 | Not Claimed | rstats.cetfile | | |
 
@@ -117,7 +117,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Not Claimed | Plotly | | |
 | Not Claimed | D3 | | |
 | Claimed | gganimate | Daniel Kim | |
-| Not Claimed | How to make beautiful plots | | |
+| Claimed | How to make beautiful plots |Rachel Wu | |
 | Claimed | Pushing/Pulling on Github (Own repo and others) | Daniel Kim | |
 | Claimed | Common errors and conflicts | Daniel Kim | |
  
