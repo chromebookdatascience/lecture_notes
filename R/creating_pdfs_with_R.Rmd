@@ -1,0 +1,84 @@
+---
+title: "Creating PDFs with R"
+author: Luke
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Creating PDFs with R
+R Markdown reports can be exported into multiple file formats, including Word documents (.docx), HTML webpages (.html), or PDFs (.pdf). R allows for greater flexibility through the formatting options available, and new packages are constantly being developed to include other file formats and programs. 
+One of the most basic file outputs is the PDF. Combining embedded code blocks, the YAML header, and markdown together, the user can render the plain text R Markdown report and create a PDF. However, plain text is limited in its formatting, and even with markdown's more efficient formatting, it cannot account for all of the formatting provided and desired in the output file formats. To account for the different features each file type provides, R Markdown rendering allows for additional settings and options that a markdown file can not provide by itself. Some of the features are taken care of by YAML.
+
+## File Output
+The YAML header at the beginning of the R Markdown file dictates what file type that R should render. One of the options is the `output` argument. By setting the `output` to "pdf_document", R will convert the R Markdown file to a PDF file. For example, the YAML header should include the three dashes at the beginning and at the end of the header, and the `output` argument is set to "pdf_document", as shown below.
+```
+---
+title: "Habits"
+author: John Doe
+date: March 22, 2005
+output: pdf_document
+---
+```
+
+Another option is to render a slideshow PDF document. This is accomplished by setting the `output` argument to `beamer_presentation`. By doing so, `rmarkdown` will generate a new slide at each header or horizontal rule (`***`). The purpose of the horizontal rule is to allow the user to dictate where each slide should begin and end.
+
+## Table of Contents
+One of the many options available is adding a table of contents. In the `YAML` header, a new line can be given to the table of contents, indicated by the `toc` argument in the header. Under the `toc` argument is the `toc_depth` argument, which specifies the depth of the headers to be included. A depth of "1" is only the main headers, while "2" includes the main headers and sub-headers, while "3" includes the headers, sub-headers, and sub-sub-headers. The default depth is "3". In the following example, the table of contents `toc` is set to `true`, and the `toc_depth` is set to "2". Both the `toc` and the `toc_depth` are sub-arguments of the `output: pdf_document` option, so they are indented twice. 
+```
+---
+title: "Habits"
+author: John Doe
+date: March 22, 2005
+output: 
+  pdf_document:
+    toc: true
+    toc_depth: 2
+---
+```
+
+
+## Figure Options
+For R Markdown files, most figures are graphs or plots that take an uncertain and unintuitive amount of space. Sometimes, this may be an issue, so R provides a robust graphics package that gives the user an incredible amount of control. This includes the dimensions of the figures that will be rendered to the final document. There are a number of options that affect the rendered outputs in PDF documents.
+* The `fig_width` and `fig_height` options can overwrite the default width and height, respectively. By default, the dimensions of the figures are set to 6 x 4.5
+* The `fig_crop` option controls whether the R figures are automatically trimmed of white space and resized to fit the document. For this option, the pdfcrop utility must be available.
+* The `fig_caption` option controls whether figures are rendered with captions (default is false)
+* The `dev` option controls with graphics device is used to render figures. The default is pdf and is usually satisfactory.
+
+An example is:
+```
+---
+title: "Habits"
+output:
+  pdf_document:
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+```
+
+## Syntax Highlighting
+R Markdown rendering also supports syntax highlighting, which provides color coded text. Colored text is mostly used for displaying code in different colors according to their categories. This makes code easier to read. Styles include “default”, “tango”, “pygments”, “kate”, “monochrome”, “espresso”, “zenburn”, and “haddock”, and "null" for no highlighting.
+For example:
+```
+---
+title: "Habits"
+output:
+  pdf_document:
+    highlight: tango
+---
+```
+
+## Additional Information
+Additional features and more advanced options can be found [here](http://rmarkdown.rstudio.com/pdf_document_format.html).
+
+## Summary
+R Markdown documents can be rendered as PDFs, either as the conventional document or as a slideshow document. The render output is primarily determined by the YAML header, which contains many options and features, including output file type, table of contents, figure options, and syntax highlighting.
+
+## Review
+* Which framework determines the output file type?
+* How does the user specify which file type to render?
+* What is a supported syntax highlighting theme?
