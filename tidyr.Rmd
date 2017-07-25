@@ -12,6 +12,13 @@ output:
 # Tidyr
 
 ### Objectives
+By then end you will know:
+- What the package tidyr is used for.
+- What tidy data is defined as.
+- How to install the package.
+- How to use 2 very important functions from the package.
+    + gather()
+    + spread()
 
 ## Introduction
 The main use of the package tidyr is to help create **tidy data**. Tidy data is defined as:
@@ -146,12 +153,30 @@ sep | If NULL, the column names will be taken from the values of key variable. I
 #### Example
 Spread and gather functions are complements. While gather is trying to make "wide" data frames longer, spread makes "long" data frames wider.
 
-Lets
+Lets start by making a "wide" data set by writing the code below
 ````
-# Use 'convert = TRUE' to produce variables of mixed type
 df <- data.frame(row = rep(c(1, 51), each = 3),
 var = c("Sepal.Length", "Species", "Species_num"),
 value = c(5.1, "setosa", 1, 7.0, "versicolor", 2))
-df %>% spread(var, value) %>% str
-df %>% spread(var, value, convert = TRUE) %>% str
 ````
+A visual representation of this data frame would look like this:
+
+row  | var | value
+---|---|---
+1 | Sepal.Length | 5.1
+1 | Species | setosa
+1 | Species_num | 1
+51 | Sepal.Length | 7
+51 | Species | versicolor
+51 | Species_num | 2
+
+Now use the spread functions for the columns "var" and "value" as shown below:
+````
+spread(df, var, value)
+````
+This will give the following table
+
+  row | Sepal.Length   | Species | Species_num
+  ---|---|---|---
+   1     |     5.1  |   setosa       |    1
+  51     |       7  | versicolor      |     2
