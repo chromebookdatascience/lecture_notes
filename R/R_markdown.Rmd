@@ -9,10 +9,10 @@ output:
     fig_height: 5
 ---
 
-#R Markdown
+# R Markdown  
 
-##What is R Markdown?
-R Markdown is a file format that uses R to make interactive documents. A R Markdown document (.Rmd file) is written in markdown, a minimalist plain text format with the organizational power of word processors, and it contains embedded blocks of R code. 
+## What is R Markdown?  
+R Markdown is a file format that uses R to make interactive documents. A R Markdown document (.Rmd file) is written in markdown, a minimalist plain text format with the organizational power of word processors, and it contains embedded blocks of R code.  
 
 R Markdown files are designed to be used with the `rmarkdown` package. This package comes with the default RStudio installation, but it can be installed with the command
 ```
@@ -20,27 +20,27 @@ R Markdown files are designed to be used with the `rmarkdown` package. This pack
 ``` 
 
 
-##The R Markdown File
-A R Markdown file contains dynamic elements that are embedded in the plain text, structured by markdown formatting. The following text file is an example of a R Markdown document. 
-![Example Rmd file](example_rmd.png)
+## The R Markdown File  
+A R Markdown file contains dynamic elements that are embedded in the plain text, structured by markdown formatting. The following text file is an example of a R Markdown document.  
+![Example Rmd file](https://user-images.githubusercontent.com/21327023/28565060-0ad98d18-70f9-11e7-86ee-32a437dfd62b.png)  
 With R Studio's highlighting, from first glance it is apparent that there are three different frameworks in the R Markdown document:  
 1. The header separated by the triple dashes `---`, known as the YAML header for rendering parameters
 2. The embedded code in the gray blocks, separated by the triple backticks and curly brackets with a 'r' inside `` ```{r} ``  
 3. The remaining formatted markdown plain text  
 * Within the plain text, there are small in-line code blocks surrounded by single backticks `` `code block` ``
 
-R Studio can _render_ the raw R Markdown document and transform it into a suitable document for sharing data and results, such as a Word document, PDF, or a HTML5 webpage. R Studio enlists the help of the `knitr` package to run each embedded code block and add it to the document, while the `pandoc` package outputs the document and code into the designated file format according to the YAML header. As a result, the example R Markdown document becomes a formatted and ready-to-share document. 
-![Rendered example Rmd file](example_rendered_rmd.png)
+R Studio can _render_ the raw R Markdown document and transform it into a suitable document for sharing data and results, such as a Word document, PDF, or a HTML5 webpage. R Studio enlists the help of the `knitr` package to run each embedded code block and add it to the document, while the `pandoc` package outputs the document and code into the designated file format according to the YAML header. As a result, the example R Markdown document becomes a formatted and ready-to-share document.  
+![Rendered example Rmd file](https://user-images.githubusercontent.com/21327023/28565059-0acd1394-70f9-11e7-9238-3b9d386b8596.png)  
 
 
-##Getting Started
+## Getting Started  
 R markdown files can be created by opening a plain text and saving the file with the _.Rmd_ file extension. The _.Rmd_ extension is necessary for R Studio to recognize the document as a R Markdown file. In RStudio Cloud, this can be done by going to the toolbar and clicking on _File_ > _New File_ > _Text File_.  This will open an empty text file in the text editor window.  
-![New Rmd file](new_rmd.png)
+![New Rmd file](https://user-images.githubusercontent.com/21327023/28565061-0add5ed4-70f9-11e7-9c04-a58b3c2375fd.png)  
 
-As noted earlier, R Markdown relies on three frameworks to produce professional documents: markdown for formatted text, embedded code, and the YAML header.
+As noted earlier, R Markdown relies on three frameworks to produce professional documents: markdown for formatted text, embedded code, and the YAML header.  
 
-##Markdown Basics
-Markdown is necessary to format and organize information without the help of a word processor such as Microsoft Office Word program. This allows the user to indicate lists, bold and italic text, hyperlinks, and much more without having to copy and paste special characters. 
+## Markdown Basics  
+Markdown is necessary to format and organize information without the help of a word processor such as Microsoft Office Word program. This allows the user to indicate lists, bold and italic text, hyperlinks, and much more without having to copy and paste special characters.  
 
 In addition, markdown conventions are clear and easy to read:
 1. Italic text is indicated by surrounding text with the asterisk (`*`) or underscore (`_`) characters, like `*italic words*` or `_more italic words_`. Bold text is indicated by surrounding text with two consecutive asterisks (`**`) or two underscores (`__`), like `**bold words**` or `__more bold words__`.
@@ -60,19 +60,19 @@ In addition, markdown conventions are clear and easy to read:
     * Item 2
 	     + sub-item 1
 	     + sub-item 2
-	 ```
+    ```
 4. Code blocks, as mentioned earlier, are indicated by the triple backticks and the curly brackets surrounding a 'r' (`` ```{r} ``), and in-line code blocks are indicated by a single backtick followed by a "r" (`` `r ``). Code will be run and executed during rendering.
     Code blocks:
-	````
-	```{r}
+    ````
+    ```{r}
     summary(cars)
     dim(cars)
     ```
-	````
-	In-line code:
-	````
-	This is in-line code: `r code goes here`.
-	````
+    ````
+    In-line code:
+    ````
+    This is in-line code: `r code goes here`.
+    ````
 5. Plain code blocks are not evaluated by R Studio, but they are rendered at a fixed-width font. Unlike the previous example of code blocks, plain code blocks require only the triple ticks without the `{r}`.
     ````
     ```
@@ -80,12 +80,12 @@ In addition, markdown conventions are clear and easy to read:
     ```
     ```` 
 6. External links can be a simple URL (e.g. https://github.com), or a phrase can be hyperlinked to another url. For example, `[Github hyperlink](https://github.com)` generates a [Github hyperlink](https://github.com).
-7. Images are similar to linked phrases for URLs, except embedded images require an exclamation mark at the beginning. The text inside the square brackets provides the image caption that appears when the mouse hovers over the image. For example, `![](https://url-to-image)` embeds an image without a caption, while `![Image caption](https://url-to-image)` adds a caption.
+7. Images are similar to linked phrases for URLs, except embedded images require an exclamation mark at the beginning. The text inside the square brackets provides the image caption that appears when the mouse hovers over the image. For example, `![](https://url-to-image)` embeds an image without a caption, while `![Image caption](https://url-to-image)` adds a caption.  
 
-Additional markdown formatting can be found in [R Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html).
+Additional markdown formatting can be found in [R Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html).  
 
-##Embedded R Code
-R Markdown supports code blocks that contain R code. The value of code blocks allows the user to easily edit and update the code without having to copy and paste new figures and results. As noted in the Markdown Basics section, markdown supports the simpler plain code blocks, but R Markdown takes code blocks one step further by running the code within the code blocks and appending the results to the document. The `knitr` package looks for the `{r}` indicator before evaluating the code block. However, the curly brackets allow for additional arguments, such as displaying the code block verbatim instead of running the code, or removing the original code and display only the results. 
+## Embedded R Code  
+R Markdown supports code blocks that contain R code. The value of code blocks allows the user to easily edit and update the code without having to copy and paste new figures and results. As noted in the Markdown Basics section, markdown supports the simpler plain code blocks, but R Markdown takes code blocks one step further by running the code within the code blocks and appending the results to the document. The `knitr` package looks for the `{r}` indicator before evaluating the code block. However, the curly brackets allow for additional arguments, such as displaying the code block verbatim instead of running the code, or removing the original code and display only the results.  
 
 The default usage of `{r}` keeps the original code block and publishes both the code block and its output. In the example R Markdown document, this is illustrated by the 
 ````
@@ -94,16 +94,16 @@ summary(cars)
 ```
 ````
 code block. Its rendered output is 
-![default rendered output](default_rendered_output.png).
+![default rendered output](https://user-images.githubusercontent.com/21327023/28565205-8874ba2c-70f9-11e7-9471-bd9201a3723d.PNG).  
 
-If the arguments inside the curly brackets included `eval=FALSE`, then R Studio and `knitr` would know to skip the evaluation step and only publish the code block. 
+If the arguments inside the curly brackets included `eval=FALSE`, then R Studio and `knitr` would know to skip the evaluation step and only publish the code block.  
 ````
 ```{r eval=FALSE}
 summary(cars)
 ```
 ````
 The addition of the `eval=FALSE` to the previous example would generate 
-![eval = FALSE output](eval_false.png)
+![eval = FALSE output](https://user-images.githubusercontent.com/21327023/28565207-887842fa-70f9-11e7-9881-f23c4a7555e0.PNG)  
 
 If `eval=FALSE`  was instead replaced by `echo=FALSE`, then `knitr` will omit the original code and only publish the code results to the final document. In this case, the code block
 ````
@@ -112,7 +112,7 @@ summary(cars)
 ```
 ````
 would render 
-![echo = FALSE output](echo_false.png)
+![echo = FALSE output](https://user-images.githubusercontent.com/21327023/28565206-8875efdc-70f9-11e7-813b-439d4f5364d9.PNG)
 
 Similarly, in-line code is surrounded by a single backtick and the letter "r". For example, the line 
 ```
@@ -122,9 +122,9 @@ would produce the output
 ```
 The sum of 2 plus 2 is 4.
 ```
-In-line code behaves like a code block with the `echo=FALSE` argument.
+In-line code behaves like a code block with the `echo=FALSE` argument.  
 
-##YAML Render Parameters
+## YAML Render Parameters  
 The final framework of the R Markdown document is the YAML rendering parameters. The YAML header is surrounded by triple dashes (`---`) and consists of `key: value` pairs. The `key` is one of many pre-defined variables that the `pandoc` package looks for when it converts the raw plain text file to its desired output. The `value` is information given by the user and tells the program what to do, like below
 ```
 ---
@@ -133,8 +133,8 @@ author: "Name"
 date: "January 1, 2000"
 output: html_document
 ---
-```
-The `output:` pair determines the file type of the rendered output. In this example, the output would be a HTML web document. In general, there are three main outputs:
+```  
+The `output:` pair determines the file type of the rendered output. In this example, the output would be a HTML web document. In general, there are three main outputs:  
 * `html_document` creates a HTML document (default)
 * `pdf_document` creates a PDF document
 * `word_document` creates a Word document
@@ -143,18 +143,18 @@ R Markdown documents can also be rendered as a slideshow document, By default, `
 * [`beamer_presentation`](http://rmarkdown.rstudio.com/beamer_presentation_format.html) - PDF slideshow document
 * [`ioslides_presentation`](http://rmarkdown.rstudio.com/ioslides_presentation_format.html) - HTML slideshow document
 * [`slide_presentation`](http://rmarkdown.rstudio.com/slidy_presentation_format.html) - alternative HTML slideshow document
-* [`revealjs::revealjs_presentation`](http://rmarkdown.rstudio.com/revealjs_presentation_format.html) - another type of HTML slideshow document
+* [`revealjs::revealjs_presentation`](http://rmarkdown.rstudio.com/revealjs_presentation_format.html) - another type of HTML slideshow document  
 
-##Summary
-R Markdown provides an easy-to-use and easy-to-read report in R. The document is written in markdown with embedded R code blocks. The `knitr` package allows the user to easily update the code by simply re-knitting the document. Also, the document can be converted into one of several familiar file formats.
+## Summary   
+R Markdown provides an easy-to-use and easy-to-read report in R. The document is written in markdown with embedded R code blocks. The `knitr` package allows the user to easily update the code by simply re-knitting the document. Also, the document can be converted into one of several familiar file formats.  
 
 
-##Additional Resources
+## Additional Resources  
 [R Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
 [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
-##Review Questions
+## Review Questions  
 1. What are the three frameworks that compose R Markdown documents?
 2. How is a header created, and what is the difference between each level of headers?
 3. What are the two kinds of lists that can be created, and how are they created?
