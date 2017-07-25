@@ -53,13 +53,15 @@ will output:
  
  Note that you must use a particular function for a particular website format.
  
- write_xml() and write_html()
- Writes and xml document and saves it. Example:
+ These two functions will enable a data scientist to read an xml or html file.
  
- write_xml(document_name, path_to_file, optional_additions)
- 
- 
-
+The next group of functions allow you to navigate around the family tree
+xml_children returns only elements.
+xml_contents returns all nodes.
+xml_length returns the number of children.
+xml_parent returns the parent node.
+xml_parents returns all parents up to the root
+xml_siblings returns all nodes at the same level
 
 
 xml2 has some further uses that will not be covered in this tutorial.  If you would like to explore further, check out the documentation.  It will be on xml2's Cran page at https://cran.r-project.org/web/packages/xml2/index.html
