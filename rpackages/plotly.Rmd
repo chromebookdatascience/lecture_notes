@@ -8,7 +8,9 @@ output:
     fig_width: 5
     fig_height: 5
 ---
-# What is plotly #
-Plotly, also known by its URL, Plot.ly, is an online data analytics and visualization tool. 
-# How to use plotly #
+# What is plotly
+Plotly, also known by its URL, Plot.ly, is an online data analytics and visualization tool.
+
+# How to use plotly
+
 
