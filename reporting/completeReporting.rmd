@@ -9,12 +9,12 @@ output:
     fig_height: 5
 ---
 ### Table of Contents
-- Objectives
-- Daily Reporting
-- Deciding on Goals
-- Reporting on Today and Tomorrow
-- The Weekly Report
-- Conclusion
+- [Objectives](./completeReporting.rmd#Objectives)
+- [Daily Reporting](./completeReporting.rmd#Daily Reporting)
+- [Deciding on Goals](./completeReporting.rmd#Deciding on Goals)
+- [Reporting on Today and Tomorrow](./completeReporting.rmd#Reporting on Today and Tomorrow)
+- [The Weekly Report](./completeReporting.rmd#The Weekly Report)
+- [Conclusion](./completeReporting.rmd#Conclusion)
 
 # Objectives:
 After following this tutorial you should be ready to start sending professional and effective reports to your employer.
