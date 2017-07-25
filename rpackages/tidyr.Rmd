@@ -180,3 +180,12 @@ This will give the following table
   ---|---|---|---
    1     |     5.1  |   setosa       |    1
   51     |       7  | versicolor      |     2
+
+## Additional resources
+
+[R Package tidyr](https://cran.r-project.org/web/packages/tidyr/tidyr.pdf)
+
+[tidyr Official page](http://tidyr.tidyverse.org/)
+
+[tidyverse resource](http://tidyverse.org/)
+
