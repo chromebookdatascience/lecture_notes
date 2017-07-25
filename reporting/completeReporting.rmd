@@ -9,9 +9,15 @@ output:
     fig_height: 5
 ---
 ### Table of Contents
+- Objectives
 - Daily Reporting
 - Deciding on Goals
-- 
+- Reporting on Today and Tomorrow
+- The Weekly Report
+- Conclusion
+
+# Objectives:
+After following this tutorial you should be ready to start sending professional and effective reports to your employer.
 
 # Part 1: Daily Reporting
 ## What is the daily report
