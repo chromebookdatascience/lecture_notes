@@ -90,3 +90,6 @@ And of course, without the quotations:
 ## What to do next
 
 Move on to the next tutorial on online markdown editors and create your own markdown documents!
+
+## 
+comment by Rachel: it will be better if you can include more basic uses such as how to add pictures.
