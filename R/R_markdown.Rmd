@@ -159,9 +159,9 @@ R Markdown provides an easy-to-use and easy-to-read report in R. The document is
 
 
 ## Additional Resources  
-[R Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
-[R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
-[R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+* [R Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
+* [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+* [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
 ## Review Questions  
 1. What are the three frameworks that compose R Markdown documents?
