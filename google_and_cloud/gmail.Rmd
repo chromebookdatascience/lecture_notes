@@ -94,6 +94,9 @@ the content of the email. The search box looks like the image below and is locat
 
 ![Search Box](https://user-images.githubusercontent.com/19320775/27216020-e2086f6a-5241-11e7-8198-f5a94cb177d9.png)
 
+##
+comment by Rachel: it will be better to show the pic of the start menu and show the whole picture of finding emails and reply.  
+
 
 
 
