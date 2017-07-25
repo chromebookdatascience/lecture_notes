@@ -19,8 +19,7 @@ output:
 # Objectives:
 After following this tutorial you should be ready to start sending professional and effective reports to your employer.
 
-# Part 1: 
-# Daily Reporting
+# Part 1: Daily Reporting
 ## What is the daily report
 The daily report in RMarkdown will be the progress report that you send to your employer every day. This allows you to get valuable feedback and to receive guidance on your progress through your data science journey. Accuracy is very important when creating your daily report. As long as you meet your deadlines, your employer will care most about looking through your progress and considering your questions and concerns. Fluff and extranenous information on materials you had to read in order to solve problems are better left off of your daily report.
 
@@ -101,8 +100,7 @@ The format of the daily report should be tailored based on your needs and your e
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-# Part 2: 
-# Deciding on Goals
+# Part 2: Deciding on Goals
 
 ## What were the goals?
 It is very important that you accurately report what the goals were for the day. It is okay to miss your goals once in a while as long as you are honest and tried your best. If you find yourself consistently missing your goals despite putting in maximum effort you should talk with your employer to create more realistic goals. Ideally your goals will be challenging but doable.
@@ -114,8 +112,7 @@ A list of tasks you need to finish by the end of the day might look intimidating
 While the daily report has many categories, this section is by far the most important. The goals that you set with your employer will largely determine your relationship with them. Choose your goals wisely and make sure to choose realistic goals that you are confident you will be able to tackle. It is far better to overachieve on easier deliverables than it is to underachieve on difficult deliverables!
 
 ----------------------------------------------------------
-# Part 3: 
-# Reporting on Today and Tomorrow
+# Part 3: Reporting on Today and Tomorrow
 ** Tip: Always think ahead - how does today's deliverable tie into the big picture  **
 
 ## What I did, What are the goals for tomorrow?
@@ -127,8 +124,7 @@ After agreeing on a set of goals with your employer, deciding how to spend your 
 Make sure to use the results from the day before to help influence your goals for tomorrow, especially if you failed to complete a deliverable. Think about what happened that prevented you from completing the deliverable, and if it was simply due to not having enough time, then talk about an easier set of deliverables for the day with your employer.
 
 ----------------------------------------------------------------------------------
-# Part 4
-# The weekly report
+# Part 4: The weekly report
 
 The weekly report is a short summary of all your daily reports. This allows both you and your employer to quickly assess your performance for the week. 
 
@@ -173,3 +169,8 @@ Tuesday
 
 You should now be able to create professional and logical reports to send to your employer.
 
+# Quick Quiz
+
+- 1) What is most important when writing your reports?
+- 2) Should you write about materials you read that helped you? What about interesting facts you learned today?
+- 3) Should you write elaborate paragraphs about each of your deliverables?
