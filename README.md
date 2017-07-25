@@ -107,7 +107,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Rdrop2 | Luke Zhu | |
 | Claimed | Googlesheets | Luke Zhu | |
 | Claimed | Dplyr | Luke Zhu | |
-| Claimed | Tidyr | Daniel Kim | |
+| Done | [Tidyr](https://github.com/chromebookdatascience/lecture_notes/blob/master/rpackages/tidyr.Rmd) | Daniel Kim | |
 | Claimed | Xm12 | Walter Yang | |
 | Not Claimed | Http | | |
 | Claimed | Stringr | Daniel Kim | |
