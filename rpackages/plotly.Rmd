@@ -12,5 +12,7 @@ output:
 Plotly, also known by its URL, Plot.ly, is an online data analytics and visualization tool.
 
 # How to use plotly
+1.Create a free Plotly account:
+A Plotly account is required to publish charts online. It's free to get started, and you control the privacy of your charts.
 
 
