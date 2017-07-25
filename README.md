@@ -114,7 +114,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | Lubridate | Daniel Kim | |
 | Not Claimed | Viz | | |
 | Claimed | Ggplot | Daniel Kim | |
-| Claimed | Plotly | Rachel Wu| |
+| Not Claimed | Plotly | | |
 | Not Claimed | D3 | | |
 | Claimed | gganimate | Daniel Kim | |
 | Not Claimed | How to make beautiful plots |  | |
