@@ -93,7 +93,7 @@ The default usage of `{r}` keeps the original code block and publishes both the 
 summary(cars)
 ```
 ````
-code block. Its rendered output is 
+code block. Its rendered output is  
 ![default rendered output](https://user-images.githubusercontent.com/21327023/28565205-8874ba2c-70f9-11e7-9471-bd9201a3723d.PNG).  
 
 If the arguments inside the curly brackets included `eval=FALSE`, then R Studio and `knitr` would know to skip the evaluation step and only publish the code block.  
@@ -102,7 +102,7 @@ If the arguments inside the curly brackets included `eval=FALSE`, then R Studio 
 summary(cars)
 ```
 ````
-The addition of the `eval=FALSE` to the previous example would generate 
+The addition of the `eval=FALSE` to the previous example would generate  
 ![eval = FALSE output](https://user-images.githubusercontent.com/21327023/28565207-887842fa-70f9-11e7-9881-f23c4a7555e0.PNG)  
 
 If `eval=FALSE`  was instead replaced by `echo=FALSE`, then `knitr` will omit the original code and only publish the code results to the final document. In this case, the code block
@@ -111,7 +111,7 @@ If `eval=FALSE`  was instead replaced by `echo=FALSE`, then `knitr` will omit th
 summary(cars)
 ```
 ````
-would render 
+would render  
 ![echo = FALSE output](https://user-images.githubusercontent.com/21327023/28565206-8875efdc-70f9-11e7-813b-439d4f5364d9.PNG)
 
 Similarly, in-line code is surrounded by a single backtick and the letter "r". For example, the line 
