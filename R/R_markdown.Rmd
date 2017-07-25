@@ -145,6 +145,15 @@ R Markdown documents can also be rendered as a slideshow document, By default, `
 * [`slide_presentation`](http://rmarkdown.rstudio.com/slidy_presentation_format.html) - alternative HTML slideshow document
 * [`revealjs::revealjs_presentation`](http://rmarkdown.rstudio.com/revealjs_presentation_format.html) - another type of HTML slideshow document  
 
+## Rendering
+Once the R Markdown document has been saved, the document can be transformed into a HTML, PDF, or Word document. To do so, open the dropdown menu with the knit options and select the appropriate output. Doing so will overide the output option in the YAML header.  
+![Knit dropdown](https://user-images.githubusercontent.com/21327023/28569363-78cd1cf0-7107-11e7-85be-2d9d48d2d8f2.PNG)
+
+`rmarkdown` will create a copy of the file in the new format, and the new file will be saved to the cloud. Files will be available through the file manager on the bottom right of RStudio Cloud. Clicking on the file name will open the file in a new tab on the browser.   
+![File manager](https://user-images.githubusercontent.com/21327023/28569339-620cfde6-7107-11e7-8982-d3cdeec64dff.PNG)
+
+Another way to render the document without the knit dropdown menu is to type the `rmarkdown::render()` command into the console beneath the text editor. Inside the parentheses, it is important to specify the name of the R Markdown document to render in quotes, like `rmarkdown::render("rmarkdown.Rmd")`. Otherwise, `rmarkdown` will not know what file to render. The `rmarkdown::render()` command will follow the rules set by the YAML header.
+
 ## Summary   
 R Markdown provides an easy-to-use and easy-to-read report in R. The document is written in markdown with embedded R code blocks. The `knitr` package allows the user to easily update the code by simply re-knitting the document. Also, the document can be converted into one of several familiar file formats.  
 
