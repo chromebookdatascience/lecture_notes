@@ -135,6 +135,6 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 ## Extras
 |status | topic | notes | reviewer |
 | :---|  :--- |  :--- |  :--- |
-| Claimed | Jupyter notebook | Walter Yang | |
+| Done | Jupyter notebook | Walter Yang | |
 | Not Claimed | Python | | |
 
