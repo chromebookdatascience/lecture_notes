@@ -46,3 +46,6 @@ By the end of the lesson, you should know:
   3. How to install Dropbox  
   4. How to access Dropbox, through the web browser or file manager  
   5. How to move files between Google Drive, Downloads folder, and the mounted Dropbox folder
+  
+  ##
+  comment by Rachel: it would be better to include how to set up an account in gmail and how to open the dropbox.
