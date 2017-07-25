@@ -117,7 +117,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Not Claimed | Plotly | | |
 | Not Claimed | D3 | | |
 | Claimed | gganimate | Daniel Kim | |
-| Claimed | How to make beautiful plots |Rachel Wu | |
+| Not Claimed | How to make beautiful plots |  | |
 | Claimed | Pushing/Pulling on Github (Own repo and others) | Daniel Kim | |
 | Claimed | Common errors and conflicts | Daniel Kim | |
  
