@@ -39,13 +39,13 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu | |
 | Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu | Rachel WU|
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu | |
-| Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu | |
-| Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim | |
+| Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu | Rachel Wu |
+| Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim |Rachel Wu|
 | Done and Reviewed | [Google Maps](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_maps.Rmd) | Albert Lee | Daniel |
 | Done | [Google Hangouts](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_hangout.Rmd) | Daniel Kim | |
 | Done | [Youtube](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/Youtube.Rmd) | Rachel Wu| |
-| Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim | |
-| Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu | |
+| Done | [Gmail/Inbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/gmail.Rmd) | Daniel Kim | Rachel Wu|
+| Done | [Dropbox](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/dropbox.Rmd) | Luke Zhu | Rachel Wu |
 | Done | [Internet friendly document formats](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/internet_friendly_document_formats.Rmd) | Daniel Kim | |
 | Done | [Slack](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/slack.Rmd) | Rachel Wu | |
 | Claimed | How to Google | Albert Lee | |
