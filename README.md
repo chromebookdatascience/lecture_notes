@@ -21,7 +21,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 |Done | [Apps (Circle menu)](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/app_menu.Rmd) | Rachel Wu | Albert Lee |
 | Claimed | [Common errors](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/common_errors.Rmd) | Rachel Wu | Changed to Claimed by Albert Lee|
 | Done | [What is a chrome app](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/what_is_a_chrome_app.Rmd) | Daniel Kim | Albert Lee |
-| Done | [MarkDown](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/markdown.Rmd) | Albert Lee | |
+| Done | [MarkDown](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/markdown.Rmd) | Albert Lee | Rachel WU|
 | Claimed | Markdown editing (Stackedit) | Albert Lee | |
 | Done | [Pixlr](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/pixlr.Rmd) | Rachel Wu| Albert Lee |
 | Done | [Suggested apps](https://github.com/chromebookdatascience/lecture_notes/blob/master/intro_and_setup/suggested_apps.Rmd) | Daniel Kim | Albert Lee |
@@ -37,7 +37,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done and reviewed | [What is the cloud?](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/what_is_the_cloud.Rmd) | Luke Zhu | |
 | Done | [How to get help](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/how_to_get_help.Rmd) | Walter Yang | |
 | Done | [Google Drive](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_drive.Rmd) | Rachel Wu | |
-| Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu | |
+| Done | [Google Sheets](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_sheets.Rmd) | Luke Zhu | Rachel WU|
 | Done | [Google Slides](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_slides.Rmd) | Luke Zhu | |
 | Done | [Google Docs](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_docs.Rmd) | Luke Zhu | |
 | Done | [Google Calendar](https://github.com/chromebookdatascience/lecture_notes/blob/master/google_and_cloud/google_calendar.Rmd) | Daniel Kim | |
