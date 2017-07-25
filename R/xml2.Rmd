@@ -8,8 +8,6 @@ output:
     fig_width: 5
     fig_height: 5
 ---
-what it is xml
-why important
 example of use
 why package important
 2-3 most important functions
@@ -24,26 +22,44 @@ The xml2 package lets you read and write html and xml documents.
 
 ## What do you mean?
 
-An HTML document 
+An HTML document is a file that contains hypertext markup language.  In simpler terms, it means text (and images and rich text elements) that is meant to be displayed on a webpage.  You may have noticed that a number of website url's end in ".html," those pages use this hypertext markup language.
+
+A XML document, or Extensive Markup Language, is essentially a system of formatting that creates documents that both man and machine can read.  It has a number of uses, but the one we will be focusing on is it's use in representing arbitrary data structures.
 
 ## Installation
 
-xml2 can be installed from CRAN.
+xml2, like a number of other packages, can be installed from CRAN.
 
 *Step 1:* Open up RStudio
 *Step 2:* Type in the following *exactly* as it appears:
 install.packages("xml2")
 xml2 will then be installed onto your device.
 
+## Using xml2
 
-Compared to the XML package
+read_xml() and read_html()
+Both of these functions, as their names suggest read whatever document is named in the argument (what is placed within the parentheses.  Here are some examples:
 
-xml2 has similar goals to the XML package. The main differences are:
+read_xml("<Hello>world /></Hello>")
+will output:
+(xml_document)
+<Hello>
+  
+ You can even use this function to read documents by url:
+ 
+ read_xml("http://www.xmlfiles.com/examples/cd_catalog.xml")
+ or
+ read_html("http://had.co.nz")
+ 
+ Note that you must use a particular function for a particular website format.
+ 
+ write_xml() and write_html()
+ Writes and xml document and saves it. Example:
+ 
+ write_xml(document_name, path_to_file, optional_additions)
+ 
+ 
 
-xml2 takes care of memory management for you. It will automatically free the memory used by an XML document as soon as the last reference to it goes away.
 
-xml2 has a very simple class hierarchy so don't need to think about exactly what type of object you have, xml2 will just do the right thing.
-
-More convenient handling of namespaces in Xpath expressions - see xml_ns() and xml_ns_strip() to get started.
 
 xml2 has some further uses that will not be covered in this tutorial.  If you would like to explore further, check out the documentation.  It will be on xml2's Cran page at https://cran.r-project.org/web/packages/xml2/index.html
