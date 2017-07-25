@@ -12,7 +12,23 @@ output:
 Plotly, also known by its URL, Plot.ly, is an online data analytics and visualization tool.
 
 # How to use plotly
-1.Create a free Plotly account:
+1. install the latest development version (on Github) via devtools:
+devtools::install_github("ropensci/plotly")
+Copy to clipboard!
+
+RStudio users should download the latest RStudio release for compatibility with htmlwidgets.
+Initialization for Offline Plotting
+
+By default, Plotly for R runs locally in your web browser or in the R Studio viewer.
+library(plotly)
+p <- plot_ly(midwest, x = ~percollege, color = ~state, type = "box")
+p
+Copy to clipboard!
+Simply printing the Plotly object will render the chart locally in your web browser or in the R Studio viewer.
+2. Create a free Plotly account:
 A Plotly account is required to publish charts online. It's free to get started, and you control the privacy of your charts.
+![screenshot 2017-07-24 at 10 24 36 pm](https://user-images.githubusercontent.com/28161368/28552982-43307530-70bf-11e7-8820-4aaf2692438a.png)
+
+
 
 
