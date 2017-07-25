@@ -37,3 +37,6 @@ To turn on offline mode:
 4. Toggle the "Offline" switch to on  
 ![Offline mode on](https://user-images.githubusercontent.com/21327023/26970156-4febf0b8-4cd6-11e7-87b2-2cb5d40ef7f6.png)  
 5. Offline mode for Sheets will also be applied to Google Docs and Slides.
+
+##
+comment by Rachel: I love the specific illustrations you put here.
