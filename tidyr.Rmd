@@ -61,23 +61,86 @@ There are two fundamental functions used for data tidying:
 - `spread()`. Takes two columns (key & value) and spreads in to multiple columns, it makes “long” data wider.
 
 ### 1. gather()
+
 #### Usage
 ```
 gather(data, key, value, ..., na.rm = FALSE, convert = FALSE, factor_key = FALSE)
 ```
 #### Arguments
-- **data** A data frame.
+Arguments  | Definition
+------------- | -------------
+data  | A data frame.
+key, value  | Names of key and value columns to create in output.
+... | Specification of columns to gather. Use bare variable names. Select all variables between x and z with x:z, exclude y with -y. For more options, see the select documentation.
+na.rm | If TRUE, will remove rows from output where the value column in NA.
+convert | If TRUE will automatically run type.convert on the key column. This is useful if the column names are actually numeric, integer, or logical.
+factor_key | If FALSE, the default, the key values will be stored as a character vector. If TRUE, will be stored as a factor, which preserves the original ordering of the columns.
 
-- **key, value** Names of key and value columns to create in output.
+#### Example
+````
+library(dplyr)
+# From http://stackoverflow.com/questions/1181060
+stocks <- data_frame(
+time = as.Date('2009-01-01') + 0:9,
+X = rnorm(10, 0, 1),
+Y = rnorm(10, 0, 2),
+Z = rnorm(10, 0, 4)
+)
+gather(stocks, stock, price, -time)
+stocks %>% gather(stock, price, -time)
+# get first observation for each Species in iris data -- base R
+mini_iris <- iris[c(1, 51, 101), ]
+# gather Sepal.Length, Sepal.Width, Petal.Length, Petal.Width
+gather(mini_iris, key = flower_att, value = measurement,
+Sepal.Length, Sepal.Width, Petal.Length, Petal.Width)
+# same result but less verbose
+gather(mini_iris, key = flower_att, value = measurement, -Species)
+# repeat iris example using dplyr and the pipe operator
+library(dplyr)
+mini_iris <-
+iris %>%
+group_by(Species) %>%
+slice(1)
+mini_iris %>% gather(key = flower_att, value = measurement, -Species)
+````
 
-- **...** Specification of columns to gather. Use bare variable names. Select all variables
-between x and z with x:z, exclude y with -y. For more options, see the select
-documentation.
+### 2. spread()
 
-- **na.rm** If TRUE, will remove rows from output where the value column in NA.
+#### Usage
+````
+spread(data, key, value, fill = NA, convert = FALSE, drop = TRUE, sep = NULL)
+````
 
-- **convert** If TRUE will automatically run type.convert on the key column. This is useful
-if the column names are actually numeric, integer, or logical.
+#### Arguments
+Arguments  | Definition
+------------- | -------------
+data | A data frame.
+key | The bare (unquoted) name of the column whose values will be used as column headings.
+value | The bare (unquoted) name of the column whose values will populate the cells.
+fill | If set, missing values will be replaced with this value. Note that there are two types of missingness in the input: explicit missing values (i.e. NA), and implicit missings, rows that simply aren’t present. Both types of missing value will be replaced by fill.
+convert | If TRUE, type.convert with asis = TRUE will be run on each of the newcolumns. This is useful if the value column was a mix of variables that was coerced to a string. If the class of the value column was factor or date, note that will not be true of the new columns that are produced, which are coerced to character before type conversion.
+drop | If FALSE, will keep factor levels that don’t appear in the data, filling in missing combinations with fill.
+sep | If NULL, the column names will be taken from the values of key variable. If nonNULL,the column names will be given by "<key_name><sep><key_value>".
 
-- **factor_key** If FALSE, the default, the key values will be stored as a character vector. If TRUE,
-will be stored as a factor, which preserves the original ordering of the columns.
+#### Example
+````
+library(dplyr)
+stocks <- data.frame(
+time = as.Date('2009-01-01') + 0:9,
+X = rnorm(10, 0, 1),
+Y = rnorm(10, 0, 2),
+Z = rnorm(10, 0, 4)
+)
+stocksm <- stocks %>% gather(stock, price, -time)
+stocksm %>% spread(stock, price)
+stocksm %>% spread(time, price)
+# Spread and gather are complements
+df <- data.frame(x = c("a", "b"), y = c(3, 4), z = c(5, 6))
+df %>% spread(x, y) %>% gather(x, y, a:b, na.rm = TRUE)
+# Use 'convert = TRUE' to produce variables of mixed type
+df <- data.frame(row = rep(c(1, 51), each = 3),
+var = c("Sepal.Length", "Species", "Species_num"),
+value = c(5.1, "setosa", 1, 7.0, "versicolor", 2))
+df %>% spread(var, value) %>% str
+df %>% spread(var, value, convert = TRUE) %>% str
+````
