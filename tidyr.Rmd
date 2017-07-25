@@ -1,0 +1,83 @@
+---
+title: Tidyr
+author: Daniel Kim
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
+
+# Tidyr
+
+### Objectives
+
+## Introduction
+The main use of the package tidyr is to help create **tidy data**. Tidy data is defined as:
+1. Each variable is in a column.
+2. Each observation is a row.
+3. Each value is a cell.
+
+You can find the official R guideline [here](https://cran.r-project.org/web/packages/tidyr/tidyr.pdf).
+
+## Installation
+
+The easiest way to get tidyr is to install the whole tidyverse.
+Tidyverse package includes packages such as:
+ - ggplot2
+ - tibble
+ - tidyr
+ - readr
+ - purrr
+ - dplyr
+ 
+You can install this packages by typing:
+```
+install.packages("tidyverse")
+```
+
+Alternatively, install just tidyr:
+```
+install.packages("tidyr")
+```
+
+Or the the development version from GitHub:
+```
+install.packages("devtools")
+devtools::install_github("tidyverse/tidyr")
+```
+
+## Getting Started
+
+Start by loading and attaching the package.
+```
+library(tidyr)
+```
+
+There are two fundamental functions used for data tidying:
+
+- `gather()`. Takes multiple columns, and gathers them into key-value pairs: it makes “wide” data longer.
+- `spread()`. Takes two columns (key & value) and spreads in to multiple columns, it makes “long” data wider.
+
+### 1. gather()
+#### Usage
+```
+gather(data, key, value, ..., na.rm = FALSE, convert = FALSE, factor_key = FALSE)
+```
+#### Arguments
+- **data** A data frame.
+
+- **key, value** Names of key and value columns to create in output.
+
+- **...** Specification of columns to gather. Use bare variable names. Select all variables
+between x and z with x:z, exclude y with -y. For more options, see the select
+documentation.
+
+- **na.rm** If TRUE, will remove rows from output where the value column in NA.
+
+- **convert** If TRUE will automatically run type.convert on the key column. This is useful
+if the column names are actually numeric, integer, or logical.
+
+- **factor_key** If FALSE, the default, the key values will be stored as a character vector. If TRUE,
+will be stored as a factor, which preserves the original ordering of the columns.
