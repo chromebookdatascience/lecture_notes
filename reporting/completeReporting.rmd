@@ -22,11 +22,11 @@ After following this tutorial you should be ready to start sending professional 
 # Part 1: 
 # Daily Reporting
 ## What is the daily report
-The daily report in RMarkdown will be the progress report that you send to your employer every day. This allows you to get valuable feedback and to get guidance on your progress through your data science journey. One of the most important parts of your daily report should be that you are as accurate as possible about your progress. As long as you meet your deadlines, your employer will care much more about looking through your progress and answering your questions as efficiently as possible. Fluff and extranenous information on materials you had to read in order to solve problems are better left off of your daily report.
+The daily report in RMarkdown will be the progress report that you send to your employer every day. This allows you to get valuable feedback and to receive guidance on your progress through your data science journey. Accuracy is very important when creating your daily report. As long as you meet your deadlines, your employer will care most about looking through your progress and considering your questions and concerns. Fluff and extranenous information on materials you had to read in order to solve problems are better left off of your daily report.
 
 ## The format
  
- The format of the daily report should be tailored based on your needs and your employers needs. This is merely a template for what you can use as your daily report. 
+The format of the daily report should be tailored based on your needs and your employers needs. This is merely a template for what you can use as your daily report.
  
  ```
  # Daily report for ___insert today's date___
