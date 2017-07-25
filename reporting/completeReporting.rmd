@@ -169,5 +169,7 @@ Tuesday
  ```
 
 
+# Conclusion
 
+You should now be able to create professional and logical reports to send to your employer.
 
