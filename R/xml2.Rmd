@@ -8,3 +8,42 @@ output:
     fig_width: 5
     fig_height: 5
 ---
+what it is xml
+why important
+example of use
+why package important
+2-3 most important functions
+  reading
+  display
+  analysis
+
+
+## xml2
+
+The xml2 package lets you read and write html and xml documents.
+
+## What do you mean?
+
+An HTML document 
+
+## Installation
+
+xml2 can be installed from CRAN.
+
+*Step 1:* Open up RStudio
+*Step 2:* Type in the following *exactly* as it appears:
+install.packages("xml2")
+xml2 will then be installed onto your device.
+
+
+Compared to the XML package
+
+xml2 has similar goals to the XML package. The main differences are:
+
+xml2 takes care of memory management for you. It will automatically free the memory used by an XML document as soon as the last reference to it goes away.
+
+xml2 has a very simple class hierarchy so don't need to think about exactly what type of object you have, xml2 will just do the right thing.
+
+More convenient handling of namespaces in Xpath expressions - see xml_ns() and xml_ns_strip() to get started.
+
+xml2 has some further uses that will not be covered in this tutorial.  If you would like to explore further, check out the documentation.  It will be on xml2's Cran page at https://cran.r-project.org/web/packages/xml2/index.html
