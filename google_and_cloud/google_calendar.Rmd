@@ -80,5 +80,6 @@ Start by clicking on the down arrow next to "My Calendars" and select "Create ne
 
 ![Editing calendar settings](https://cloud.githubusercontent.com/assets/19320775/26750257/ded990a4-47eb-11e7-89a4-d20755e611a3.png)
 
-
+##
+comment by Rachel: it would be better
 
