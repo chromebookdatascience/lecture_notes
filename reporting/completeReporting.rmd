@@ -10,10 +10,10 @@ output:
 ---
 ### Table of Contents
 - [Objectives](./completeReporting.rmd#Objectives)
-- [Daily Reporting](./completeReporting.rmd#Daily Reporting)
-- [Deciding on Goals](./completeReporting.rmd#Deciding on Goals)
-- [Reporting on Today and Tomorrow](./completeReporting.rmd#Reporting on Today and Tomorrow)
-- [The Weekly Report](./completeReporting.rmd#The Weekly Report)
+- [Daily-Reporting](./completeReporting.rmd#Daily_Reporting)
+- [Deciding-on-Goals](./completeReporting.rmd#Deciding on Goals)
+- [Reporting-on-Today-and-Tomorrow](./completeReporting.rmd#Reporting on Today and Tomorrow)
+- [The-Weekly-Report](./completeReporting.rmd#The Weekly Report)
 - [Conclusion](./completeReporting.rmd#Conclusion)
 
 # Objectives:
