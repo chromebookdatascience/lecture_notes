@@ -1,1 +1,10 @@
-
+---
+title: "Xml2"
+author: "Walter"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 5
+    fig_height: 5
+---
