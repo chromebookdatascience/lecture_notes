@@ -174,3 +174,28 @@ You should now be able to create professional and logical reports to send to you
 - 1) What is most important when writing your reports?
 - 2) Should you write about materials you read that helped you? What about interesting facts you learned today?
 - 3) Should you write elaborate paragraphs about each of your deliverables?
+
+# Exercises
+
+What would you rate on a scale from 1-10 the following daily report? 1 is horrendously bad while 10 is perfectly written.
+
+1) Josh's daily report
+```
+ # Daily report
+ Josh
+ 
+ ---------------------------------------------
+ 
+ Tasks for today:
+ - [ ] Edit excel document
+ - [ ] Create bar graph
+ - [ ] Send rMarkdown file with process
+ 
+ -------------------------
+ 
+ ## Important questions or comments
+ Need to change colors on bar graph so they are not so similar
+
+```
+
+2) Selena's daily report
