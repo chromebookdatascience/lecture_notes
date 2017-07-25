@@ -126,7 +126,7 @@ Make sure to use the results from the day before to help influence your goals fo
 ----------------------------------------------------------------------------------
 # Part 4: The weekly report
 
-The weekly report is a short summary of all your daily reports. This allows both you and your employer to quickly assess your performance for the week. 
+The weekly report is a short summary of all your daily reports. This allows both you and your employer to quickly assess your performance for the week. Take note that the weekly report is simply the major bullet points for each of your daily reports for the week.
 
 ## The format
 
