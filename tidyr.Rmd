@@ -71,15 +71,34 @@ Arguments  | Definition
 ------------- | -------------
 data  | A data frame.
 key, value  | Names of key and value columns to create in output.
-... | Specification of columns to gather. Use bare variable names. Select all variables between x and z with x:z, exclude y with -y. For more options, see the select documentation.
+... | Specification of columns to gather. Use bare variable names. Select all variables between x and z with x:z, exclude y with -y.
 na.rm | If TRUE, will remove rows from output where the value column in NA.
 convert | If TRUE will automatically run type.convert on the key column. This is useful if the column names are actually numeric, integer, or logical.
 factor_key | If FALSE, the default, the key values will be stored as a character vector. If TRUE, will be stored as a factor, which preserves the original ordering of the columns.
 
 #### Example
+If for example we have a data frame containing multiple time series stored in columns. The first column contains dates, and subsequent columns are independent time series each with a name. The column headers are the variable names.
+
+A visual representation would look like this:
+
+t  | X | Y | Z
+--- | --- | --- | ---
+2009-01-01 | -1.8763317 | -0.1885183 | -6.655663
+2009-01-02 | -1.3566227 | -2.1851226 | -3.863576
+2009-01-03 | -1.3447188 | 2.4180249  | -1.543931
+
+The R code for the data frame can be obtained by typing the code below:
+```{r}
+t <- seq(as.Date('2009-01-01'),by='days',length=10)
+X <- rnorm(10,0,1)
+Y <- rnorm(10,0,2)
+Z <- rnorm(10,0,4)
+
+dat <- data.frame(t,X,Y,Z)
+```
+
 ````
 library(dplyr)
-# From http://stackoverflow.com/questions/1181060
 stocks <- data_frame(
 time = as.Date('2009-01-01') + 0:9,
 X = rnorm(10, 0, 1),
@@ -88,6 +107,8 @@ Z = rnorm(10, 0, 4)
 )
 gather(stocks, stock, price, -time)
 stocks %>% gather(stock, price, -time)
+````
+```{r}
 # get first observation for each Species in iris data -- base R
 mini_iris <- iris[c(1, 51, 101), ]
 # gather Sepal.Length, Sepal.Width, Petal.Length, Petal.Width
@@ -102,7 +123,7 @@ iris %>%
 group_by(Species) %>%
 slice(1)
 mini_iris %>% gather(key = flower_att, value = measurement, -Species)
-````
+```
 
 ### 2. spread()
 
