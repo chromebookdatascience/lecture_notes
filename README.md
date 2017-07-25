@@ -76,9 +76,9 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Done | [Tour of R Studio](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/tour_of_rstudio.Rmd) | Luke Zhu | |
 | Done | [Getting data in](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/getting_data_in_R.Rmd) | Luke Zhu | |
 | Done | [Add on packages](https://github.com/chromebookdatascience/lecture_notes/blob/master/R/add_on_packages_R.Rmd) | Luke Zhu | |
-| Claimed | R Markdown | Luke Zhu | |
-| Claimed | R Reports | Luke Zhu | |
-| Claimed | Creating pdfs with R | Luke Zhu | |
+| Done | R Markdown | Luke Zhu | |
+| Done | R Reports | Luke Zhu | |
+| Done | Creating pdfs with R | Luke Zhu | |
 | Claimed | How to connect to Github | Luke Zhu | |
 | Claimed | Exporting R data to Google Sheets | Luke Zhu | |
  
