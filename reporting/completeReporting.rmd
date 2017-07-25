@@ -17,7 +17,7 @@ output:
 - Conclusion
 
 # Objectives:
-After following this tutorial you should be ready to start sending professional and effective reports to your employer.
+After following this tutorial you should be ready to start sending professional and effective reports to your employer. This will help your employer understand how you spend your time, and will prevent miscommunication about objectives.
 
 # Part 1: Daily Reporting
 ## What is the daily report
@@ -179,10 +179,10 @@ You should now be able to create professional and logical reports to send to you
 
 What would you rate on a scale from 1-10 the following daily report? 1 is horrendously bad while 10 is perfectly written.
 
-1) Josh's daily report
+1) Justin's daily report
 ```
  # Daily report
- Josh
+ Justin Bieber
  
  ---------------------------------------------
  
@@ -199,3 +199,73 @@ What would you rate on a scale from 1-10 the following daily report? 1 is horren
 ```
 
 2) Selena's daily report
+
+ ```
+ # Daily report for Selena
+ Selena Gomez
+ 
+ Reviewed by ____________
+ ---------------------------------------------
+ 
+ Tasks for today:
+ - [ ] Write classification code
+    - [ ] Run Mark's tutorial on classification
+    - [ ] Create RMarkdown file with my steps
+    - [ ] Output a graph with the classification labels as the result
+ - [ ] Administrative duties
+    - [ ] Send email to department
+    - [ ] Edit grant proposal
+    - [ ] Send edits to Professor Pitbull
+ - [ ] Delegation work
+    - [ ] Write objectives for Mark
+    - [ ] Inform him which tasks he needs to complete
+    - [ ] Give him a specific deadline
+ 
+ -------------------------
+ 
+ Proposed tasks for tomorrow:
+ - [ ] Administrative duties
+    - [ ] Meet with Professor Pitbull to discuss edits to grants
+    - [ ] Talk to department if they do not reply
+    - [ ] Create a schedule where people can create appointments with me
+ - [ ] Code for Report
+    - [ ] Create RMarkdown file with alternative classification method
+    - [ ] Write sudo-code in latex
+ 
+ -------------------------
+  ## Important questions or comments
+ - Crucial to make sure department finishes our paperwork
+ - Meeting tomorrow 10 AM tomorrow
+ '''
+ 
+ 3) Yechan's daily report
+ 
+  ```
+ # Weekly Reports for Yechan
+ Yech
+ 
+ Reviewed by ____space for employer signature____
+ ---------------------------------------------
+ 
+ Tasks for today:
+ - [ ] Data cleaning
+    - [ ] Upload csv to google drive
+    - [ ] Make sure every box has a number in it
+    - [ ] If the box doesn't have a number fill it with red
+ - [ ] Data visualization
+    - [ ] Create RMarkdown file
+    - [ ] Add csv and read data
+    - [ ] Create plot from csv with ggplot2
+
+-------------------------
+ 
+ Proposed tasks for tomorrow:
+ - [ ] Online meeting
+    - [ ] Talk to boss
+    - [ ] Translate data header to spanish
+    - [ ] Convert code from Java to R
+
+------------------------------------------
+ ## Important questions or comments
+ ___insert questions and comments here___
+ ```
