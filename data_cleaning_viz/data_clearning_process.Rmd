@@ -12,15 +12,15 @@ output:
 Data cleanning can help us eliminate errors, eliminate redundancy,increase Data reliability, deliver accuracy, ensure consistency,assure completeness and provide feedback for improvements.
 
 # how to keep data cleaning #
-We follow five steps to keep data cleanning.
+Generally, to do data cleanning, we need to follow five steps to keep data cleanning.
 1. Plan.
-First off, you want to identify the set of data that is critical for making your marketing efforts the best they can possibly be. When looking at data you should focus on high priority data, and start small. The fields you will want to identify will be unique to your business and what information you are specifically looking for, but it may include: job title, role, email address, phone, industry, revenue, etc.
-It would be beneficial to create and put into place specific validation rules at this point to standardize and cleanse the existing data as well as automate this process for the future. For example, making sure your postal codes and state codes agree, making sure the addresses are all standardized the same way, etc. Seek out your IT team members in help with setting these up! They are more help than just deleting a virus!
+First off, you want to identify the set of data that is critical for you and what information you do not necessarily need. 
+It would be beneficial to create and put into place specific validation rules at this point to standardize and cleanse the existing data as well as automate this process for the future. 
 2. Analyze to Cleanse
 After you have an idea of the priority data your company desires, it’s important to go through the data you already have in order to see what is missing, what can be thrown out, and what, if any, are gaps between them.
-You will also need to identify a set of resources to handle and manually cleanse exceptions to your rules. The amount of manual intervention is directly correlated to the amount of acceptable levels of data quality you have. Once you build out a list of rules or standards, it’ll be much easier to actually begin cleansing.
+Once you build out a list of rules or standards, it’ll be much easier to actually begin cleansing.
 3. Implement Automation
-Once you’ve begun to cleanse, you should begin to standardize and cleanse the flow of new data as it enters the system by creating scripts or workflows. These can be run in real-time or in batch (daily, weekly, monthly) depending on how much data you’re working with. These routines can be applied to new data, or to previously keyed-in data.
+Once you’ve begun to cleanse, you should begin to standardize and cleanse the flow of new data as it enters the system by creating scripts or workflows. These can be run in real-time or in batch (daily, weekly, monthly) depending on how much data you’re working with.
 4. Append Missing Data
 Step four is important especially for records that cannot be automatically corrected. Examples of this are emails, phone numbers, industry, company size, etc.
 It’s important to identify the correct way of getting a hold of the missing data, whether it’s from 3rd party append sites, reaching out to the contacts or just via good old-fashioned Google.
