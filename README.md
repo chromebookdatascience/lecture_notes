@@ -94,7 +94,7 @@ Publishable - after you make edits corresponding to the tutorial based off of th
 | Claimed | CSVs | Rachel Wu | |
 | Claimed | Excel files | Walter Yang | |
 | Not Claimed | Where will files be online (database online, web pages, files) | | |
-| Claimed | Data clearning process (Messy vs Tidy) | Rachel Wu | |
+| Done | Data clearning process (Messy vs Tidy) | Rachel Wu | |
 | Not Claimed | How to find R packages for different data types | | |
 | Not Claimed | rstats.cetfile | | |
 
